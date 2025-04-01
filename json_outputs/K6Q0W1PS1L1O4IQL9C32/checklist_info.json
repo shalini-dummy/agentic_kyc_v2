@@ -1,1 +1,50 @@
-{"Item": ["Company Address Proof", "Company Annual Account and Ellipro Survey", "Company Bank and Postal Details", "Company Directorship", "Company Tax Documentation", "Company Regulatory Compliance", "Company Business Scope", "Company PEP Screening", "Company Revenue Details", "Company Market Capitalization Details"], "Status": ["Validated", "Validated", "Validated", "Pending", "Validated", "Validated", "Validated", "Missing", "Validated", "Validated"], "Comment": ["Address proof exists and issued by London City Utilities.", "Annual accounts and Ellipro scores are available for 2020-2022.", "Bank and postal details confirmed with SWIFT Code and address match.", "Some directorship information remains under review or pending verification.", "Organization complies with tax requirements globally and domestically.", "Strong commitment to regulatory compliance and adherence to legal requirements.", "Operates globally, offering financial services and supporting economic growth.", "PEP screening data is not available.", "Record revenue achieved in 2023, reflecting strong performance across business lines.", "Market capitalization details are available for 2021-2023."], "Source": ["DIM_CompanyAddressProof", "DIM_CompanyAnnualAccountsAndElliproSurvey", "DIM_CompanyBankAndPostalDetails", "DIM_CompanyDirectorship", "RagAgent", "RagAgent", "RagAgent", "NA", "RagAgent", "RagAgent"]}
+{
+    "Item": [
+        "Company Address Proof",
+        "Company Annual Account and Ellipro Survey",
+        "Company Bank and Postal Details",
+        "Company Directorship",
+        "Company Tax Documentation",
+        "Company Regulatory Compliance",
+        "Company Business Scope",
+        "Company PEP Screening",
+        "Company Revenue Details",
+        "Company Market Capitalization Details"
+    ],
+    "Status": [
+        "Validated",
+        "Validated",
+        "Validated",
+        "Pending",
+        "Pending",
+        "Pending",
+        "Pending",
+        "Missing",
+        "Missing",
+        "Missing"
+    ],
+    "Comment": [
+        "Address proof verified with utility bill.",
+        "Ellipro survey and annual accounts verified for 2020-2022.",
+        "Bank details and postal address verified.",
+        "Director verification still under review.",
+        "Tax documents require additional review.",
+        "Some regulatory compliance under review.",
+        "Business scope verification is still pending.",
+        "No PEP Screening data found for this LEI ID.",
+        "No revenue details provided.",
+        "No market capitalization details provided."
+    ],
+    "Source": [
+        "DIM_CompanyAddressProof",
+        "DIM_CompanyAnnualAccountsAndElliproSurvey",
+        "DIM_CompanyBankAndPostalDetails",
+        "DIM_CompanyDirectorship",
+        "DIM_CompanyTaxDocuments",
+        "DIM_CompanyRegulatory",
+        "DIM_CompanyBusinessScope",
+        "NA",
+        "NA",
+        "NA"
+    ]
+}

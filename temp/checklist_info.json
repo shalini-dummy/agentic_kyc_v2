@@ -1,4 +1,14 @@
-{
-  "task1": "Complete ID verification",
-  "task2": "Submit address proof"
-}
+[
+  {
+    "item": "Verify ID",
+    "status": "Completed",
+    "comment": "All good",
+    "source": "Gov ID"
+  },
+  {
+    "item": "Check Address",
+    "status": "Pending",
+    "comment": "Need more info",
+    "source": "Utility Bill"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "items": [
+    "Verify ID",
+    "Check Address"
+  ],
+  "status": [
+    "Completed",
+    "Pending"
+  ],
+  "comments": [
+    "All good",
+    "Need more info"
+  ],
+  "sources": [
+    "Gov ID",
+    "Utility Bill"
+  ]
+}

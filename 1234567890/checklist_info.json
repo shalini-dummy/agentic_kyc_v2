@@ -1,10 +1,10 @@
 {
   "items": [
-    "Verify ID",
+    "Verify ID Customer",
     "Check Address"
   ],
   "status": [
-    "Completed",
+    "Pending",
     "Pending"
   ],
   "comments": [

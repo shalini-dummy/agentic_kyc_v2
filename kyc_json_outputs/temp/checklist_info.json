@@ -13,38 +13,38 @@
   ],
   "status": [
     "Validated",
-    "Missing",
-    "Validated",
     "Pending",
-    "Missing",
     "Validated",
     "Missing",
     "Missing",
+    "Validated",
+    "Validated",
     "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Legal and Headquarters addresses are available and match.",
-    "No data regarding annual accounts or Ellipro survey provided.",
+    "Annual account data is available but Ellipro survey data is missing.",
     "BIC and postal details are available.",
-    "Parent and child entities are listed, but directorship details are absent.",
+    "Directorship details are not provided.",
     "No tax documentation data provided.",
     "Registration status and jurisdiction details are available.",
-    "No information on business scope provided.",
+    "Business scope details are provided by RagAgent.",
     "No PEP (Politically Exposed Person) screening data provided.",
-    "No revenue details provided.",
-    "No market capitalization details provided."
+    "Revenue details are provided.",
+    "Market capitalization details are provided."
   ],
   "sources": [
     "SQL",
-    "NA",
-    "SQL",
-    "SQL",
-    "NA",
+    "SQL, RagAgent",
     "SQL",
     "NA",
     "NA",
+    "SQL",
+    "RagAgent",
     "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent"
   ]
 }

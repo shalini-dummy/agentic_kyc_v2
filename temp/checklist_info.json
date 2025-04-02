@@ -1,14 +1,18 @@
-[
-  {
-    "item": "Verify ID",
-    "status": "Completed",
-    "comment": "All good",
-    "source": "Gov ID"
-  },
-  {
-    "item": "Check Address",
-    "status": "Pending",
-    "comment": "Need more info",
-    "source": "Utility Bill"
-  }
-]
+{
+  "items": [
+    "Verify ID",
+    "Check Address"
+  ],
+  "status": [
+    "Completed",
+    "Pending"
+  ],
+  "comments": [
+    "All good",
+    "Need more info"
+  ],
+  "sources": [
+    "Gov ID",
+    "Utility Bill"
+  ]
+}

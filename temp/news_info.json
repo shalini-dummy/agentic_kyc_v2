@@ -1,14 +1,6 @@
-[
-  {
-    "title": "Headline1",
-    "adversity": "High",
-    "reasoning": "Risky",
-    "news": "Breaking news 1"
-  },
-  {
-    "title": "Headline2",
-    "adversity": "Low",
-    "reasoning": "Safe",
-    "news": "Breaking news 2"
-  }
-]
+{
+  "title": "Headline1",
+  "adversity": "High",
+  "reasoning": "Risky",
+  "news": "Breaking news 1"
+}

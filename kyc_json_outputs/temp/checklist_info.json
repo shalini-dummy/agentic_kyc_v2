@@ -1,1 +1,18 @@
-"\"LEI_ID\":\"1234567890\""
+{
+  "items": [
+    "Verify ID Customer",
+    "Check Address"
+  ],
+  "status": [
+    "Pending",
+    "Pending"
+  ],
+  "comments": [
+    "All good",
+    "Need more info"
+  ],
+  "sources": [
+    "Gov Identity",
+    "Utility Bills"
+  ]
+}

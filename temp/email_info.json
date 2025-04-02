@@ -1,5 +1,5 @@
 {
-  "mailTo": "user@example.com",
-  "mailSubject": "Important Update",
+  "mailTo": "testrun@example.com",
+  "mailSubject": "test Update",
   "mailBody": "Please review the latest changes."
 }

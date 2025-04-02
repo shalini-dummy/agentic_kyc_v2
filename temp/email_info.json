@@ -1,0 +1,5 @@
+{
+  "mailTo": "user@example.com",
+  "mailSubject": "Hello",
+  "mailBody": "This is a test email"
+}

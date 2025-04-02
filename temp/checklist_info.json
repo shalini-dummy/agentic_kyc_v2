@@ -1,7 +1,11 @@
 {
   "items": [
-    "Verify ID",
-    "Check Address"
+    {
+      "task": "Verify ID"
+    },
+    {
+      "task": "Check Address"
+    }
   ],
   "status": [
     "Completed",

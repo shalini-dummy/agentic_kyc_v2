@@ -18,22 +18,22 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
-    "Utility bill issued by London City Utilities is valid until 2023-12-31.",
-    "Financial data and Ellipro survey for years 2020-2022 are available.",
-    "Bank account and postal details are verified.",
-    "Directors' verification status is either pending or under review.",
-    "Several tax documents are pending review or renewal.",
-    "Industry license and environmental compliance are under review.",
-    "Business scope status marked as pending verification.",
-    "No PEP screening data found for this LEI ID.",
-    "Revenue details are not provided in the available data.",
-    "Market capitalization details are not provided in the available data."
+    "Utility bill verified, issued by London City Utilities.",
+    "Ellipro survey data available for 2020-2022, with scores 80-85.",
+    "Bank details verified with SWIFT code JPMOGB2L.",
+    "Verification for director documents is under review.",
+    "Multiple tax documents pending review/renewal.",
+    "Some regulations under review; AML and Data Protection compliant.",
+    "Business scope data confirmed from the annual report.",
+    "No PEP screening data available for the given LEI ID.",
+    "Revenue details confirmed from the annual report.",
+    "Market capitalization details confirmed from the annual report."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -42,9 +42,9 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "Annual Report",
     "NA",
-    "NA",
-    "NA"
+    "Annual Report",
+    "Annual Report"
   ]
 }

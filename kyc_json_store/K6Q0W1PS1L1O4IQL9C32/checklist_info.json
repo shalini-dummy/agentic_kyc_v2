@@ -24,16 +24,16 @@
     "Missing"
   ],
   "comments": [
-    "Verified with Utility Bill issued by London City Utilities, valid until 2023-12-31.",
-    "Annual accounts for 2022 verified; Ellipro Score is 85.",
-    "Bank account and postal details match with DIM entry.",
-    "Director ID verification statuses are either pending or under review.",
-    "Several tax documents are pending review or renewal.",
-    "Some regulations are under review (e.g., Industry License, Environmental Compliance).",
-    "Business Scope verification is marked as pending in DIM records.",
-    "PEP Screening data is unavailable.",
-    "No Information Found",
-    "No Information Found"
+    "Address proof verified through utility bill issued by London City Utilities.",
+    "Data available for 2022, 2021, and 2020 with Ellipro scores.",
+    "Bank account and postal details verified.",
+    "Verification status for directors is either 'Pending' or 'Under Review'.",
+    "Certain tax documents require additional info or are pending review.",
+    "Industry License and Environmental Compliance are under review.",
+    "Verification status of business scope is pending.",
+    "No data found for PEP screening.",
+    "Revenue details are unavailable in the provided data.",
+    "Market capitalization details not provided in the data."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

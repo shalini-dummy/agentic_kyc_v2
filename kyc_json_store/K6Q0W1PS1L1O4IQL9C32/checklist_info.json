@@ -20,8 +20,8 @@
     "Pending",
     "Pending",
     "Missing",
-    "Validated",
-    "Validated"
+    "Missing",
+    "Missing"
   ],
   "comments": [
     "Verified with Utility Bill issued by London City Utilities, valid until 2023-12-31.",
@@ -32,8 +32,8 @@
     "Some regulations are under review (e.g., Industry License, Environmental Compliance).",
     "Business Scope verification is marked as pending in DIM records.",
     "PEP Screening data is unavailable.",
-    "Annual revenue and assets verified via DIM annual accounts.",
-    "Market capitalization verified: $489,320 million as of 2023-12-31."
+    "No Information Found",
+    "No Information Found"
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -44,7 +44,7 @@
     "DIM_CompanyRegulatory",
     "DIM_CompanyBusinessScope",
     "NA",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "RagAgent"
+    "NA",
+    "NA"
   ]
 }

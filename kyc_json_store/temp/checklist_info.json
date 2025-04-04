@@ -15,36 +15,36 @@
     "Validated",
     "Validated",
     "Validated",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
     "Missing",
+    "Validated",
+    "Validated",
+    "Validated",
     "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Utility Bill from London City Utilities is valid until 2023-12-31.",
     "Ellipro data is available for 2020-2022, scored 80-85.",
     "Bank details including SWIFT code JPMOGB2L are available.",
-    "Director verification is pending or under review.",
-    "Tax documents are either pending review or renewal is required.",
-    "Industry License and Environmental Compliance are under review.",
-    "Business scope verification is pending.",
+    "No directorship information provided.",
+    "The organization has a strong record of tax compliance.",
+    "Demonstrates strong adherence to legal and regulatory requirements.",
+    "Operates across multiple lines of business and global financial markets.",
     "No PEP screening data found.",
-    "Revenue details are not available.",
-    "Market capitalization data is not available."
+    "Generated record revenue of 162.4 billion in 2023.",
+    "Market capitalization was 489,320 million in 2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
     "NA",
+    "RagAgent",
+    "RagAgent",
+    "RagAgent",
     "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent"
   ]
 }

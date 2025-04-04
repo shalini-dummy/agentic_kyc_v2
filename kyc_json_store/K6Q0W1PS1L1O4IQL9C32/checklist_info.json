@@ -24,16 +24,16 @@
     "Missing"
   ],
   "comments": [
-    "Utility Bill provided by London City Utilities, valid until 2023-12-31.",
-    "Annual accounts and Ellipro scores available for 2020, 2021, and 2022.",
-    "Bank account and postal details provided, verified.",
-    "Director verification for CFO and Board Member is pending/under review.",
-    "Various tax documents pending review or renewal.",
-    "Certain compliance statuses are under review, including Industry License and Environmental Compliance.",
-    "Business scope verification status is pending.",
-    "No PEP screening data found for this LEI ID.",
-    "No revenue information available in the provided data.",
-    "No market capitalization data found."
+    "Address proof document (Utility Bill) is available and validated.",
+    "Financial data for 2020, 2021, and 2022, along with Ellipro scores, is available and validated.",
+    "Bank and postal details are available and validated.",
+    "Director information is under review or pending verification.",
+    "Tax documents are available, but some are pending review or require renewal and additional information.",
+    "Some compliance regulations are under review, and next review dates are scheduled.",
+    "Business scope verification is pending.",
+    "PEP screening data is not available in the system.",
+    "No revenue details are available for validation.",
+    "No information on market capitalization is available."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

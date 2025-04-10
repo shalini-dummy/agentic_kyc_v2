@@ -27,13 +27,13 @@
     "Utility Bill issued by London City Utilities is valid until 2023-12-31.",
     "Annual accounts for 2022-2020 are available with Ellipro scores of 85, 83, and 80.",
     "Bank details with SWIFT Code: JPMOGB2L and postal code: E14 5JP are available.",
-    "Director verification statuses are pending or under review.",
-    "Several tax documents are pending review or additional information.",
-    "Some regulations are under review (e.g., Industry License, Environmental Compliance).",
-    "Business scope verification is pending.",
-    "No PEP screening data found in the system.",
-    "Revenue details are not provided.",
-    "Market capitalization details are not provided."
+    "There is no information available regarding the company directorship for the organization.",
+    "The organization has highlighted its tax contributions over the last decade, totaling over $46 billion in the U.S. and $22 billion internationally.",
+    "The organization emphasizes its dedication to regulatory compliance with significant regulations imposed by the U.S. federal government.",
+    "The organization operates across corporate and investment banking, retail banking, and more, with high customer satisfaction rankings.",
+    "There is no information available regarding Politically Exposed Person (PEP) screening for the organization.",
+    "The organization reported total net revenue of $158.1 billion in 2023, $128.7 billion in 2022, and $121.6 billion in 2021.",
+    "There is no information available regarding the market capitalization of the organization."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

@@ -20,8 +20,8 @@
     "Pending",
     "Pending",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Address proof (Utility Bill) exists and issued by London City Utilities.",
@@ -32,8 +32,8 @@
     "Certain compliance types are under review (Industry License and Environmental Compliance).",
     "Business scope verification is pending.",
     "No PEP Screening data found for LEI ID K6Q0W1PS1L1O4IQL9C32.",
-    "Revenue details are not included in the provided data.",
-    "Market capitalization details are not available in the provided data."
+    "Total net revenue figures for 2023, 2022, and 2021 provided in the annual report.",
+    "Market capitalization reported as 489,320 million dollars for the year ended December 31, 2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -44,7 +44,7 @@
     "DIM_CompanyRegulatory",
     "DIM_CompanyBusinessScope",
     "NA",
-    "NA",
-    "NA"
+    "Annual Report 2023",
+    "Annual Report 2023"
   ]
 }

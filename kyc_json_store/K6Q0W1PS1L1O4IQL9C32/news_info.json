@@ -1,30 +1,22 @@
 {
   "title": [
-    "SEC.gov | JP Morgan Affiliates to Pay $151 Million to Resolve SEC Charges",
-    "JP Morgan to Pay $151 Million Over Major Disclosure Failures",
-    "CFTC Orders J.P. Morgan to Pay $200m for Supervision Errors",
-    "J.P. Morgan Fined $3M for Misreporting 77 Billion Shares - Yahoo Finance",
-    "J.P. Morgan to Pay $150M to Settle Slew of SEC Charges"
+    "J.P. Morgan to Pay $150M to Settle Slew of SEC Charges",
+    "J.P. Morgan Fined $3M for Misreporting 77 Billion Shares",
+    "CFTC Orders J.P. Morgan to Pay $200m for Supervision Errors"
   ],
   "adversity": [
-    "Very High",
-    "Very High",
     "High",
     "Medium",
-    "Very High"
+    "High"
   ],
   "reasoning": [
-    "Multiple charges from the SEC highlight significant failures and misconduct across different affiliates, leading to a severe financial penalty.",
-    "Same $151 million penalty for multiple failures indicates systemic issues and raises investor confidence concerns.",
-    "The substantial penalty indicates serious lapses in oversight and compliance, reflecting negatively on the firm's management and controls.",
-    "The $3 million fine for reporting errors suggests accountability but is less severe compared to other penalties.",
-    "The large settlement amount reflects serious regulatory concerns across multiple business lines, compounding adverse implications."
+    "Multiple sources report J.P. Morgan paying a significant fine to settle SEC charges, indicating severe regulatory scrutiny.",
+    "Source indicates a significant fine for misreporting, adding to the adverse reputation of J.P. Morgan.",
+    "Charges from a regulatory body regarding supervision failures lead to a large penalty, reflecting systemic issues."
   ],
   "news": [
-    "The Securities and Exchange Commission today charged J.P. Morgan Securities LLC (JPMS) and J.P. Morgan Investment Management Inc. (JPMIM) - both affiliates of JPMorgan Chase & Co. - in five separate enforcement actions for failures including misleading disclosures to investors, breach of fiduciary duty, prohibited joint transactions and principal trades, and failures to make ...",
-    "JP Morgan agreed to pay $151 million to settle SEC charges alleging misleading disclosures, prohibited joint transactions, failures to make recommendations in customers' best interests, and breach of fiduciary duty.",
-    "J.P. Morgan Securities LLC, a registered futures commission merchant and swap dealer, for failing diligently to supervise its business as a CFTC registrant, resulting in J.P. Morgan failing to capture billions of orders in its surveillance systems.",
-    "J.P. Morgan Securities had since put in place enhanced policies and periodic reviews to resolve ...",
-    "J.P. Morgan will pay more than $150 million between its investment management and securities arms to settle a myriad of SEC charges, the regulators unveiled in several settlements Thursday."
+    "J.P. Morgan will pay more than $150 million between its investment management and securities arms to settle a myriad of SEC charges, the regulators unveiled in several settlements Thursday.",
+    "FINRA Slaps J.P. Morgan with $3M Fine Over Short Interest Errors. J.P. Morgan Securities had since put in place enhanced policies and periodic reviews to resolve ...",
+    "The Commodity Futures Trading Commission issued an order simultaneously filing and settling charges against J.P. Morgan Securities LLC, a registered futures commission merchant and swap dealer, for failing diligently to supervise its business as a CFTC registrant, resulting in J.P. Morgan failing to capture billions of orders in its surveillance systems."
   ]
 }

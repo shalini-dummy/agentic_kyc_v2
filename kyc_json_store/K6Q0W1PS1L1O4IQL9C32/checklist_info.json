@@ -24,16 +24,16 @@
     "Missing"
   ],
   "comments": [
-    "Utility Bill is available, issued by London City Utilities.",
-    "Annual accounts for 2022, 2021, and 2020 are available with Ellipro scores of 85, 83, and 80 respectively.",
-    "Bank details available with SWIFT code JPMOGB2L and postal code E14 5JP.",
-    "Two directors' verification statuses are pending or under review.",
-    "Some tax documents such as VAT Registration and Corporate Tax Certificate are under pending review, but the company has paid significant amounts in taxes indicating compliance.",
-    "No specific details regarding regulatory compliance for industry licenses or environmental compliance are available.",
-    "JPMorgan Chase operates as a global financial institution with a presence in over 100 countries, focusing on financial services, technology, and product capabilities.",
-    "No information provided for PEP screening data.",
-    "In 2023, JPMorgan Chase achieved record revenue of 158.1 billion dollars.",
-    "Market capitalization was 489,320 million dollars as of December 31, 2023."
+    "Address proof (Utility Bill) exists and issued by London City Utilities.",
+    "Annual Accounts data exists for years 2020, 2021, and 2022 with Ellipro scores provided.",
+    "Bank details provided, including SWIFT Code and Postal Code.",
+    "Some directorship records are pending verification or under review.",
+    "Some tax documents are pending review or require renewal.",
+    "Certain compliance types are under review (Industry License and Environmental Compliance).",
+    "Business scope verification is pending.",
+    "No PEP Screening data found for LEI ID K6Q0W1PS1L1O4IQL9C32.",
+    "Revenue details are not included in the provided data.",
+    "Market capitalization details are not available in the provided data."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

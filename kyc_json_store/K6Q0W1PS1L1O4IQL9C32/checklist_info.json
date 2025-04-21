@@ -20,8 +20,8 @@
     "Pending",
     "Pending",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Address proof available through utility bill issued by London City Utilities.",
@@ -30,10 +30,10 @@
     "Director verification statuses are either pending or under review.",
     "Tax documents include annual tax return, VAT registration, and tax clearance, some pending reviews.",
     "Environmental and industry license compliance statuses are under review.",
-    "Business scope verification status is pending.",
+    "Business scope verification status is updated to include various lines of business such as CCB and CIB.",
     "No PEP screening data found for the LEI ID.",
-    "Revenue details are unavailable in the provided dataset.",
-    "Market capitalization details are unavailable in the provided dataset."
+    "Revenue details for 2023, 2022, and 2021 included, along with managed revenue for 2023.",
+    "Market capitalization was 489,320 million dollars as of December 31, 2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

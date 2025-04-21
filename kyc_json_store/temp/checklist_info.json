@@ -15,36 +15,36 @@
     "Validated",
     "Validated",
     "Validated",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
     "Missing",
     "Missing",
-    "Missing"
+    "Missing",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Utility Bill validated with document number UTL123456789, issued by London City Utilities.",
     "Annual accounts available for years 2020-2022 with Ellipro scores of 80-85.",
     "Bank details verified with account number GB29JPMO12345678901234 and SWIFT Code JPMOGB2L.",
-    "Verification pending or under review for directors' documents.",
-    "Multiple tax documents pending review or require additional information.",
-    "Industry license and environmental compliance under review.",
-    "Business scope verification status marked as pending.",
-    "No PEP screening data available for this organization.",
-    "No revenue details provided.",
-    "No market capitalization details provided."
+    "Organization does not release information about directorship in its annual report.",
+    "Organization does not include company tax documentation in its annual report.",
+    "Organization does not provide details on company regulatory compliance in its annual report.",
+    "Business scope verified: Leading financial services firm with global operations.",
+    "Organization does not include details on PEP screening in its annual report.",
+    "Total net revenue of 162.4 billion dollars reported for the year 2023.",
+    "Market capitalization reported as 489,320 million dollars as of December 31, 2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
     "NA",
     "NA",
-    "NA"
+    "NA",
+    "RagAgent",
+    "NA",
+    "RagAgent",
+    "RagAgent"
   ]
 }

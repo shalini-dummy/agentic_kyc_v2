@@ -24,16 +24,16 @@
     "Missing"
   ],
   "comments": [
-    "Utility Bill validated with document number UTL123456789, issued by London City Utilities.",
-    "Annual accounts available for years 2020-2022 with Ellipro scores of 80-85.",
-    "Bank details verified with account number GB29JPMO12345678901234 and SWIFT Code JPMOGB2L.",
-    "Verification pending or under review for directors' documents.",
-    "Multiple tax documents pending review or require additional information.",
-    "Industry license and environmental compliance under review.",
-    "Business scope verification status marked as pending.",
-    "No PEP screening data available for this organization.",
-    "No revenue details provided.",
-    "No market capitalization details provided."
+    "Utility bill found issued by London City Utilities, valid until 2023-12-31.",
+    "Ellipro survey data available for 2020, 2021, and 2022 with scores of 80, 83, and 85.",
+    "Bank account and SWIFT details found for the company in London.",
+    "Director verification status shows `Pending` and `Under Review`.",
+    "Some tax documents are verified, while others are pending review.",
+    "Industry License and Environmental Compliance are `Under Review`.",
+    "Business scope details available but verification status is `Pending`.",
+    "No data found for PEP screening.",
+    "Revenue details not available.",
+    "Market capitalization data not provided."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

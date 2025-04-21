@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Missing",
+    "Missing",
+    "Missing"
+  ],
+  "comments": [
+    "Utility Bill validated with document number UTL123456789, issued by London City Utilities.",
+    "Annual accounts available for years 2020-2022 with Ellipro scores of 80-85.",
+    "Bank details verified with account number GB29JPMO12345678901234 and SWIFT Code JPMOGB2L.",
+    "Verification pending or under review for directors' documents.",
+    "Multiple tax documents pending review or require additional information.",
+    "Industry license and environmental compliance under review.",
+    "Business scope verification status marked as pending.",
+    "No PEP screening data available for this organization.",
+    "No revenue details provided.",
+    "No market capitalization details provided."
+  ],
+  "sources": [
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "DIM_CompanyBusinessScope",
+    "NA",
+    "NA",
+    "NA"
+  ]
+}

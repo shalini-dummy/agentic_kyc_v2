@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Utility bill found issued by London City Utilities, valid until 2023-12-31.",
+    "Ellipro survey data available for 2020, 2021, and 2022 with scores of 80, 83, and 85.",
+    "Bank account and SWIFT details found for the company in London.",
+    "Organization has not released details about directorship in the annual report.",
+    "Tax documentation details are not included in the annual report.",
+    "Regulatory compliance data is absent in the annual report.",
+    "Details about business scope, operations, and achievements are provided in the report.",
+    "No data found for PEP screening in the annual report.",
+    "Revenue details for 2023, 2022, and 2021 are released along with managed revenue data.",
+    "Market capitalization data provided as $489,320M as of December 31, 2023."
+  ],
+  "sources": [
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "NA",
+    "NA",
+    "NA",
+    "RagAgent",
+    "NA",
+    "RagAgent",
+    "RagAgent"
+  ]
+}

@@ -24,16 +24,16 @@
     "Missing"
   ],
   "comments": [
-    "Address proof verified using utility bill issued by London City Utilities.",
-    "Annual accounts for 2020-2022 and Ellipro survey scores provided.",
-    "Bank details and postal information verified with SWIFT code and bank account number.",
-    "Verification of directorship details is incomplete.",
-    "Several tax documents are pending review or renewal.",
-    "Industry license and environmental compliance are under review.",
-    "Business scope includes corporate and investment banking, retail deposits, services for small businesses, private banking, asset management, and middle market syndicated lending. Recognized for AI capabilities and customer satisfaction in wealth management digital experiences.",
-    "No data found for PEP screening.",
-    "Generated total net revenue of $158.104 billion in 2023, $128.695 billion in 2022, and $121.649 billion in 2021. Corporate & Investment Bank segment contributed $49 billion in revenue for 2023.",
-    "Market capitalization data not provided."
+    "Address proof available through utility bill issued by London City Utilities.",
+    "Annual accounts for 2020, 2021, and 2022 provided with Ellipro scores of 80, 83, and 85 respectively.",
+    "Bank account details and postal code available.",
+    "Director verification statuses are either pending or under review.",
+    "Tax documents include annual tax return, VAT registration, and tax clearance, some pending reviews.",
+    "Environmental and industry license compliance statuses are under review.",
+    "Business scope verification status is pending.",
+    "No PEP screening data found for the LEI ID.",
+    "Revenue details are unavailable in the provided dataset.",
+    "Market capitalization details are unavailable in the provided dataset."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

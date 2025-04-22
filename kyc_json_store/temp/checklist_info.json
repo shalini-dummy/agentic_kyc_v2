@@ -17,10 +17,10 @@
     "Validated",
     "Pending",
     "Pending",
-    "Pending",
-    "Pending",
+    "Validated",
+    "Validated",
     "Missing",
-    "Missing",
+    "Validated",
     "Missing"
   ],
   "comments": [
@@ -28,11 +28,11 @@
     "Annual accounts for 2020-2022 provided with Ellipro scores.",
     "Bank and postal details verified for London address.",
     "Verification status for directors is pending or under review.",
-    "Several tax documents are pending review or require additional info.",
-    "Industry license and environmental compliance under review.",
-    "Business scope verification status is pending.",
+    "Tax documents are either pending review or require additional info.",
+    "Company complies with significant regulations and has paid over $46 billion in taxes.",
+    "Operates in diverse domains including banking and asset management. Recognized globally.",
     "No PEP screening data found for the given LEI ID.",
-    "No revenue details available in the provided data.",
+    "Total net revenue: $158,104M (2023), $128,695M (2022), $121,649M (2021).",
     "No market capitalization details available in the provided data."
   ],
   "sources": [
@@ -41,10 +41,10 @@
     "DIM_CompanyBankAndPostalDetails",
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "RagAgent",
+    "RagAgent",
     "NA",
-    "NA",
+    "RagAgent",
     "NA"
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Missing",
+    "Missing",
+    "Missing"
+  ],
+  "comments": [
+    "Utility bill provided as proof, valid until 2023-12-31.",
+    "Annual accounts for 2020-2022 provided with Ellipro scores.",
+    "Bank and postal details verified for London address.",
+    "Verification status for directors is pending or under review.",
+    "Several tax documents are pending review or require additional info.",
+    "Industry license and environmental compliance under review.",
+    "Business scope verification status is pending.",
+    "No PEP screening data found for the given LEI ID.",
+    "No revenue details available in the provided data.",
+    "No market capitalization details available in the provided data."
+  ],
+  "sources": [
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "DIM_CompanyBusinessScope",
+    "NA",
+    "NA",
+    "NA"
+  ]
+}

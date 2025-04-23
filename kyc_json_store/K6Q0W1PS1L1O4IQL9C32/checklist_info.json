@@ -1,50 +1,26 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Verify legal name",
+    "Confirm registration status",
+    "Check headquarters address",
+    "Validate parent and child entities"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
-    "Pending",
-    "Pending",
-    "Validated",
-    "Validated",
-    "Missing",
-    "Validated",
-    "Missing"
+    "Completed",
+    "Completed",
+    "Completed",
+    "Completed"
   ],
   "comments": [
-    "Utility bill provided as proof, valid until 2023-12-31.",
-    "Annual accounts for 2020-2022 provided with Ellipro scores.",
-    "Bank and postal details verified for London address.",
-    "Verification status for directors is pending or under review.",
-    "Tax documents are either pending review or require additional info.",
-    "Company complies with significant regulations and has paid over $46 billion in taxes.",
-    "Operates in diverse domains including banking and asset management. Recognized globally.",
-    "No PEP screening data found for the given LEI ID.",
-    "Total net revenue: $158,104M (2023), $128,695M (2022), $121,649M (2021).",
-    "No market capitalization details available in the provided data."
+    "Verified with official records",
+    "Registration status is active",
+    "Address confirmed",
+    "Parent and child entities validated"
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "RagAgent",
-    "RagAgent",
-    "NA",
-    "RagAgent",
-    "NA"
+    "official_records",
+    "registration_database",
+    "address_verification_service",
+    "parent_child_relationships_service"
   ]
 }

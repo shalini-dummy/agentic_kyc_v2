@@ -15,36 +15,36 @@
     "Validated",
     "Validated",
     "Validated",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
     "Missing",
+    "Validated",
+    "Validated",
+    "Validated",
     "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Proof available and validated with utility bill issued on 2023-01-15.",
     "Annual accounts and Ellipro survey available for 2022, 2021, and 2020.",
     "Bank details validated with SWIFT code and postal details.",
-    "Director information validation is pending and under review.",
-    "Several tax documents are under review.",
-    "Some compliance areas are under review (e.g., industry license).",
-    "Business scope details verification is pending.",
+    "No directorship information is available for the company.",
+    "Tax contribution data validated; detailed records provided.",
+    "Compliance verified with regulatory payment contributions.",
+    "Business scope details validated; multiple operations areas confirmed.",
     "No data available for PEP screening.",
-    "No revenue data is provided.",
-    "No market capitalization data is available."
+    "Revenue details validated for 2023, 2022, and 2021.",
+    "Market capitalization details validated for 2023, 2022, and 2021."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
     "NA",
+    "RagAgent",
+    "RagAgent",
+    "RagAgent",
     "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent"
   ]
 }

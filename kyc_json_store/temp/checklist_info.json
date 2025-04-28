@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Missing",
+    "Missing",
+    "Missing"
+  ],
+  "comments": [
+    "Utility bill verified with expiry date 2023-12-31.",
+    "Ellipro survey and annual accounts available for 2020-2022.",
+    "Bank account details match organization address and jurisdiction.",
+    "Two directors have incomplete verification statuses (Pending/Under Review).",
+    "Multiple tax documents require additional info or renewal.",
+    "Industry license and environmental compliance under review.",
+    "Verification of business scope is pending.",
+    "No relevant data found for PEP screening.",
+    "Revenue details not available in provided data sources.",
+    "Market capitalization data not found."
+  ],
+  "sources": [
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "DIM_CompanyBusinessScope",
+    "NA",
+    "NA",
+    "NA"
+  ]
+}

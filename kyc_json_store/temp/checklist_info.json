@@ -18,10 +18,10 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Utility bill verified with expiry date 2023-12-31.",
@@ -30,10 +30,10 @@
     "Two directors have incomplete verification statuses (Pending/Under Review).",
     "Multiple tax documents require additional info or renewal.",
     "Industry license and environmental compliance under review.",
-    "Verification of business scope is pending.",
+    "Company demonstrates global leadership across multiple lines of business.",
     "No relevant data found for PEP screening.",
-    "Revenue details not available in provided data sources.",
-    "Market capitalization data not found."
+    "Revenue in 2023 reported as 158.1 billion dollars (Net) and 162.4 billion (Managed).",
+    "Market capitalization in 2023 reported as 489,320 million dollars."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -42,9 +42,9 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "RagAgent",
     "NA",
-    "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent"
   ]
 }

@@ -18,22 +18,22 @@
     "Pending",
     "Pending",
     "Pending",
-    "Validated",
+    "Pending",
     "Missing",
-    "Validated",
-    "Validated"
+    "Missing",
+    "Missing"
   ],
   "comments": [
-    "Utility bill verified with expiry date 2023-12-31.",
-    "Ellipro survey and annual accounts available for 2020-2022.",
-    "Bank account details match organization address and jurisdiction.",
-    "Two directors have incomplete verification statuses (Pending/Under Review).",
-    "Multiple tax documents require additional info or renewal.",
-    "Industry license and environmental compliance under review.",
-    "Company demonstrates global leadership across multiple lines of business.",
-    "No relevant data found for PEP screening.",
-    "Revenue in 2023 reported as 158.1 billion dollars (Net) and 162.4 billion (Managed).",
-    "Market capitalization in 2023 reported as 489,320 million dollars."
+    "Address proof available with Utility Bill (UTL123456789) issued by London City Utilities.",
+    "Annual accounts and Ellipro survey data available for 2020-2022.",
+    "Bank account details (GB29JPMO12345678901234) and postal code (E14 5JP) are available.",
+    "Some director details are either pending verification or under review.",
+    "Tax documents require additional reviews and updates.",
+    "Some compliance statuses are under review (e.g., Industry License, Environmental Compliance).",
+    "Business scope verification status is pending.",
+    "No PEP screening data available for the organization.",
+    "Revenue details not provided in the available data.",
+    "Market capitalization details not provided in the available data."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -42,9 +42,9 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "RagAgent",
+    "DIM_CompanyBusinessScope",
     "NA",
-    "RagAgent",
-    "RagAgent"
+    "NA",
+    "NA"
   ]
 }

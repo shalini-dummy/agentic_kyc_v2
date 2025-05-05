@@ -16,35 +16,35 @@
     "Validated",
     "Validated",
     "Missing",
-    "Validated",
-    "Validated",
+    "Pending",
+    "Pending",
     "Validated",
     "Missing",
     "Validated",
-    "Validated"
+    "Missing"
   ],
   "comments": [
-    "Proof available and validated with utility bill issued on 2023-01-15.",
-    "Annual accounts and Ellipro survey available for 2022, 2021, and 2020.",
-    "Bank details validated with SWIFT code and postal details.",
-    "No directorship information is available for the company.",
-    "Tax contribution data validated; detailed records provided.",
-    "Compliance verified with regulatory payment contributions.",
-    "Business scope details validated; multiple operations areas confirmed.",
-    "No data available for PEP screening.",
-    "Revenue details validated for 2023, 2022, and 2021.",
-    "Market capitalization details validated for 2023, 2022, and 2021."
+    "The proof type is a utility bill issued by London City Utilities, valid until 2023-12-31.",
+    "Ellipro survey scores available for 2020, 2021, and 2022 with validated financial data.",
+    "Bank account and SWIFT details are verified; address matches organization headquarters.",
+    "No supplementary data available regarding verification of identity documents for company directorship.",
+    "Renewal/additional information required for some tax documents; no specific supplementary details provided.",
+    "Industry license and environmental compliance under review; supplementary data highlights medium risk levels but no resolution status.",
+    "Operates globally with a significant international presence and key workforce attributes.",
+    "No data available regarding PEP screening.",
+    "Reported total net revenue of 158.1 billion USD for the year ended December 31, 2023.",
+    "No information provided on market capitalization."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
     "NA",
-    "RagAgent",
-    "RagAgent",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
     "RagAgent",
     "NA",
     "RagAgent",
-    "RagAgent"
+    "NA"
   ]
 }

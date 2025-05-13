@@ -16,35 +16,35 @@
     "Validated",
     "Validated",
     "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
+    "Validated",
+    "Validated",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Utility Bill validated from London City Utilities.",
     "Annual accounts and Ellipro Survey data available for 2020-2022.",
     "Bank account and postal details confirmed.",
-    "Multiple directors with pending and under-review statuses.",
-    "Tax documents under review; some require renewal.",
-    "Industry License and Environmental Compliance statuses are under review.",
-    "Verification of business scope pending.",
+    "No additional details found for directorship verification.",
+    "Tax documentation verified; taxes paid across multiple jurisdictions.",
+    "Compliance confirmed across multiple regulatory spheres.",
+    "Business scope verified; global operations and diverse services.",
     "No PEP screening data available.",
-    "Revenue data not provided.",
-    "Market capitalization data not available."
+    "Revenue data available for 2021-2023; record growth confirmed.",
+    "Market capitalization data available for 2021-2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
     "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "RagAgent",
+    "RagAgent",
+    "RagAgent",
     "NA",
-    "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent"
   ]
 }

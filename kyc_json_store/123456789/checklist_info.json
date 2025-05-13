@@ -15,36 +15,36 @@
     "Validated",
     "Validated",
     "Validated",
-    "Missing",
     "Pending",
-    "Pending",
+    "Validated",
+    "Validated",
     "Validated",
     "Missing",
     "Validated",
-    "Missing"
+    "Validated"
   ],
   "comments": [
-    "The proof type is a utility bill issued by London City Utilities, valid until 2023-12-31.",
-    "Ellipro survey scores available for 2020, 2021, and 2022 with validated financial data.",
-    "Bank account and SWIFT details are verified; address matches organization headquarters.",
-    "No supplementary data available regarding verification of identity documents for company directorship.",
-    "Renewal/additional information required for some tax documents; no specific supplementary details provided.",
-    "Industry license and environmental compliance under review; supplementary data highlights medium risk levels but no resolution status.",
-    "Operates globally with a significant international presence and key workforce attributes.",
-    "No data available regarding PEP screening.",
-    "Reported total net revenue of 158.1 billion USD for the year ended December 31, 2023.",
-    "No information provided on market capitalization."
+    "Utility Bill validated from London City Utilities.",
+    "Annual accounts and Ellipro Survey data available for 2020-2022.",
+    "Bank account and postal details confirmed.",
+    "No additional details found for directorship verification.",
+    "Tax documentation verified; taxes paid across multiple jurisdictions.",
+    "Compliance confirmed across multiple regulatory spheres.",
+    "Business scope verified; global operations and diverse services.",
+    "No PEP screening data available.",
+    "Revenue data available for 2021-2023; record growth confirmed.",
+    "Market capitalization data available for 2021-2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
-    "NA",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
+    "DIM_CompanyDirectorship",
+    "RagAgent",
+    "RagAgent",
     "RagAgent",
     "NA",
     "RagAgent",
-    "NA"
+    "RagAgent"
   ]
 }

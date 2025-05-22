@@ -27,13 +27,13 @@
     "Address proof is available with utility bill issued by London City Utilities.",
     "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
     "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Directorship data is incomplete; verification is pending for available entries.",
-    "Mixed status for tax documents; some are verified, others pending review.",
-    "Compliance data includes under-review and compliant statuses.",
-    "Business scope data verification is still pending.",
+    "Directorship information is under review and pending verification.",
+    "Tax documentation includes pending reviews and additional information requirements.",
+    "Several compliance statuses are under review, including Industry License and Environment.",
+    "Business scope information is available but under verification for final validation.",
     "No PEP screening data found for the given LEI ID.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
-    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
+    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023, is reported.",
+    "Market capitalization as of December 31, 2023, is reported as 489,320 million dollars."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

@@ -1,50 +1,22 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Item 1",
+    "Item 2",
+    "Item 3"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated"
+    "Completed",
+    "In Progress",
+    "Pending"
   ],
   "comments": [
-    "Address proof is available through a utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores for 2020\u20132022 are available and verified.",
-    "Bank and postal details verified with bank account and SWIFT code.",
-    "Directorship information is available but under review for verification status.",
-    "Tax documentation is available but pending additional review details.",
-    "Regulatory compliance data is under review for multiple regulation types, including AML.",
-    "Business scope details verified, highlighting its medium-scale operations and coverage.",
-    "Updated internal PEP screening data is available and verified through attachments.",
-    "Total net revenue of 158.1 billion dollars for 2023 is reported and verified.",
-    "Market capitalization of 489,320 million dollars for 2023 is reported and verified."
+    "Comment 1",
+    "Comment 2",
+    "Comment 3"
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
-    "Email Attachment",
-    "Annual Report",
-    "Annual Report"
+    "Source 1",
+    "Source 2",
+    "Source 3"
   ]
 }

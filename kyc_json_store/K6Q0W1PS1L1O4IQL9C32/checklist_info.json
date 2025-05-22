@@ -31,7 +31,7 @@
     "Tax documentation verified; taxes paid across multiple jurisdictions.",
     "Compliance confirmed across multiple regulatory spheres.",
     "Business scope verified; global operations and diverse services.",
-    "Marked as validated per instruction.",
+    "PEP screening data provided in the attachment confirms screening process.",
     "Revenue data available for 2021-2023; record growth confirmed.",
     "Market capitalization data available for 2021-2023."
   ],
@@ -40,11 +40,11 @@
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
     "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
-    "Email Instruction",
-    "Financial Attachment",
-    "Financial Attachment"
+    "RagAgent",
+    "RagAgent",
+    "RagAgent",
+    "Attachment",
+    "RagAgent",
+    "RagAgent"
   ]
 }

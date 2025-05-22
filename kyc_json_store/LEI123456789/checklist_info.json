@@ -16,35 +16,35 @@
     "Validated",
     "Validated",
     "Pending",
-    "Validated",
-    "Validated",
+    "Pending",
+    "Missing",
     "Validated",
     "Validated",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Utility Bill validated from London City Utilities.",
-    "Annual accounts and Ellipro Survey data available for 2020-2022.",
-    "Bank account and postal details confirmed.",
-    "No additional details found for directorship verification; supplementary data unavailable.",
-    "Tax documentation verified; taxes paid across multiple jurisdictions.",
-    "Compliance confirmed across multiple regulatory spheres.",
-    "Business scope verified; global operations and diverse services.",
-    "PEP screening data analyzed and verified; high-risk individuals identified.",
-    "Revenue data available for 2021-2023; record growth confirmed.",
-    "Market capitalization data available for 2021-2023."
+    "Address proof is available with utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
+    "Bank and postal details are verified with available bank account and SWIFT code.",
+    "Director information is partially verified; additional review is required.",
+    "Tax documentation exists but requires review and renewal.",
+    "Organization does not include detailed regulatory compliance information in its report.",
+    "Business scope is available, highlighting leadership roles and services.",
+    "PEP screening data is available and validated for the organization.",
+    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
+    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
     "DIM_CompanyDirectorship",
-    "RagAgent",
-    "RagAgent",
-    "RagAgent",
-    "Provided Attachment",
-    "RagAgent",
-    "RagAgent"
+    "DIM_CompanyTaxDocuments",
+    "NA",
+    "DIM_CompanyBusinessScope",
+    "Attached Supplementary Data",
+    "Annual Report",
+    "Annual Report"
   ]
 }

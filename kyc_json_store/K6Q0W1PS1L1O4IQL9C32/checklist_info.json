@@ -16,24 +16,24 @@
     "Validated",
     "Validated",
     "Pending",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated"
+    "Pending",
+    "Pending",
+    "Pending",
+    "Missing",
+    "Missing",
+    "Missing"
   ],
   "comments": [
-    "Utility Bill validated from London City Utilities.",
-    "Annual accounts and Ellipro Survey data available for 2020-2022.",
-    "Bank account and postal details confirmed.",
-    "No additional details found for directorship verification.",
-    "Tax documentation verified; taxes paid across multiple jurisdictions.",
-    "Compliance confirmed across multiple regulatory spheres.",
-    "Business scope verified; global operations and diverse services.",
-    "PEP screening data validated; multiple high and medium risk ratings found.",
-    "Revenue data available for 2021-2023; record growth confirmed.",
-    "Market capitalization data available for 2021-2023."
+    "Address proof is available with utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
+    "Bank and postal details are verified with available bank account and SWIFT code.",
+    "Directorship verification for CFO and Board Member is in progress or under review.",
+    "Tax documents show mixed statuses (e.g., pending review, renewal required).",
+    "Compliance status for 'Industry License' and 'Environmental Compliance' is under review.",
+    "Business scope verification status is marked as pending.",
+    "No PEP screening data found for the given LEI ID.",
+    "Revenue details are not available.",
+    "Market capitalization details are not available."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -43,8 +43,8 @@
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
     "DIM_CompanyBusinessScope",
-    "Email Attachment",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey"
+    "NA",
+    "NA",
+    "NA"
   ]
 }

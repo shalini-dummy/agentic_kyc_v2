@@ -1,0 +1,14 @@
+{
+  "items": [
+    "Company PEP Screening"
+  ],
+  "status": [
+    "Validated"
+  ],
+  "comments": [
+    "PEP screening data has been incorporated."
+  ],
+  "sources": [
+    "PEP Screening Data from Email Attachment"
+  ]
+}

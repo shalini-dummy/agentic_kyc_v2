@@ -18,22 +18,22 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Missing",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Address proof is available with utility bill issued by London City Utilities.",
+    "Address proof is available with utility bill issued by London City Utilities, valid until 2023-12-31.",
     "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
     "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Directorship information is under review and pending verification.",
-    "Tax documentation includes pending reviews and additional information requirements.",
-    "Several compliance statuses are under review, including Industry License and Environment.",
-    "Business scope information is available but under verification for final validation.",
+    "Two directors' information is under review or pending verification.",
+    "Multiple tax documents exist, but some are under review or pending additional info.",
+    "Compliance includes AML and Data Protection, but Industry License and Environmental Compliance are under review.",
+    "Detailed business scope highlighting leadership roles and services, with no pending aspects.",
     "No PEP screening data found for the given LEI ID.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023, is reported.",
-    "Market capitalization as of December 31, 2023, is reported as 489,320 million dollars."
+    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
+    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -42,7 +42,7 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "Annual Report",
     "NA",
     "Annual Report",
     "Annual Report"

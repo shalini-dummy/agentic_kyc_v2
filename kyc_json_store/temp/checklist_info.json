@@ -18,7 +18,7 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Missing",
     "Validated",
     "Validated"
@@ -30,7 +30,7 @@
     "Two directors' information is under review or pending verification.",
     "Multiple tax documents exist, but some are under review or pending additional info.",
     "Compliance includes AML and Data Protection, but Industry License and Environmental Compliance are under review.",
-    "Business scope verification is pending.",
+    "Detailed business scope highlighting leadership roles and services, with no pending aspects.",
     "No PEP screening data found for the given LEI ID.",
     "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
     "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
@@ -42,7 +42,7 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "Annual Report",
     "NA",
     "Annual Report",
     "Annual Report"

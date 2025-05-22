@@ -18,7 +18,7 @@
     "Pending",
     "Pending",
     "Pending",
-    "Validated",
+    "Pending",
     "Missing",
     "Validated",
     "Validated"
@@ -27,10 +27,10 @@
     "Address proof is available with utility bill issued by London City Utilities.",
     "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
     "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Directorship information is available but verification is pending for some directors.",
-    "Various tax documents are available but some require additional info or renewal.",
-    "Multiple regulatory compliance records exist, but some are under review.",
-    "Detailed business scope information is available, highlighting leadership roles and services.",
+    "Directorship data is incomplete; verification is pending for available entries.",
+    "Mixed status for tax documents; some are verified, others pending review.",
+    "Compliance data includes under-review and compliant statuses.",
+    "Business scope data verification is still pending.",
     "No PEP screening data found for the given LEI ID.",
     "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
     "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."

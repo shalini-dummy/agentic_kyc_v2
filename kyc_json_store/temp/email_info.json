@@ -1,5 +1,0 @@
-{
-  "mailTo": "recipient@example.com",
-  "mailSubject": "Company PEP Screening Validation",
-  "mailBody": "Dear [Recipient Name],\n\nWe would like to inform you that the 'Company PEP Screening' has been successfully marked as validated. Please find the updated checklist details attached for your reference.\n\nBest regards,\n[Your Name]"
-}

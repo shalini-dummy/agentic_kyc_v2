@@ -1,0 +1,14 @@
+{
+  "items": [
+    "Company PEP Screening"
+  ],
+  "status": [
+    "Validated"
+  ],
+  "comments": [
+    "Validated based on PEP screening data analysis."
+  ],
+  "sources": [
+    "PEP screening data analysis"
+  ]
+}

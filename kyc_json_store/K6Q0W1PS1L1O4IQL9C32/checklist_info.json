@@ -18,22 +18,22 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
-    "Missing",
+    "Validated",
+    "Validated",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Address proof is available with utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
-    "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Director information is partially verified; additional review is required.",
-    "Tax documentation exists but requires review and renewal.",
-    "Compliance with Industry License and Environmental regulations is under review.",
-    "Business scope verification is pending.",
-    "No PEP screening data found for the given LEI ID.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
-    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
+    "Address proof is available through a utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro scores for 2020\u20132022 are available and verified.",
+    "Bank and postal details verified with bank account and SWIFT code.",
+    "Directorship information is available but under review for verification status.",
+    "Tax documentation is available but pending additional review details.",
+    "Regulatory compliance data is under review for multiple regulation types, including AML.",
+    "Business scope details verified, highlighting its medium-scale operations and coverage.",
+    "Updated internal PEP screening data is available and verified through attachments.",
+    "Total net revenue of 158.1 billion dollars for 2023 is reported and verified.",
+    "Market capitalization of 489,320 million dollars for 2023 is reported and verified."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -43,7 +43,7 @@
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
     "DIM_CompanyBusinessScope",
-    "NA",
+    "Email Attachment",
     "Annual Report",
     "Annual Report"
   ]

@@ -1,5 +1,5 @@
 {
-  "mailTo": "surbhi.nagori@capgemini.com",
-  "mailSubject": "Confirmation of PEP Screening Validation for J.P. Morgan Securities PLC",
-  "mailBody": "Dear Client,\n\nI hope this message finds you well.\n\nI am writing to confirm that the \"Company PEP Screening\" has been marked as validated in the updated checklist for J.P. Morgan Securities PLC with LEI ID K6Q0W1PS1L1O4IQL9C32.\n\nHere are the key details from the updated checklist:\n\n- **Company Address Proof**: Validated\n- **Company Annual Account and Ellipro Survey**: Validated\n- **Company Bank and Postal Details**: Validated\n- **Company Directorship**: Pending\n- **Company Tax Documentation**: Validated\n- **Company Regulatory Compliance**: Validated\n- **Company Business Scope**: Validated\n- **Company PEP Screening**: Validated\n- **Company Revenue Details**: Validated\n- **Company Market Capitalization Details**: Validated\n\nPlease note that the \"Company Directorship\" remains in a pending status, and the \"Company PEP Screening\" has been successfully validated as per the analyzed data.\n\nIf you have any further questions or require additional information, please do not hesitate to reach out.\n\nBest regards,\nSurbhi Nagori\nsurbhi.nagori@capgemini.com"
+  "mailTo": "recipient@example.com",
+  "mailSubject": "Company PEP Screening Validation",
+  "mailBody": "Dear [Recipient Name],\n\nWe would like to inform you that the 'Company PEP Screening' has been successfully marked as validated. Please find the updated checklist details attached for your reference.\n\nBest regards,\n[Your Name]"
 }

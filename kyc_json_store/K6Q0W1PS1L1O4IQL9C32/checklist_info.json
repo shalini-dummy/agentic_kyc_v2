@@ -27,11 +27,11 @@
     "Utility Bill validated from London City Utilities.",
     "Annual accounts and Ellipro Survey data available for 2020-2022.",
     "Bank account and postal details confirmed.",
-    "Directorship verification remains incomplete; no further details found.",
-    "Tax documentation verified; taxes paid across multiple jurisdictions.",
+    "No additional details found for directorship verification.",
+    "Tax documents verified; pending additional info for certain docs.",
     "Compliance confirmed across multiple regulatory spheres.",
     "Business scope verified; global operations and diverse services.",
-    "PEP screening data verified using provided attachment; compliance ensured.",
+    "PEP screening data validated using the attachment provided.",
     "Revenue data available for 2021-2023; record growth confirmed.",
     "Market capitalization data available for 2021-2023."
   ],
@@ -43,8 +43,8 @@
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
     "DIM_CompanyBusinessScope",
-    "Attachment Data",
-    "DIM_CompanyRevenueDetails",
-    "DIM_CompanyMarketCapitalizationDetails"
+    "Attachment",
+    "RagAgent",
+    "RagAgent"
   ]
 }

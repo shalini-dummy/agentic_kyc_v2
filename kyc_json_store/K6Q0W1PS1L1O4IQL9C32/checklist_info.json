@@ -15,10 +15,10 @@
     "Validated",
     "Validated",
     "Validated",
-    "Missing",
-    "Missing",
-    "Missing",
-    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Pending",
     "Missing",
     "Validated",
     "Validated"
@@ -27,24 +27,24 @@
     "Address proof is available with utility bill issued by London City Utilities.",
     "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
     "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Organization does not release directorship information in its annual report.",
-    "Organization does not include details about tax documentation in its annual report.",
-    "Organization does not release information about regulatory compliance in its annual report.",
-    "Detailed business scope information is available, highlighting leadership roles and services.",
+    "Directorship details exist but verification is incomplete.",
+    "Tax documentation is available but requires additional information for verification.",
+    "Regulatory compliance is partially complete, with some areas under review.",
+    "Business scope details are present but require further verification.",
     "No PEP screening data found for the given LEI ID.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
-    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
+    "Revenue details are verified with reported net income and total assets for 2023.",
+    "Market capitalization details are reported accurately for 2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "DIM_CompanyBusinessScope",
     "NA",
-    "NA",
-    "NA",
-    "Annual Report",
-    "NA",
-    "Annual Report",
-    "Annual Report"
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey"
   ]
 }

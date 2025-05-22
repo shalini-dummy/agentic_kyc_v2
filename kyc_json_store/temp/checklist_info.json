@@ -17,9 +17,9 @@
     "Validated",
     "Pending",
     "Pending",
-    "Pending",
-    "Pending",
     "Missing",
+    "Validated",
+    "Validated",
     "Validated",
     "Validated"
   ],
@@ -29,9 +29,9 @@
     "Bank and postal details are verified with available bank account and SWIFT code.",
     "Director information is partially verified; additional review is required.",
     "Tax documentation exists but requires review and renewal.",
-    "Compliance with Industry License and Environmental regulations is under review.",
-    "Business scope verification is pending.",
-    "No PEP screening data found for the given LEI ID.",
+    "Organization does not include detailed regulatory compliance information in its report.",
+    "Business scope is available, highlighting leadership roles and services.",
+    "PEP screening data is available and validated for the organization.",
     "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
     "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
   ],
@@ -41,9 +41,9 @@
     "DIM_CompanyBankAndPostalDetails",
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
     "NA",
+    "DIM_CompanyBusinessScope",
+    "Attached Supplementary Data",
     "Annual Report",
     "Annual Report"
   ]

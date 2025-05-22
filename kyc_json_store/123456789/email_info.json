@@ -1,5 +1,5 @@
 {
-  "mailTo": "aman.abrol@capgemini.com",
-  "mailSubject": "Re: Gentle Reminder - Important: Submit Your May 2025 Timecard",
-  "mailBody": "Dear Aman,\n\nThank you for the reminder regarding the May 2025 timecard submission. I appreciate your guidance on the process.\n\nI will ensure that my timecard is submitted by the end of the day. If I encounter any issues, I will reach out for assistance as per your instructions. Additionally, I will make sure to submit any leave requests in advance if needed.\n\nThanks again for your support.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]\nclient@organization_name.com"
+  "mailTo": "recipient@example.com",
+  "mailSubject": "Company PEP Screening Validation",
+  "mailBody": "Dear [Recipient Name],\n\nWe would like to inform you that the 'Company PEP Screening' has been successfully marked as validated. Please find the updated checklist details attached for your reference.\n\nBest regards,\n[Your Name]"
 }

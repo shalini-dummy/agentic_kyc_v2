@@ -1,14 +1,15 @@
 {
   "items": [
+    "Company Directorship",
     "Company PEP Screening"
   ],
   "status": [
-    "Validated"
+    "Pending",
+    "Missing"
   ],
   "comments": [
-    "PEP screening data confirmed as available."
+    "No additional verification details are available.",
+    "No supplementary data was provided."
   ],
-  "sources": [
-    "Attachment data analysis"
-  ]
+  "sources": []
 }

@@ -1,50 +1,14 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Company PEP Screening"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Validated",
-    "Missing",
-    "Validated",
-    "Validated"
+    "Updated"
   ],
   "comments": [
-    "Address proof is available with utility bill issued by London City Utilities, valid until 2023-12-31.",
-    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
-    "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Two directors' information is under review or pending verification.",
-    "Multiple tax documents exist, but some are under review or pending additional info.",
-    "Compliance includes AML and Data Protection, but Industry License and Environmental Compliance are under review.",
-    "Detailed business scope highlighting leadership roles and services, with no pending aspects.",
-    "No PEP screening data found for the given LEI ID.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
-    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
+    "PEP screening information confirmed for J.P. MORGAN SECURITIES PLC. Multiple entries indicate varying PEP statuses and risk ratings, ensuring compliance with regulations."
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "Annual Report",
-    "NA",
-    "Annual Report",
-    "Annual Report"
+    "Attachment data related to PEP screening"
   ]
 }

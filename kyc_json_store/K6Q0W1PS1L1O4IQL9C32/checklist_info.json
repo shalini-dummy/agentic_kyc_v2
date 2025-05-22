@@ -28,10 +28,10 @@
     "Annual accounts and Ellipro Survey data available for 2020-2022.",
     "Bank account and postal details confirmed.",
     "No additional details found for directorship verification.",
-    "Tax documents verified; pending additional info for certain docs.",
+    "Tax documentation verified; taxes paid across multiple jurisdictions.",
     "Compliance confirmed across multiple regulatory spheres.",
     "Business scope verified; global operations and diverse services.",
-    "PEP screening data validated using the attachment provided.",
+    "PEP screening data validated; multiple high and medium risk ratings found.",
     "Revenue data available for 2021-2023; record growth confirmed.",
     "Market capitalization data available for 2021-2023."
   ],
@@ -43,8 +43,8 @@
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
     "DIM_CompanyBusinessScope",
-    "Attachment",
-    "RagAgent",
-    "RagAgent"
+    "Email Attachment",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "mailTo": "surbhi.nagori@capgemini.com",
-  "mailSubject": "Re: Updated Checklist for J.P. MORGAN SECURITIES PLC (LEI ID: K6Q0W1PS1L1O4IQL9C32)",
-  "mailBody": "Dear Shubham,\n\nThank you for providing the internal data to update the checklist for J.P. MORGAN SECURITIES PLC. I appreciate your assistance in this matter.\n\nI will review the attached data and ensure that the checklist is updated accordingly. If I encounter any further questions or require clarification on specific items, I will reach out.\n\nBest regards,\nSurbhi Nagori"
+  "mailTo": "Shubham",
+  "mailSubject": "Updated Checklist for J.P. MORGAN SECURITIES PLC (LEI ID: K6Q0W1PS1L1O4IQL9C32)",
+  "mailBody": "Dear Shubham,\n\nI hope this email finds you well.\n\nI am writing to inform you that the updated checklist for J.P. MORGAN SECURITIES PLC (LEI ID: K6Q0W1PS1L1O4IQL9C32) has been finalized. The checklist now reflects the most recent validations, including the extracted internal data and supplementary insights gathered.\n\nYou can find the finalized checklist stored in the JSON file located at the following path:\n\n`kyc_json_store/K6Q0W1PS1L1O4IQL9C32/checklist_info.json`\n\nPlease let me know if you have any questions or if there is anything further you would like to discuss.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]"
 }

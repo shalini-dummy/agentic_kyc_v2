@@ -1,24 +1,25 @@
 {
   "items": [
-    "Company Directorship",
-    "Tax Documentation",
-    "Regulatory Compliance",
-    "PEP Screening"
+    "PEP Screening Completed",
+    "Risk Rating Assigned",
+    "High-Risk PEPs Identified",
+    "Medium-Risk PEPs Identified",
+    "No PEP Match Found"
   ],
   "status": [
-    "Pending",
-    "Pending",
-    "Pending",
-    "Pending"
+    "Completed",
+    "Completed",
+    "Identified: Michael O. Barry, Olga Petrova",
+    "Identified: Fatima El-Sayed",
+    "Confirmed: Johnathan Lee"
   ],
   "comments": [
-    "Missing information from the JPMorgan Chase Annual Report 2023.",
-    "Missing information from the JPMorgan Chase Annual Report 2023.",
-    "Missing information from the JPMorgan Chase Annual Report 2023.",
-    "Supplementary data available."
+    "PEP screening was conducted for all customers listed.",
+    "Michael O. Barry and Olga Petrova are classified as high-risk PEPs.",
+    "Fatima El-Sayed is classified as a medium-risk PEP.",
+    "Johnathan Lee is confirmed with no PEP match."
   ],
   "sources": [
-    "JPMorgan Chase Annual Report 2023",
-    "Attachment from RagAgent"
+    "PEP screening data from attachment"
   ]
 }

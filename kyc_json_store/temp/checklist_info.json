@@ -1,24 +1,24 @@
 {
   "items": [
-    "Conduct PEP screening for new clients",
-    "Review existing PEP clients",
-    "Update risk ratings based on screening results",
-    "Ensure compliance with AML regulations"
+    "Company Directorship",
+    "Tax Documentation",
+    "Regulatory Compliance",
+    "PEP Screening"
   ],
   "status": [
-    "Completed",
-    "In Progress",
+    "Pending",
+    "Pending",
     "Pending",
     "Pending"
   ],
   "comments": [
-    "Michael O. Barry has high risk due to PEP status",
-    "Fatima El-Sayed has medium risk and requires further monitoring",
-    "Olga Petrova is high risk and needs immediate action",
-    "Johnathan Lee is not a PEP and can proceed"
+    "Missing information from the JPMorgan Chase Annual Report 2023.",
+    "Missing information from the JPMorgan Chase Annual Report 2023.",
+    "Missing information from the JPMorgan Chase Annual Report 2023.",
+    "Supplementary data available."
   ],
   "sources": [
-    "Internal PEP screening data",
-    "Latest compliance guidelines"
+    "JPMorgan Chase Annual Report 2023",
+    "Attachment from RagAgent"
   ]
 }

@@ -1,50 +1,42 @@
 {
   "items": [
     "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Annual Accounts",
+    "Bank Details",
+    "Directorship",
+    "Tax Documents",
+    "Regulatory Compliance",
+    "Business Scope",
+    "PEP Screening"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Missing",
-    "Validated",
-    "Validated"
+    "Completed",
+    "Completed",
+    "Completed",
+    "Completed",
+    "Completed",
+    "Completed",
+    "Completed",
+    "In Progress"
   ],
   "comments": [
-    "Address proof is available with utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
-    "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Directorship details are available with pending and under-review statuses for directors.",
-    "Various tax documents available, with some still pending review or requiring renewal.",
-    "Regulatory compliance information includes AML and data protection compliance statuses.",
-    "Business scope includes corporation type, industry code, and operational scale.",
-    "No PEP screening data found for the given LEI ID.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
-    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
+    "Verified and up to date",
+    "All documents received and reviewed",
+    "Bank details confirmed",
+    "Directorship information validated",
+    "Tax documents submitted",
+    "Regulatory compliance checks completed",
+    "Business scope defined",
+    "Pending review of PEP screening data"
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
-    "NA",
-    "Annual Report",
-    "Annual Report"
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "Attachment Data"
   ]
 }

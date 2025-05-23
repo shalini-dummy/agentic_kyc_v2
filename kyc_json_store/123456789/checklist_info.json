@@ -1,26 +1,50 @@
 {
   "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
     "Company Directorship",
     "Company Tax Documentation",
     "Company Regulatory Compliance",
-    "Company PEP Screening"
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
   ],
   "status": [
-    "Not Available",
-    "Not Available",
-    "Not Available",
-    "Not Available"
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated"
   ],
   "comments": [
-    "Supplementary data provided by RagAgent confirms absence of details.",
-    "Supplementary data provided by RagAgent confirms absence of details.",
-    "Supplementary data provided by RagAgent confirms absence of details.",
-    "Supplementary data provided by RagAgent confirms absence of details."
+    "Address proof is available with utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
+    "Bank and postal details are verified with available bank account and SWIFT code.",
+    "Director details are available but pending verification.",
+    "Various tax documents are available but pending review and verification.",
+    "Compliance information is available but certain details are still under review.",
+    "Detailed business scope information is available, highlighting leadership roles and services.",
+    "PEP screening data found and validated with high-risk ratings identified.",
+    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
+    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
   ],
   "sources": [
-    "JPMorgan Chase Annual Report 2023",
-    "JPMorgan Chase Annual Report 2023",
-    "JPMorgan Chase Annual Report 2023",
-    "JPMorgan Chase Annual Report 2023"
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "DIM_CompanyBusinessScope",
+    "Attachment from Email",
+    "Annual Report",
+    "Annual Report"
   ]
 }

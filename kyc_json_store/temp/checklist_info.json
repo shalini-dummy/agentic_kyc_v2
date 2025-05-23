@@ -1,0 +1,38 @@
+{
+  "items": [
+    "Address Proof",
+    "Annual Accounts",
+    "Directorship",
+    "Tax Documents",
+    "Regulatory Compliance",
+    "Business Scope",
+    "PEP Screening Status"
+  ],
+  "status": [
+    "Completed",
+    "Pending",
+    "Completed",
+    "Completed",
+    "Pending",
+    "Completed",
+    "Pending"
+  ],
+  "comments": [
+    "Valid document submitted",
+    "Awaiting financial statements",
+    "All directors listed",
+    "Tax documents verified",
+    "Compliance check in progress",
+    "Scope of business is clear",
+    "Pending review of PEP screening"
+  ],
+  "sources": [
+    "Document Archive",
+    "Financial Records",
+    "Company Registry",
+    "Tax Authority",
+    "Regulatory Body",
+    "Business Plan",
+    "Screening Database"
+  ]
+}

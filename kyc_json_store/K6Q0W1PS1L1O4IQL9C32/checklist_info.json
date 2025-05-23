@@ -1,23 +1,50 @@
 {
   "items": [
-    "PEP Screening for Michael O. Barry",
-    "PEP Screening for Fatima El-Sayed",
-    "PEP Screening for Olga Petrova",
-    "PEP Screening for Johnathan Lee"
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
   ],
   "status": [
-    "Completed",
-    "Completed",
-    "Completed",
-    "Not Completed"
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
   ],
   "comments": [
-    "PEP match found, high risk rating",
-    "PEP match found, medium risk rating",
-    "PEP match found, high risk rating",
-    "No PEP match, low risk rating"
+    "Address proof is available with utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
+    "Bank and postal details are verified with available bank account and SWIFT code.",
+    "Directorship details are available with pending and under-review statuses for directors.",
+    "Various tax documents available, with some still pending review or requiring renewal.",
+    "Regulatory compliance information includes AML and data protection compliance statuses.",
+    "Business scope includes corporation type, industry code, and operational scale.",
+    "No PEP screening data found for the given LEI ID.",
+    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
+    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
   ],
   "sources": [
-    "PEP Screening Data"
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "DIM_CompanyBusinessScope",
+    "NA",
+    "Annual Report",
+    "Annual Report"
   ]
 }

@@ -18,7 +18,7 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Validated",
     "Validated",
     "Validated"
@@ -27,11 +27,11 @@
     "Address proof is available with utility bill issued by London City Utilities.",
     "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
     "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Directorship data is under review; verification status is pending.",
-    "Tax documentation includes partial data; additional review is required.",
-    "Regulatory compliance includes mixed statuses; further review needed.",
-    "Business scope data is under verification for completeness.",
-    "PEP screening data is provided in the attachment.",
+    "Directorship information requires further verification; documents are under review.",
+    "Various tax documents are available but require additional verification and updates.",
+    "Partial compliance data available; several compliance areas are under review.",
+    "Verified business scope includes corporation setup with national geographic coverage.",
+    "Attachment provides detailed PEP screening data for multiple individuals.",
     "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
     "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
   ],
@@ -43,7 +43,7 @@
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
     "DIM_CompanyBusinessScope",
-    "Attachment",
+    "Email Attachment",
     "Annual Report",
     "Annual Report"
   ]

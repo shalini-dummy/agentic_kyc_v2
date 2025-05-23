@@ -1,42 +1,23 @@
 {
   "items": [
-    "Company Address Proof",
-    "Annual Accounts",
-    "Bank Details",
-    "Directorship",
-    "Tax Documents",
-    "Regulatory Compliance",
-    "Business Scope",
-    "PEP Screening"
+    "PEP Screening for Michael O. Barry (Customer ID: 10002345) - High Risk",
+    "PEP Screening for Fatima El-Sayed (Customer ID: 10004567) - Medium Risk",
+    "PEP Screening for Olga Petrova (Customer ID: 10007894) - High Risk",
+    "PEP Screening for Johnathan Lee (Customer ID: 10009876) - Low Risk"
   ],
   "status": [
     "Completed",
     "Completed",
     "Completed",
-    "Completed",
-    "Completed",
-    "Completed",
-    "Completed",
-    "In Progress"
+    "Completed"
   ],
   "comments": [
-    "Verified and up to date",
-    "All documents received and reviewed",
-    "Bank details confirmed",
-    "Directorship information validated",
-    "Tax documents submitted",
-    "Regulatory compliance checks completed",
-    "Business scope defined",
-    "Pending review of PEP screening data"
+    "Identified as high risk due to federal political exposure.",
+    "Identified as medium risk due to foreign senior government position.",
+    "Identified as high risk due to foreign political exposure.",
+    "No PEP status identified."
   ],
   "sources": [
-    "DIMS Database",
-    "DIMS Database",
-    "DIMS Database",
-    "DIMS Database",
-    "DIMS Database",
-    "DIMS Database",
-    "DIMS Database",
-    "Attachment Data"
+    "PEP Screening Data"
   ]
 }

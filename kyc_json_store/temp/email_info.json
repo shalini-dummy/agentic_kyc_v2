@@ -1,5 +1,0 @@
-{
-  "mailTo": "surbhi.nagori@capgemini.com",
-  "mailSubject": "Updated Checklist for J.P. MORGAN SECURITIES PLC",
-  "mailBody": "Dear Shubham,\n\nI hope this message finds you well.\n\nI wanted to inform you that the checklist for J.P. MORGAN SECURITIES PLC (LEI ID: K6Q0W1PS1L1O4IQL9C32) has been successfully updated. The final checklist now incorporates both the internal data and supplementary information retrieved, addressing all pending items.\n\nHere\u2019s a summary of the updated checklist:\n\n- **Company Directorship**: No specific details are available in the annual report.\n- **Company Tax Documentation**: No information regarding tax documentation is included in the annual report.\n- **Company Business Scope**: Comprehensive details about the company\u2019s financial services and corporate responsibilities have been provided.\n\nThe finalized checklist has been saved in JSON format and can be accessed at the following location: `kyc_json_store/K6Q0W1PS1L1O4IQL9C32/checklist_info.json`.\n\nPlease let me know if you need any further information or clarification.\n\nBest regards,\nSurbhi Nagori  \nsurbhi.nagori@capgemini.com"
-}

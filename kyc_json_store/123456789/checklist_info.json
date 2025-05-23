@@ -1,50 +1,24 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Conduct PEP screening for new clients",
+    "Review existing PEP clients",
+    "Update risk ratings based on screening results",
+    "Ensure compliance with AML regulations"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
+    "Completed",
+    "In Progress",
     "Pending",
-    "Pending",
-    "Pending",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated"
+    "Pending"
   ],
   "comments": [
-    "Address proof is available with utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
-    "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Organization has directors, but verification is still under review for key positions.",
-    "Tax documents available with partial verification; additional information is awaited.",
-    "Compliance data partially available; some regulations under review.",
-    "Detailed business scope information is available, highlighting leadership roles.",
-    "Screening data available; high-risk individuals identified and categorized.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
-    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
+    "Michael O. Barry has high risk due to PEP status",
+    "Fatima El-Sayed has medium risk and requires further monitoring",
+    "Olga Petrova is high risk and needs immediate action",
+    "Johnathan Lee is not a PEP and can proceed"
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
-    "Email Attachment",
-    "Annual Report",
-    "Annual Report"
+    "Internal PEP screening data",
+    "Latest compliance guidelines"
   ]
 }

@@ -1,50 +1,38 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Address Proof",
+    "Annual Accounts",
+    "Directorship",
+    "Tax Documents",
+    "Regulatory Compliance",
+    "Business Scope",
+    "PEP Screening Status"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
-    "Missing",
-    "Missing",
-    "Missing",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated"
+    "Completed",
+    "Pending",
+    "Completed",
+    "Completed",
+    "Pending",
+    "Completed",
+    "Pending"
   ],
   "comments": [
-    "Address proof validated with utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores available for 2020\u20132022.",
-    "Bank details verified with provided SWIFT code and postal address.",
-    "Organization does not include directorship information in its 2023 Annual Report.",
-    "Organization does not provide tax documentation in its 2023 Annual Report.",
-    "Organization does not provide details about regulatory compliance in its 2023 Annual Report.",
-    "Detailed business scope provided in the 2023 Annual Report, highlighting sectoral operations.",
-    "Verified PEP screening data from attached file.",
-    "Total net revenue of 158.1 billion dollars reported for the year ended December 31, 2023.",
-    "Market capitalization as of December 31, 2023 reported as 489,320 million dollars."
+    "Valid document submitted",
+    "Awaiting financial statements",
+    "All directors listed",
+    "Tax documents verified",
+    "Compliance check in progress",
+    "Scope of business is clear",
+    "Pending review of PEP screening"
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "NA",
-    "NA",
-    "NA",
-    "Annual Report",
-    "Attachment",
-    "Annual Report",
-    "Annual Report"
+    "Document Archive",
+    "Financial Records",
+    "Company Registry",
+    "Tax Authority",
+    "Regulatory Body",
+    "Business Plan",
+    "Screening Database"
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "items": [
+    "Michael O. Barry - PEP Screening",
+    "Fatima El-Sayed - PEP Screening",
+    "Olga Petrova - PEP Screening",
+    "Johnathan Lee - PEP Screening"
+  ],
+  "status": [
+    "Pending",
+    "Pending",
+    "Pending",
+    "Cleared"
+  ],
+  "comments": [
+    "High Risk - Action Needed",
+    "Medium Risk - Monitor",
+    "High Risk - Action Needed",
+    "Low Risk - No Action Needed"
+  ],
+  "sources": [
+    "Domestic \u2013 Federal",
+    "Foreign \u2013 Senior Govt",
+    "Foreign \u2013 Political",
+    "N/A"
+  ]
+}

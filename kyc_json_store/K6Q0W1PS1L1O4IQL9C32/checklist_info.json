@@ -1,50 +1,23 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "PEP Screening for Michael O. Barry",
+    "PEP Screening for Fatima El-Sayed",
+    "PEP Screening for Olga Petrova",
+    "PEP Screening for Johnathan Lee"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Validated",
-    "Validated",
-    "Validated"
+    "Completed",
+    "Completed",
+    "Completed",
+    "Not Completed"
   ],
   "comments": [
-    "Address proof available with utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
-    "Bank account and postal details verified with available SWIFT code.",
-    "Directors' verification statuses are pending or under review.",
-    "Tax documents are pending review or renewal.",
-    "Some regulatory compliance statuses are under review.",
-    "Business scope verification is still pending.",
-    "PEP screening data is available for high-risk individuals as per attached document.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
-    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
+    "PEP match found, high risk rating",
+    "PEP match found, medium risk rating",
+    "PEP match found, high risk rating",
+    "No PEP match, low risk rating"
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
-    "Attachment",
-    "Annual Report",
-    "Annual Report"
+    "PEP Screening Data"
   ]
 }

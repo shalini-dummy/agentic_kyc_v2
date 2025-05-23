@@ -1,22 +1,26 @@
 {
   "items": [
-    "Item 1",
-    "Item 2",
-    "Item 3"
+    "Review PEP screening process",
+    "Ensure compliance with AML regulations",
+    "Monitor identified PEPs for potential risks",
+    "Conduct further investigation on high-risk PEPs"
   ],
   "status": [
-    "Completed",
     "Pending",
-    "In Progress"
+    "In Progress",
+    "Pending",
+    "Pending"
   ],
   "comments": [
-    "All good",
-    "Waiting for approval",
-    "Needs review"
+    "Awaiting review of screening process",
+    "Compliance team is currently reviewing",
+    "Pending action",
+    "Pending action"
   ],
   "sources": [
-    "Source 1",
-    "Source 2",
-    "Source 3"
+    "PEP screening data",
+    "AML compliance guidelines",
+    "Internal risk assessment reports",
+    "Government PEP databases"
   ]
 }

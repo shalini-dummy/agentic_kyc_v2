@@ -1,14 +1,26 @@
 {
   "items": [
-    "Company PEP Screening"
+    "Michael O. Barry - PEP Screening",
+    "Fatima El-Sayed - PEP Screening",
+    "Olga Petrova - PEP Screening",
+    "Johnathan Lee - PEP Screening"
   ],
   "status": [
-    "Validated"
+    "Pending",
+    "Pending",
+    "Pending",
+    "Cleared"
   ],
   "comments": [
-    "PEP screening data confirms that J.P. Morgan conducts PEP screening processes to comply with anti-money laundering (AML) regulations."
+    "High Risk - Action Needed",
+    "Medium Risk - Monitor",
+    "High Risk - Action Needed",
+    "Low Risk - No Action Needed"
   ],
   "sources": [
-    "PEP Screening Data"
+    "Domestic \u2013 Federal",
+    "Foreign \u2013 Senior Govt",
+    "Foreign \u2013 Political",
+    "N/A"
   ]
 }

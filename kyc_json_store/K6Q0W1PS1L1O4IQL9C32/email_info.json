@@ -1,5 +1,5 @@
 {
-  "mailTo": "shubham.sahay@capgemini.com",
-  "mailSubject": "Re: Updated Checklist for J.P. MORGAN SECURITIES PLC (LEI ID: K6Q0W1PS1L1O4IQL9C32)",
-  "mailBody": "Dear Shubham,\n\nThank you for your email and for providing the internal data to update the checklist.\n\nI have successfully updated the checklist for J.P. MORGAN SECURITIES PLC, incorporating the PEP screening data you attached. The checklist now reflects that the \"Company PEP Screening\" item has been validated, confirming the organization's compliance with anti-money laundering regulations.\n\nIf you have any further questions or require additional information, please feel free to reach out.\n\nBest regards,\nSurbhi Nagori\nsurbhi.nagori@capgemini.com"
+  "mailTo": "surbhi@example.com",
+  "mailSubject": "Updated Checklist for J.P. MORGAN SECURITIES PLC (LEI ID: K6Q0W1PS1L1O4IQL9C32)",
+  "mailBody": "Dear Surbhi,\n\nI hope this message finds you well.\n\nPlease find attached the updated checklist for J.P. MORGAN SECURITIES PLC, associated with LEI ID K6Q0W1PS1L1O4IQL9C32. This version reflects the latest data, including the PEP screening information and the statuses of various checklist items.\n\nIf you have any further questions or need additional information, please do not hesitate to reach out.\n\nBest regards,\n\nShubham Sahay  \nshubham.sahay@capgemini.com  \nJ.P. MORGAN SECURITIES PLC  \n[Attachment: checklist_info.json]"
 }

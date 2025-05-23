@@ -1,0 +1,25 @@
+{
+  "items": [
+    "PEP Screening Completed",
+    "Risk Rating Assigned",
+    "High-Risk PEPs Identified",
+    "Medium-Risk PEPs Identified",
+    "No PEP Match Found"
+  ],
+  "status": [
+    "Completed",
+    "Completed",
+    "Identified: Michael O. Barry, Olga Petrova",
+    "Identified: Fatima El-Sayed",
+    "Confirmed: Johnathan Lee"
+  ],
+  "comments": [
+    "PEP screening was conducted for all customers listed.",
+    "Michael O. Barry and Olga Petrova are classified as high-risk PEPs.",
+    "Fatima El-Sayed is classified as a medium-risk PEP.",
+    "Johnathan Lee is confirmed with no PEP match."
+  ],
+  "sources": [
+    "PEP screening data from attachment"
+  ]
+}

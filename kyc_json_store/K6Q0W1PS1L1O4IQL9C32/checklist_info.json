@@ -1,26 +1,50 @@
 {
   "items": [
-    "Review PEP screening process",
-    "Ensure compliance with AML regulations",
-    "Monitor identified PEPs for potential risks",
-    "Conduct further investigation on high-risk PEPs"
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Business Scope",
+    "Company Revenue Details",
+    "Company Market Capitalization Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company PEP Screening"
   ],
   "status": [
-    "Pending",
-    "In Progress",
-    "Pending",
-    "Pending"
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Validated"
   ],
   "comments": [
-    "Awaiting review of screening process",
-    "Compliance team is currently reviewing",
-    "Pending action",
-    "Pending action"
+    "",
+    "Valid",
+    "Valid",
+    "Valid",
+    "Valid",
+    "Valid",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Screening completed, details validated."
   ],
   "sources": [
-    "PEP screening data",
-    "AML compliance guidelines",
-    "Internal risk assessment reports",
-    "Government PEP databases"
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "PEP Screening Results"
   ]
 }

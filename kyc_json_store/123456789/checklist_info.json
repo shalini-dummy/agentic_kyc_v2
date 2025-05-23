@@ -1,22 +1,14 @@
 {
   "items": [
-    "Item 1",
-    "Item 2",
-    "Item 3"
+    "Company PEP Screening"
   ],
   "status": [
-    "Completed",
-    "In Progress",
-    "Pending"
+    "Validated"
   ],
   "comments": [
-    "Comment 1",
-    "Comment 2",
-    "Comment 3"
+    "PEP screening data confirms that J.P. Morgan conducts PEP screening processes to comply with anti-money laundering (AML) regulations."
   ],
   "sources": [
-    "Source 1",
-    "Source 2",
-    "Source 3"
+    "PEP Screening Data"
   ]
 }

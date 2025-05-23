@@ -1,0 +1,24 @@
+{
+  "items": [
+    "Conduct PEP screening for new clients",
+    "Review existing PEP clients",
+    "Update risk ratings based on screening results",
+    "Ensure compliance with AML regulations"
+  ],
+  "status": [
+    "Completed",
+    "In Progress",
+    "Pending",
+    "Pending"
+  ],
+  "comments": [
+    "Michael O. Barry has high risk due to PEP status",
+    "Fatima El-Sayed has medium risk and requires further monitoring",
+    "Olga Petrova is high risk and needs immediate action",
+    "Johnathan Lee is not a PEP and can proceed"
+  ],
+  "sources": [
+    "Internal PEP screening data",
+    "Latest compliance guidelines"
+  ]
+}

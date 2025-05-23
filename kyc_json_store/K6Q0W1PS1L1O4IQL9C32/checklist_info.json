@@ -1,22 +1,50 @@
 {
   "items": [
-    "Item 1",
-    "Item 2",
-    "Item 3"
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
   ],
   "status": [
-    "Complete",
-    "Incomplete",
-    "Pending"
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Validated",
+    "Validated",
+    "Validated"
   ],
   "comments": [
-    "Good progress",
-    "Needs review",
-    "Awaiting approval"
+    "Address proof validated with utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro scores available for 2020\u20132022.",
+    "Bank details verified with provided SWIFT code and postal address.",
+    "Directorship data is under review based on provided documents.",
+    "Tax documents require additional information and renewal for compliance.",
+    "Several compliance statuses under review; awaiting updates from authorities.",
+    "Business scope data requires final verification for validation.",
+    "Verified PEP screening data from attached file.",
+    "Total net revenue of 158.1 billion dollars reported for the year ended December 31, 2023.",
+    "Market capitalization as of December 31, 2023 reported as 489,320 million dollars."
   ],
   "sources": [
-    "Source 1",
-    "Source 2",
-    "Source 3"
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "DIM_CompanyBusinessScope",
+    "Attachment",
+    "Annual Report",
+    "Annual Report"
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Annual Accounts",
+    "Bank Details",
+    "Directorship",
+    "Tax Documents",
+    "Regulatory Compliance",
+    "Business Scope",
+    "PEP Screening"
+  ],
+  "status": [
+    "Completed",
+    "Completed",
+    "Completed",
+    "Completed",
+    "Completed",
+    "Completed",
+    "Completed",
+    "In Progress"
+  ],
+  "comments": [
+    "Verified and up to date",
+    "All documents received and reviewed",
+    "Bank details confirmed",
+    "Directorship information validated",
+    "Tax documents submitted",
+    "Regulatory compliance checks completed",
+    "Business scope defined",
+    "Pending review of PEP screening data"
+  ],
+  "sources": [
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "DIMS Database",
+    "Attachment Data"
+  ]
+}

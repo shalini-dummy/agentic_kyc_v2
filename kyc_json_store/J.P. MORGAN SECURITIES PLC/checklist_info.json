@@ -19,7 +19,7 @@
     "Missing",
     "Missing",
     "Validated",
-    "Validated",
+    "Missing",
     "Validated",
     "Validated"
   ],
@@ -31,7 +31,7 @@
     "Organization does not include details about tax documentation in its annual report.",
     "Organization does not release information about regulatory compliance in its annual report.",
     "Detailed business scope information is available, highlighting leadership roles and services.",
-    "PEP screening data is now available; see details in the attachment.",
+    "No PEP screening data found for the given LEI ID.",
     "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
     "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
   ],
@@ -43,7 +43,7 @@
     "NA",
     "NA",
     "Annual Report",
-    "PEP Screening Attachment",
+    "NA",
     "Annual Report",
     "Annual Report"
   ]

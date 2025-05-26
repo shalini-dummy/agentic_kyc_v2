@@ -1,18 +1,22 @@
 {
   "title": [
-    "Adverse News Title 1",
-    "Adverse News Title 2"
+    "Potential Engine Failure Recall Impacts 600,000 GM Vehicles",
+    "At least 11 hurt in South Carolina beach town shooting",
+    "Exxon, Hess to face off on Chevron deal for oilfield riches"
   ],
   "adversity": [
-    "Adverse news event 1",
-    "Adverse news event 2"
+    "High",
+    "Medium",
+    "Very High"
   ],
   "reasoning": [
-    "Reason for adverse news 1",
-    "Reason for adverse news 2"
+    "Affects a large number of vehicles, multiple reports indicate severity.",
+    "Reported by multiple sources, indicates a significant incident.",
+    "Multiple concerning incidents reported, highlighting serious implications for ExxonMobil."
   ],
   "news": [
-    "Details of adverse news 1",
-    "Details of adverse news 2"
+    "Potential Engine Failure Recall impacts 600,000 GM Vehicles.",
+    "Reported incident indicates a significant occurrence with multiple injuries.",
+    "Exxon, Hess to face off on Monday over Chevron deal for oilfield riches; Israeli attacks kill 76; no aid relief yet for besieged Gaza."
   ]
 }

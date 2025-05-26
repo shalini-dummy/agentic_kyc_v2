@@ -13,38 +13,38 @@
   ],
   "status": [
     "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
     "Pending",
-    "Validated",
-    "Validated",
-    "Validated",
     "Pending",
-    "Validated",
+    "Pending",
     "Missing",
-    "Validated",
-    "Validated"
+    "Missing"
   ],
   "comments": [
-    "Headquarters address is provided: 25 Bank Street, Canary Wharf, London, GB-TWH, E14 5JP.",
-    "Annual account details are available, but no information about the Ellipro Survey is provided.",
-    "BIC code is provided: JPMSGB2LXXX.",
-    "Headquarters address is provided: 25 Bank Street, Canary Wharf, London, GB-TWH, E14 5JP.",
-    "Jurisdiction is identified as Great Britain (GB).",
-    "No specific details about regulatory compliance in the provided data.",
-    "Business scope includes Consumer & Community Banking, Corporate & Investment Banking, among others.",
-    "No PEP screening details are present in the provided data.",
-    "Revenue details for 2023 are available: $162.4 billion net revenue.",
-    "Market capitalization for 2023 is provided: $489.32 billion."
+    "Utility Bill verified with document number UTL123456789.",
+    "Annual accounts and Ellipro data for the last three years are available.",
+    "Bank and postal details are complete and verified.",
+    "Headquarters address matches the official registration details.",
+    "Registered jurisdiction is Great Britain as per LEI data.",
+    "Some regulations are under review or have medium/high risk levels.",
+    "Business scope verification is pending.",
+    "PEP screening includes matches requiring additional documentation.",
+    "Revenue details are not provided.",
+    "Market capitalization details are not provided."
   ],
   "sources": [
     "Internal Data",
-    "Documents",
     "Internal Data",
     "Internal Data",
     "Internal Data",
-    "Documents",
-    "Documents",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
     "NA",
-    "Documents",
-    "Documents"
+    "NA"
   ]
 }

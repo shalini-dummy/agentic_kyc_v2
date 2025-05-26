@@ -1,25 +1,50 @@
 {
   "items": [
-    "PEP Screening Completed",
-    "Risk Rating Assigned",
-    "High-Risk PEPs Identified",
-    "Medium-Risk PEPs Identified",
-    "No PEP Match Found"
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
   ],
   "status": [
-    "Completed",
-    "Completed",
-    "Identified: Michael O. Barry, Olga Petrova",
-    "Identified: Fatima El-Sayed",
-    "Confirmed: Johnathan Lee"
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Pending",
+    "Validated",
+    "Validated"
   ],
   "comments": [
-    "PEP screening was conducted for all customers listed.",
-    "Michael O. Barry and Olga Petrova are classified as high-risk PEPs.",
-    "Fatima El-Sayed is classified as a medium-risk PEP.",
-    "Johnathan Lee is confirmed with no PEP match."
+    "Address proof available via a utility bill issued by London City Utilities, valid until 2023-12-31.",
+    "Annual accounts and Ellipro scores for 2020-2022 are available and verified.",
+    "Bank account and postal details are verified, including SWIFT code and postal address.",
+    "Headquarters address matches the legal address and is verified.",
+    "Jurisdiction identified as Great Britain (GB) based on the LEI data.",
+    "Regulatory compliance details for AML, data protection, and others are not disclosed in the Annual Report.",
+    "Verified business scope includes operations across Consumer & Community Banking, Corporate & Investment Banking, Commercial Banking, and Asset & Wealth Management.",
+    "PEP screening shows confirmed matches requiring additional documentation for resolution.",
+    "Total net revenue of $158.1 billion reported for the year ended December 31, 2023.",
+    "Market capitalization of $489,320 million as of December 31, 2023."
   ],
   "sources": [
-    "PEP screening data from attachment"
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "GLEIF API",
+    "GLEIF API",
+    "NA",
+    "Documents",
+    "Internal Data",
+    "Documents",
+    "Documents"
   ]
 }

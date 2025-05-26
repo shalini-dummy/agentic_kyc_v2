@@ -1,0 +1,22 @@
+{
+  "items": [
+    "Review financial statements",
+    "Conduct risk assessment",
+    "Ensure compliance with regulations"
+  ],
+  "status": [
+    "Completed",
+    "In Progress",
+    "Pending"
+  ],
+  "comments": [
+    "Reviewed Q2 results",
+    "Risk assessment underway",
+    "Waiting for regulatory updates"
+  ],
+  "sources": [
+    "Internal Audit Reports",
+    "Management Meetings",
+    "Regulatory Filings"
+  ]
+}

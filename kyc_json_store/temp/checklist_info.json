@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Missing",
+    "Missing"
+  ],
+  "comments": [
+    "Utility Bill verified with document number UTL123456789.",
+    "Annual accounts and Ellipro data for the last three years are available.",
+    "Bank and postal details are complete and verified.",
+    "Headquarters address matches the official registration details.",
+    "Registered jurisdiction is Great Britain as per LEI data.",
+    "Some regulations are under review or have medium/high risk levels.",
+    "Business scope verification is pending.",
+    "PEP screening includes matches requiring additional documentation.",
+    "Revenue details are not provided.",
+    "Market capitalization details are not provided."
+  ],
+  "sources": [
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "NA",
+    "NA"
+  ]
+}

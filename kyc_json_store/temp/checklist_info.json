@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Utility bill verified with issued date 2023-01-15 and expiry 2023-12-31.",
+    "Data available for years 2020, 2021, 2022; Ellipro scores validated (80, 83, 85 respectively).",
+    "Bank account and SWIFT code validated for London; Postal code matches headquarters.",
+    "Address matches LEI database: 25 Bank Street, Canary Wharf, London, GB, E14 5JP.",
+    "Jurisdiction confirmed as Great Britain (GB).",
+    "Some regulatory compliances are under review (Industry License, Environmental Compliance).",
+    "Verification of Business Scope marked as pending.",
+    "PEP screening indicates confirmed matches requiring additional documentation.",
+    "Revenue details provided: Total net revenue of 158.1 billion USD for 2023.",
+    "Market capitalization reported as 489,320 million USD as of December 31, 2023."
+  ],
+  "sources": [
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Internal Data",
+    "Documents",
+    "Documents"
+  ]
+}

@@ -1,14 +1,18 @@
 {
   "title": [
-    "iPhone spyware company NSO suffers major defeat in US court"
+    "Adverse News Title 1",
+    "Adverse News Title 2"
   ],
   "adversity": [
-    "High"
+    "Adverse news event 1",
+    "Adverse news event 2"
   ],
   "reasoning": [
-    "Reported by multiple sources, indicating significant legal challenges for NSO."
+    "Reason for adverse news 1",
+    "Reason for adverse news 2"
   ],
   "news": [
-    "The Android and iPhone spyware company NSO has suffered a major defeat in a US court, after a judge ruled that the company must hand over its Pegasus code to Meta."
+    "Details of adverse news 1",
+    "Details of adverse news 2"
   ]
 }

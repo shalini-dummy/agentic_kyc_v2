@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Validated",
+    "Pending",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Utility bill from London City Utilities is available and valid until 2023-12-31.",
+    "Data for 2020, 2021, and 2022 is available with Ellipro scores of 80, 83, and 85 respectively.",
+    "Bank and postal details including SWIFT and account number are verified.",
+    "Address matches the provided data (25 Bank Street, Canary Wharf, London, GB).",
+    "Jurisdiction is Great Britain (GB), confirmed from SQL data.",
+    "Industry License and Environmental Compliance are under review.",
+    "Scope includes investment banking, commercial banking, asset management, etc.",
+    "Two matches require additional documentation; resolution is under investigation.",
+    "Total net revenue figures for 2023, 2022, and 2021 are available in the report.",
+    "Market capitalization figures for 2023, 2022, and 2021 are reported in the annual report."
+  ],
+  "sources": [
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "JPMorgan Chase Annual Report 2023",
+    "SQL Database",
+    "JPMorgan Chase Annual Report 2023",
+    "JPMorgan Chase Annual Report 2023"
+  ]
+}

@@ -1,50 +1,22 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Headquarters Address",
-    "Company Jurisdiction",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Item 1",
+    "Item 2",
+    "Item 3"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
     "Pending",
-    "Validated",
-    "Pending",
-    "Validated",
-    "Validated"
+    "Completed",
+    "In Progress"
   ],
   "comments": [
-    "Valid utility bill issued by London City Utilities, expiry date: 2023-12-31.",
-    "Data available for fiscal years 2020, 2021, and 2022 with Ellipro scores: 80, 83, and 85 respectively.",
-    "Bank account and SWIFT details match organization records.",
-    "Headquarters address verified: 25 Bank Street, Canary Wharf, London.",
-    "Jurisdiction confirmed as Great Britain (GB).",
-    "Environmental Compliance requires further review; Industry License compliance verified via financial commitment to regulatory requirements.",
-    "JP Morgan Chase operates globally in over 100 countries, offering diverse financial services.",
-    "Confirmed matches in PEP screening require additional documentation; resolution status under investigation.",
-    "Record revenue of 162.4 billion dollars achieved in 2023, marking the sixth consecutive year of record revenue.",
-    "Market capitalization details provided: 2023 - 489,320M USD; 2022 - 393,484M USD; 2021 - 466,206M USD."
+    "Comment 1",
+    "Comment 2",
+    "Comment 3"
   ],
   "sources": [
-    "Internal Data",
-    "Internal Data",
-    "Internal Data",
-    "Internal Data",
-    "Internal Data",
-    "Documents",
-    "Documents",
-    "Internal Data",
-    "Documents",
-    "Documents"
+    "Source 1",
+    "Source 2",
+    "Source 3"
   ]
 }

@@ -24,16 +24,16 @@
     "Missing"
   ],
   "comments": [
-    "Valid utility bill is available and verified.",
-    "Annual accounts data for 2020-2022 is verified.",
-    "Bank account and postal details are available and verified.",
-    "Some directorship details are not fully verified.",
-    "Some tax documents are pending review or renewal.",
-    "Some regulatory compliance statuses are under review.",
+    "Address proof (Utility Bill) is verified and valid until 2023-12-31.",
+    "Annual accounts for 2020-2022 are available, with Ellipro scores ranging from 80 to 85.",
+    "Bank and postal details are complete and verified.",
+    "Some director details are under review; others are pending verification.",
+    "Multiple tax documents are either pending review or require renewal.",
+    "Industry license and environmental compliance are under review.",
     "Business scope verification is pending.",
-    "No PEP screening data available for the organization.",
-    "Revenue details are not available in the provided data.",
-    "Market capitalization details are not available in the provided data."
+    "No PEP screening data found for the company.",
+    "Revenue details not available from the organization or DIMS data.",
+    "Market capitalization details not available."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Missing",
+    "Missing",
+    "Missing"
+  ],
+  "comments": [
+    "Verified using Utility Bill issued by London City Utilities.",
+    "Data for 2022, 2021, and 2020 is available and verified.",
+    "Bank Account Number and SWIFT Code verified with postal details.",
+    "Verification status for directors is either pending or under review.",
+    "Some tax documents are verified, but others are pending review or renewal.",
+    "AML and Data Protection compliant, but Industry License and Environmental Compliance under review.",
+    "Business scope verification status is pending.",
+    "No data found for PEP screening.",
+    "Revenue details not provided in the data.",
+    "Market capitalization details not provided in the data."
+  ],
+  "sources": [
+    "Table Name",
+    "Table Name",
+    "Table Name",
+    "Table Name",
+    "Table Name",
+    "Table Name",
+    "Table Name",
+    "NA",
+    "NA",
+    "NA"
+  ]
+}

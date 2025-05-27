@@ -1,22 +1,50 @@
 {
   "items": [
-    "Item 1",
-    "Item 2",
-    "Item 3"
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
   ],
   "status": [
-    "Pending",
-    "Completed",
-    "Pending"
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Missing"
   ],
   "comments": [
-    "Comment for Item 1",
-    "Comment for Item 2",
-    "Comment for Item 3"
+    "Address proof available with valid utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro scores for 2020-2022 found and verified.",
+    "Bank account and postal details are complete and verified.",
+    "No directorship details available for the organization.",
+    "Organization has highlighted significant contributions and adherence to tax regulations globally.",
+    "Organization ensures regulatory compliance and significant contributions to financial system stability.",
+    "Broad business scope verified, including leadership in various sectors and commitment to excellence.",
+    "No data available for PEP screening.",
+    "Revenue details for 2021-2023 provided and verified.",
+    "No data available regarding market capitalization."
   ],
   "sources": [
-    "Source 1",
-    "Source 2",
-    "Source 3"
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "NA",
+    "RagAgent",
+    "RagAgent",
+    "RagAgent",
+    "NA",
+    "RagAgent",
+    "NA"
   ]
 }

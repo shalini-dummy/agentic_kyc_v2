@@ -18,9 +18,9 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Missing",
-    "Missing",
+    "Validated",
     "Missing"
   ],
   "comments": [
@@ -30,9 +30,9 @@
     "Some directorship details are not fully verified.",
     "Some tax documents are pending review or renewal.",
     "Some regulatory compliance statuses are under review.",
-    "Business scope verification is pending.",
+    "Business scope data is available in the JPMorgan Chase Annual Report 2023.",
     "No PEP screening data available for the organization.",
-    "Revenue details are not available in the provided data.",
+    "Revenue data is available in the JPMorgan Chase Annual Report 2023.",
     "Market capitalization details are not available in the provided data."
   ],
   "sources": [
@@ -42,9 +42,9 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "JPMorgan Chase Annual Report 2023",
     "NA",
-    "NA",
+    "JPMorgan Chase Annual Report 2023",
     "NA"
   ]
 }

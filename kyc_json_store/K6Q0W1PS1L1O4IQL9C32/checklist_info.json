@@ -1,50 +1,22 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Item 1",
+    "Item 2",
+    "Item 3"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
     "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Missing",
-    "Validated",
-    "Validated"
+    "Completed",
+    "Pending"
   ],
   "comments": [
-    "Address proof is available with utility bill details.",
-    "Annual accounts for 2020, 2021, and 2022 with Ellipro scores are available.",
-    "Bank account and SWIFT code details are present.",
-    "Directorship verification pending for two directors.",
-    "Multiple tax documents are under review or awaiting additional information.",
-    "Two regulatory compliances are under review.",
-    "Business scope verification is pending.",
-    "No data found for PEP screening.",
-    "Revenue details are available for the years 2021, 2022, and 2023.",
-    "Market capitalization data is available for the years 2021, 2022, and 2023."
+    "Comment for Item 1",
+    "Comment for Item 2",
+    "Comment for Item 3"
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
-    "NA",
-    "External Data",
-    "External Data"
+    "Source 1",
+    "Source 2",
+    "Source 3"
   ]
 }

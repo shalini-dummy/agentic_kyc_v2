@@ -18,10 +18,10 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Utility Bill issued by London City Utilities is available.",
@@ -30,10 +30,10 @@
     "Director verification is pending or under review.",
     "Some tax documents are under review or pending additional information.",
     "Some regulatory compliance statuses are under review.",
-    "Business scope verification is pending.",
+    "Business scope details are available in JPMorgan Chase Annual Report 2023.",
     "No PEP screening data found for the company.",
-    "Revenue details are not present in the data.",
-    "Market capitalization details are not available."
+    "Revenue details are available in JPMorgan Chase Annual Report 2023.",
+    "Market capitalization details are available in JPMorgan Chase Annual Report 2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -42,9 +42,9 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "JPMorgan Chase Annual Report 2023",
     "NA",
-    "NA",
-    "NA"
+    "JPMorgan Chase Annual Report 2023",
+    "JPMorgan Chase Annual Report 2023"
   ]
 }

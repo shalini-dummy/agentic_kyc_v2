@@ -21,30 +21,30 @@
     "Validated",
     "Missing",
     "Validated",
-    "Validated"
+    "Missing"
   ],
   "comments": [
-    "Address matches with the utility bill issued by London City Utilities, valid till 2023-12-31.",
-    "Annual accounts for years 2020, 2021, and 2022 available with Ellipro scores.",
-    "Bank account and postal details match organization data.",
-    "No confirmation of inclusion in annual report as per RagAgent input.",
-    "No confirmation of inclusion in annual report as per RagAgent input.",
-    "No confirmation of inclusion in annual report as per RagAgent input.",
-    "Business scope detailed in the annual report, including activities across multiple sectors.",
-    "No data found for PEP screening in the annual report.",
-    "Total net revenue of 158.1 billion dollars reported for the year ended December 31, 2023.",
-    "Market capitalization reported as 489,320 million dollars as of December 31, 2023."
+    "Valid utility bill is available and verified.",
+    "Annual accounts data for 2020-2022 is verified.",
+    "Bank account and postal details are available and verified.",
+    "Some directorship details are not fully verified.",
+    "Some tax documents are pending review or renewal.",
+    "Some regulatory compliance statuses are under review.",
+    "Business scope data is available in the JPMorgan Chase Annual Report 2023.",
+    "No PEP screening data available for the organization.",
+    "Revenue data is available in the JPMorgan Chase Annual Report 2023.",
+    "Market capitalization details are not available in the provided data."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
-    "RagAgent",
-    "RagAgent",
-    "RagAgent",
-    "RagAgent",
-    "RagAgent",
-    "RagAgent",
-    "RagAgent"
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "JPMorgan Chase Annual Report 2023",
+    "NA",
+    "JPMorgan Chase Annual Report 2023",
+    "NA"
   ]
 }

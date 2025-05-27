@@ -18,22 +18,22 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Address proof verified via Utility Bill issued by London City Utilities",
     "Annual accounts available for 2020-2022 along with Ellipro Survey Scores",
     "Bank details verified with SWIFT Code and postal details",
-    "Director verification status is pending for some directors",
-    "Multiple tax documents are under review or require renewal",
-    "Industry License and Environmental Compliance are under review",
-    "Business scope verification status is pending",
+    "No additional information provided in JPMorgan Chase Annual Report 2023",
+    "The organization has not provided tax documentation updates",
+    "Regulatory compliance details not disclosed in the annual report",
+    "Detailed business scope is available in the annual report",
     "No PEP Screening data found",
-    "Revenue details not included in the extracted data",
-    "Market capitalization details not included in the extracted data"
+    "Revenue information for 2023 provided in the annual report",
+    "Market capitalization details for 2023 provided in the annual report"
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -42,9 +42,9 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "JPMorgan Chase Annual Report 2023",
     "NA",
-    "NA",
-    "NA"
+    "JPMorgan Chase Annual Report 2023",
+    "JPMorgan Chase Annual Report 2023"
   ]
 }

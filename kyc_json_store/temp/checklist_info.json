@@ -20,20 +20,20 @@
     "Pending",
     "Pending",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Verified using Utility Bill issued by London City Utilities.",
     "Data for 2022, 2021, and 2020 is available and verified.",
     "Bank Account Number and SWIFT Code verified with postal details.",
-    "Verification status for directors is either pending or under review.",
+    "Verification status for directors is pending or under review.",
     "Some tax documents are verified, but others are pending review or renewal.",
     "AML and Data Protection compliant, but Industry License and Environmental Compliance under review.",
-    "Business scope verification status is pending.",
+    "Verified company achievements; however, explicit verification status is pending.",
     "No data found for PEP screening.",
-    "Revenue details not provided in the data.",
-    "Market capitalization details not provided in the data."
+    "Record revenue for 2023 is $158.1 billion; managed revenue is $162.4 billion.",
+    "Market capitalization at the end of 2023 is $489,320 million."
   ],
   "sources": [
     "Table Name",
@@ -42,9 +42,9 @@
     "Table Name",
     "Table Name",
     "Table Name",
-    "Table Name",
+    "RagAgent",
     "NA",
-    "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent"
   ]
 }

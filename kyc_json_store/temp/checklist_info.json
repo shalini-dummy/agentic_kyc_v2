@@ -1,50 +1,22 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Item 1",
+    "Item 2",
+    "Item 3"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
     "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Missing",
-    "Missing",
-    "Missing"
+    "Completed",
+    "Pending"
   ],
   "comments": [
-    "Address proof available with valid utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores for 2020-2022 found and verified.",
-    "Bank account and postal details are complete and verified.",
-    "Directorship details are not fully verified; one pending and another under review.",
-    "Tax documentation contains multiple unverifiable records, requiring additional information.",
-    "Not all regulatory compliance statuses are fully verified; some under review.",
-    "Business scope verification is incomplete; status marked as pending.",
-    "No data available for PEP screening.",
-    "Revenue data not provided or found in the available sources.",
-    "Market capitalization details are unavailable or not found."
+    "Comment for Item 1",
+    "Comment for Item 2",
+    "Comment for Item 3"
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
-    "NA",
-    "NA",
-    "NA"
+    "Source 1",
+    "Source 2",
+    "Source 3"
   ]
 }

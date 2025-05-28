@@ -1,0 +1,5 @@
+{
+  "mailTo": "recipient@example.com",
+  "mailSubject": "Response to Your Query",
+  "mailBody": "Dear Sender,\n\nThank you for your inquiry. We appreciate your patience as we work through your request.\n\nBest regards,\nYour Company"
+}

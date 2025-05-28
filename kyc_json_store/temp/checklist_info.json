@@ -18,10 +18,10 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Address proof exists with valid document from London City Utilities.",
@@ -30,10 +30,10 @@
     "Director verification is pending and under review for two directors.",
     "Some tax documents are verified; others require pending review or renewal.",
     "Compliance status is mixed, with some regulations under review.",
-    "Business scope verification is pending.",
+    "Business scope data updated with worldwide operations and financial services details.",
     "No PEP screening data found for this LEI ID.",
-    "No revenue-specific data extracted.",
-    "No market capitalization data extracted."
+    "Revenue details updated with metrics for 2023.",
+    "Market capitalization details updated with data for 2021-2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -42,9 +42,9 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "RagAgent",
     "NA",
-    "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent"
   ]
 }

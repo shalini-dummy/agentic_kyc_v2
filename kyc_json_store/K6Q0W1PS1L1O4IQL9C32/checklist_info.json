@@ -17,34 +17,34 @@
     "Validated",
     "Validated",
     "Validated",
+    "Pending",
     "Validated",
-    "Validated",
-    "Validated",
+    "Pending",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Utility bill found in DIMS data.",
-    "Annual accounts for 2020-2022 available with Ellipro scores.",
-    "Bank account and postal details are available in DIMS data.",
-    "Headquarters address matches GLEIF API data.",
-    "Jurisdiction confirmed as Great Britain (GB) from GLEIF API data.",
-    "AML and Data Protection compliance confirmed; Industry license under review.",
-    "Engages in multiple financial services and demonstrates strong performance across sectors.",
-    "Multiple screenings conducted; one confirmed match under investigation.",
-    "Reported record revenue for 2023 at $158.1 billion in total net revenue.",
-    "Market capitalization as of December 31, 2023 was $489,320 million."
+    "Utility Bill from London City Utilities issued on 2023-01-15.",
+    "Data available for years 2020-2022, Ellipro scores provided.",
+    "Bank account and postal details verified for GB jurisdiction.",
+    "Address matches the legal address provided in SQL database.",
+    "Jurisdiction confirmed as Great Britain (GB).",
+    "Multiple compliance statuses available: AML Compliant, Industry License under review.",
+    "Business scope includes banking and financial services with national coverage.",
+    "PEP status includes both resolved and under investigation screening results.",
+    "Revenue details reported in the annual report: Net revenue of 158.1 billion dollars for 2023.",
+    "Market capitalization reported in the annual report: 489,320 million dollars as of December 31, 2023."
   ],
   "sources": [
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "GLEIF API",
-    "GLEIF API",
     "SQL Database",
     "SQL Database",
-    "SQL Database",
-    "RAG Agent",
-    "RAG Agent"
+    "DIM Regulatory",
+    "DIM Business Scope",
+    "DIM PEP Screening",
+    "Annual Report",
+    "Annual Report"
   ]
 }

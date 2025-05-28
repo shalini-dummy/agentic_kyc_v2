@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Missing",
+    "Validated",
+    "Missing",
+    "Missing",
+    "Validated",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing"
+  ],
+  "comments": [
+    "Legal address and headquarters address are provided and verified.",
+    "No annual account or survey data was provided.",
+    "BIC code is provided and verified.",
+    "No directorship details are available in the current data.",
+    "No tax documentation was provided.",
+    "Registration status is active and issued.",
+    "No details on business scope were provided.",
+    "Information on politically exposed persons (PEP) screening is not available.",
+    "Revenue details were not included in the data.",
+    "Market capitalization information is not provided."
+  ],
+  "sources": [
+    "Table Name",
+    "NA",
+    "Table Name",
+    "NA",
+    "NA",
+    "Table Name",
+    "NA",
+    "NA",
+    "NA",
+    "NA"
+  ]
+}

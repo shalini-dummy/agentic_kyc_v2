@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing"
+  ],
+  "comments": [
+    "No data found for the company address proof.",
+    "Annual account and Ellipro survey data are unavailable.",
+    "Bank and postal details are not provided.",
+    "No directorship information available.",
+    "Tax documentation data is not found.",
+    "Regulatory compliance data is missing.",
+    "Business scope details are not available.",
+    "PEP screening data is not available.",
+    "Revenue details are not provided.",
+    "Market capitalization data is not found."
+  ],
+  "sources": [
+    "NA",
+    "NA",
+    "NA",
+    "NA",
+    "NA",
+    "NA",
+    "NA",
+    "NA",
+    "NA",
+    "NA"
+  ]
+}

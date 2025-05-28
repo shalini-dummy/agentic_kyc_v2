@@ -15,36 +15,36 @@
     "Validated",
     "Validated",
     "Validated",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
     "Missing",
     "Missing",
-    "Missing"
+    "Missing",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Address proof provided and verified.",
     "Annual accounts for 2020-2022 verified with Ellipro scores.",
     "Bank account and postal details are complete and verified.",
-    "Directorship details under review or pending verification.",
-    "Some tax documents verified; others pending review or renewal.",
-    "AML and data protection compliant; other regulatory items under review.",
-    "Business scope verification is pending.",
+    "Information regarding directorship is not included in the annual report.",
+    "Tax documentation is not included in the annual report.",
+    "Regulatory compliance details are missing from the annual report.",
+    "Business scope information released in the annual report highlights detailed achievements.",
     "No data found for PEP screening.",
-    "Revenue details are unavailable in the provided data.",
-    "Market capitalization details are unavailable in the provided data."
+    "Revenue details provided in the annual report.",
+    "Market capitalization details provided in the annual report."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
     "NA",
     "NA",
-    "NA"
+    "NA",
+    "Annual Report",
+    "NA",
+    "Annual Report",
+    "Annual Report"
   ]
 }

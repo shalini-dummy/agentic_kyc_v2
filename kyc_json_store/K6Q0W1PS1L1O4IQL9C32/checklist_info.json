@@ -3,36 +3,48 @@
     "Company Address Proof",
     "Company Annual Account and Ellipro Survey",
     "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
     "Company PEP Screening",
-    "Company Address Proof",
-    "Company Bank and Postal Details",
-    "Company Business Scope"
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
   ],
   "status": [
     "Validated",
     "Validated",
     "Validated",
-    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Pending",
     "Validated",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Validated using the Utility Bill provided by London City Utilities.",
-    "Validated using data from 2020-2022 with Ellipro scores ranging from 80 to 85.",
-    "Validated using the bank account and SWIFT code details.",
-    "Updated to Validated based on DIMS data showing periodic and initial screenings with resolutions.",
-    "Validated using Government ID Proof issued by US Companies House.",
-    "Updated to Validated based on DIMS data showing bank account and SWIFT code details.",
-    "Updated to Validated using DIMS data showing Tech corporation with regional coverage and verified operation scale."
+    "Address proof is available with utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
+    "Bank and postal details are verified with available bank account and SWIFT code.",
+    "Directorship information exists but requires verification or additional updates.",
+    "Multiple tax documents are available but are pending verification or require renewal.",
+    "Compliance data exists but includes under-review statuses requiring updates.",
+    "Business scope information is partially available and awaiting verification.",
+    "PEP screening data is available and highlights politically exposed individuals.",
+    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
+    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
   ],
   "sources": [
-    "London City Utilities",
-    "Ellipro",
-    "Bank Account and SWIFT Code",
-    "DIMS Data",
-    "US Companies House",
-    "DIMS Data",
-    "DIMS Data"
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "DIM_CompanyBusinessScope",
+    "Attachment",
+    "Annual Report",
+    "Annual Report"
   ]
 }

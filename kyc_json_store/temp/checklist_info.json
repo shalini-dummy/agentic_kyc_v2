@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Missing",
+    "Missing",
+    "Missing"
+  ],
+  "comments": [
+    "Address proof provided is valid as per document issued by London City Utilities.",
+    "Annual accounts available for years 2020, 2021, and 2022 with Ellipro scores.",
+    "Bank and postal details match organization data and are verified.",
+    "No pending directorship items explicitly mentioned in additional data.",
+    "Tax documentation pending verification; company highlights past contributions and commitments.",
+    "Regulatory compliance pending; company emphasizes adherence to legal requirements and partnership with the U.S. government.",
+    "Pending challenges include transitioning to greener economy and geopolitical risks; requires continued focus in business strategy.",
+    "No specific details on Politically Exposed Person (PEP) screening.",
+    "Missing specific breakdown of $162.4 billion managed revenue for 2023 and alignment with total net revenue of $158.1 billion.",
+    "Missing market capitalization data for years prior to 2021."
+  ],
+  "sources": [
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "DIM_CompanyBusinessScope",
+    "NA",
+    "NA",
+    "NA"
+  ]
+}

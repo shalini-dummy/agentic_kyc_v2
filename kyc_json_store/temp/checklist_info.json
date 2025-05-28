@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Missing"
+  ],
+  "comments": [
+    "Address proof found via utility bill issued by London City Utilities.",
+    "Data available for years 2020-2022 with Ellipro scores.",
+    "Bank account and postal details available.",
+    "No updates released by the organization in the annual report.",
+    "No updates released by the organization in the annual report.",
+    "No updates released by the organization in the annual report.",
+    "Comprehensive details provided in the annual report about operations and achievements.",
+    "No data found in the annual report or other sources.",
+    "Detailed revenue information provided in the annual report for 2023.",
+    "No data found in the annual report or other sources."
+  ],
+  "sources": [
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "Annual Report",
+    "NA",
+    "Annual Report",
+    "NA"
+  ]
+}

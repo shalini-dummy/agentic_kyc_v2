@@ -12,39 +12,39 @@
     "Company Market Capitalization Details"
   ],
   "status": [
-    "Validated",
-    "Validated",
+    "Missing",
+    "Missing",
+    "Missing",
     "Validated",
     "Pending",
     "Pending",
     "Pending",
     "Validated",
     "Missing",
-    "Validated",
-    "Validated"
+    "Missing"
   ],
   "comments": [
-    "Address matches with the utility bill issued by London City Utilities.",
-    "Data for years 2020, 2021, and 2022 are available with Ellipro scores.",
-    "Bank account and postal details are verified and match registration data.",
-    "No directorship details provided in the annual report.",
-    "Annual report lacks specific tax documentation details.",
-    "Annual report does not provide details on regulatory compliance.",
-    "Business scope verified through achievements and operational details in the annual report.",
-    "No data found for PEP screening.",
-    "Revenue details provided: record revenue for 2023 of 158.1 billion dollars.",
-    "Market capitalization recorded: 489,320 million dollars as of Dec 31, 2023."
+    "No data found for the company address proof.",
+    "Annual account and Ellipro survey data are unavailable.",
+    "Bank and postal details are not provided.",
+    "Directorship data provided; validated from attachments.",
+    "Tax documentation data requires additional information or renewal.",
+    "Industry license and environmental compliance under review.",
+    "Business scope details verification is pending.",
+    "PEP screening data provided; risks identified.",
+    "Revenue details are not provided.",
+    "Market capitalization data is not found."
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "Annual Report",
     "NA",
-    "Annual Report",
-    "Annual Report"
+    "NA",
+    "NA",
+    "Attachments",
+    "Email",
+    "Email",
+    "Email",
+    "Attachments",
+    "NA",
+    "NA"
   ]
 }

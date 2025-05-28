@@ -1,0 +1,42 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Revenue Details",
+    "Company Market Capitalization Details",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope"
+  ],
+  "status": [
+    "Cannot be determined",
+    "Not provided",
+    "Not included",
+    "Updated",
+    "Not provided",
+    "Not provided",
+    "Not explicitly detailed",
+    "Highlights strong performance"
+  ],
+  "comments": [
+    "No specific comments",
+    "No specific comments",
+    "No specific comments",
+    "Total net revenue: One hundred fifty-eight billion one hundred four million dollars. Total noninterest expense: Eighty-seven billion one hundred seventy-two million dollars. Pre-provision profit: Seventy billion nine hundred thirty-two million dollars.",
+    "No specific comments",
+    "No specific comments",
+    "Emphasizes commitment to corporate responsibility and adherence to compliance.",
+    "Achieved record revenue of one hundred sixty-two point four billion dollars and net income of forty-nine point six billion dollars."
+  ],
+  "sources": [
+    "N/A",
+    "N/A",
+    "N/A",
+    "JPMorgan Chase Annual Report 2023",
+    "N/A",
+    "N/A",
+    "JPMorgan Chase Annual Report 2023",
+    "JPMorgan Chase Annual Report 2023"
+  ]
+}

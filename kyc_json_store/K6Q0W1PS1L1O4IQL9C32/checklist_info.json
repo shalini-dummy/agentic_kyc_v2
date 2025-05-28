@@ -1,35 +1,86 @@
 {
   "items": [
-    "Verify company registration",
-    "Request additional documents",
-    "Confirm ownership structure"
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
   ],
   "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
     "Pending",
-    "Requested",
-    "Confirmed"
+    "Pending",
+    "Pending",
+    "Missing",
+    "Missing"
   ],
   "comments": [
-    "Need updated registration certificate",
-    "Awaiting response from client",
-    "Structure confirmed via official registry"
+    "Address proof found in dimensions table.",
+    "Annual accounts data available for years 2022, 2021, and 2020.",
+    "Bank and postal details present in dimensions table.",
+    "Headquarters address fetched from LEI registry.",
+    "Jurisdiction details available from LEI registry.",
+    "Some compliance statuses are under review; additional verification required.",
+    "Business scope verification status is pending.",
+    "PEP screening results require additional documentation.",
+    "Revenue details not available.",
+    "Market capitalization details not found."
   ],
   "sources": [
-    "Company Registry",
-    "Client Correspondence",
-    "Official Documents"
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "GLEIF API",
+    "GLEIF API",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "NA",
+    "NA"
   ],
   "ids": [
-    "1",
-    "2",
-    "3"
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32"
   ],
   "organization_names": [
-    "Example Corp"
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC"
   ],
   "categories": [
-    "Documentation",
-    "Verification",
-    "Confirmation"
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self"
   ]
 }

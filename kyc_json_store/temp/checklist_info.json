@@ -1,0 +1,86 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing"
+  ],
+  "comments": [
+    "Address matches the data from organization details.",
+    "No details regarding annual accounts or surveys provided.",
+    "BIC code provided and matches the organization's jurisdiction.",
+    "Headquarters address matches the data provided.",
+    "Jurisdiction information matches the data provided.",
+    "No data provided regarding compliance with regulatory requirements.",
+    "Business scope information not included in the data provided.",
+    "No details provided regarding PEP screening.",
+    "Revenue details are not provided in the data.",
+    "Market capitalization details are not included in the data provided."
+  ],
+  "sources": [
+    "SQL Database",
+    "NA",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "NA",
+    "NA",
+    "NA",
+    "NA",
+    "NA"
+  ],
+  "ids": [
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32"
+  ],
+  "organization_names": [
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC"
+  ],
+  "categories": [
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self"
+  ]
+}

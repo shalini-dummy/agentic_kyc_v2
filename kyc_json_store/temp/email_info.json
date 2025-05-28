@@ -1,0 +1,5 @@
+{
+  "mailTo": "client@organization_name.com",
+  "mailSubject": "Missing Data Notification for Organization with LEI ID K6Q0W1PS1L1O4IQL9C32",
+  "mailBody": "Dear [Client's Name],\n\nI hope this message finds you well.\n\nWe are reaching out to inform you about some missing data regarding your organization with LEI ID K6Q0W1PS1L1O4IQL9C32. Below are the details of the missing items from our updated checklist:\n\n1. **Company PEP Screening**: No PEP screening data found for LEI ID K6Q0W1PS1L1O4IQL9C32.\n\n2. **Market Capitalization Details**: Market capitalization details are not provided.\n\nPlease take a moment to review these items at your earliest convenience. If you have any further questions or require additional assistance, feel free to reach out.\n\nThank you for your attention to this matter.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n[Your Contact Information]"
+}

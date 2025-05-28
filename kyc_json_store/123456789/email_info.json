@@ -1,5 +1,5 @@
 {
   "mailTo": "recipient@example.com",
-  "mailSubject": "Request for Missing Information",
-  "mailBody": "Dear [Recipient's Name],\n\nI hope this message finds you well. I am writing to request some missing information that is crucial for our ongoing project. We would greatly appreciate it if you could provide the necessary details at your earliest convenience.\n\nThank you for your cooperation.\n\nBest regards,\n[Your Name]"
+  "mailSubject": "Response to Your Query",
+  "mailBody": "Dear Sender,\n\nThank you for your inquiry. We appreciate your patience as we work through your request.\n\nBest regards,\nYour Company"
 }

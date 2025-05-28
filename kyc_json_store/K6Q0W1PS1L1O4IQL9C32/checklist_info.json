@@ -13,38 +13,38 @@
   ],
   "status": [
     "Validated",
-    "Missing",
+    "Pending",
     "Validated",
     "Missing",
     "Missing",
     "Validated",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Legal address and headquarters address are provided and verified.",
-    "No annual account or survey data was provided.",
+    "Annual account details are available, but Ellipro Survey data is missing.",
     "BIC code is provided and verified.",
     "No directorship details are available in the current data.",
     "No tax documentation was provided.",
     "Registration status is active and issued.",
-    "No details on business scope were provided.",
+    "Extensive information on business scope is available, including global operations.",
     "Information on politically exposed persons (PEP) screening is not available.",
-    "Revenue details were not included in the data.",
-    "Market capitalization information is not provided."
+    "Revenue details are available, highlighting record net revenues for 2023.",
+    "Market capitalization details are available as of December 31, 2023."
   ],
   "sources": [
     "Table Name",
-    "NA",
+    "JPMorgan Chase Annual Report 2023",
     "Table Name",
     "NA",
     "NA",
     "Table Name",
+    "JPMorgan Chase Annual Report 2023",
     "NA",
-    "NA",
-    "NA",
-    "NA"
+    "JPMorgan Chase Annual Report 2023",
+    "JPMorgan Chase Annual Report 2023"
   ]
 }

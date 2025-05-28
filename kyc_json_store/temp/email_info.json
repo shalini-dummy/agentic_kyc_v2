@@ -1,5 +1,5 @@
 {
-  "mailTo": "surbhi.nagori@capgemini.com",
-  "mailSubject": "Re: Missing Data Notification for Organization with LEI ID K6Q0W1PS1L1O4IQL9C32",
-  "mailBody": "Hi Surbhi,\n\nPlease use this attached data in response to your query.\n\nRegards,\nShubham"
+  "mailTo": "client@capgemini.com",
+  "mailSubject": "Response to Missing Data Notification for LEI ID K6Q0W1PS1L1O4IQL9C32",
+  "mailBody": "Dear Client,\n\nI hope this message finds you well.\n\nThank you for reaching out regarding the missing data associated with your organization, identified by LEI ID K6Q0W1PS1L1O4IQL9C32. We have updated our records and would like to provide you with the current status of the checklist items:\n\n1. **Company PEP Screening**: Validated. We have successfully incorporated the PEP screening data provided in the attached document.\n2. **Market Capitalization Details**: Missing. Unfortunately, we still do not have the necessary market capitalization details available in our current sources.\n\nPlease take a moment to review the updated information. If you have any further questions or require additional assistance, please feel free to reach out.\n\nThank you for your attention to this matter.\n\nBest regards,\nSurbhi Nagori\nsurbhi.nagori@capgemini.com\nclient@capgemini.com"
 }

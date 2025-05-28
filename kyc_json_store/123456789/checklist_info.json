@@ -1,26 +1,22 @@
 {
   "items": [
-    "Company regulatory compliance",
-    "Business scope challenges",
-    "Specific revenue details",
-    "Market capitalization details"
+    "Item 1",
+    "Item 2",
+    "Item 3"
   ],
   "status": [
     "Pending",
-    "Pending",
-    "Pending",
-    "Pending"
+    "Completed",
+    "In Progress"
   ],
   "comments": [
-    "Needs review",
-    "Needs clarification",
-    "Data required",
-    "Data required"
+    "Comment for Item 1",
+    "Comment for Item 2",
+    "Comment for Item 3"
   ],
   "sources": [
-    "RagAgent",
-    "RagAgent",
-    "RagAgent",
-    "RagAgent"
+    "Source 1",
+    "Source 2",
+    "Source 3"
   ]
 }

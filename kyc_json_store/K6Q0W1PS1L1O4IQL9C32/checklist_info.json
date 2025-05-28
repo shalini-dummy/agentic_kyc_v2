@@ -1,50 +1,22 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Directorship",
-    "Company Tax Documentation",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Item 1",
+    "Item 2",
+    "Item 3"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Validated",
-    "Validated",
-    "Validated"
+    "Completed",
+    "In Progress",
+    "Not Started"
   ],
   "comments": [
-    "Address proof is available with utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
-    "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Directorship information exists but requires verification or additional updates.",
-    "Multiple tax documents are available but are pending verification or require renewal.",
-    "Compliance data exists but includes under-review statuses requiring updates.",
-    "Business scope information is partially available and awaiting verification.",
-    "PEP screening data is available and highlights politically exposed individuals.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
-    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
+    "Comment on item 1",
+    "Comment on item 2",
+    "Comment on item 3"
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
-    "Attachment",
-    "Annual Report",
-    "Annual Report"
+    "Source 1",
+    "Source 2",
+    "Source 3"
   ]
 }

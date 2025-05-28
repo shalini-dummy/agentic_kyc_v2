@@ -1,0 +1,38 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company PEP Screening",
+    "Company Address Proof",
+    "Company Bank and Postal Details",
+    "Company Business Scope"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Validated using the Utility Bill provided by London City Utilities.",
+    "Validated using data from 2020-2022 with Ellipro scores ranging from 80 to 85.",
+    "Validated using the bank account and SWIFT code details.",
+    "Updated to Validated based on DIMS data showing periodic and initial screenings with resolutions.",
+    "Validated using Government ID Proof issued by US Companies House.",
+    "Updated to Validated based on DIMS data showing bank account and SWIFT code details.",
+    "Updated to Validated using DIMS data showing Tech corporation with regional coverage and verified operation scale."
+  ],
+  "sources": [
+    "London City Utilities",
+    "Ellipro",
+    "Bank Account and SWIFT Code",
+    "DIMS Data",
+    "US Companies House",
+    "DIMS Data",
+    "DIMS Data"
+  ]
+}

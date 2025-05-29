@@ -31,7 +31,7 @@
     "Some documents are marked as pending, requiring additional information or renewal.",
     "Industry license and environmental compliance are currently under review.",
     "Verification status is pending for business scope details.",
-    "PEP screening data is available and verified.",
+    "PEP screening data validated; high-risk individuals identified.",
     "Revenue details provided in the annual report.",
     "Market capitalization details provided in the annual report."
   ],
@@ -39,11 +39,11 @@
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
-    "JP Morgan Data",
+    "JP Morgan: Company Directorship",
     "NA",
     "NA",
     "NA",
-    "JP Morgan Data",
+    "JP Morgan: PEP Screening Data",
     "Annual Report",
     "Annual Report"
   ]

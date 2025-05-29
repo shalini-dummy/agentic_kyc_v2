@@ -13,38 +13,38 @@
   ],
   "status": [
     "Validated",
-    "Missing",
+    "Pending",
     "Validated",
     "Missing",
     "Missing",
     "Pending",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Legal and headquarters address provided: 25 Bank Street, Canary Wharf, London, GB-TWH.",
-    "No annual account or Ellipro survey data available.",
+    "Annual account details from JP Morgan Chase Annual Report 2023 are available, but Ellipro survey data is missing.",
     "BIC provided: JPMSGB2LXXX.",
     "Directorship details are not provided.",
     "Tax documentation details are not available.",
     "Registration status is ISSUED, but compliance details are incomplete.",
-    "Business scope information is not provided.",
+    "Business scope includes investment banking, financial services, commercial banking, asset management, and financial transaction processing.",
     "No data provided for PEP screening.",
-    "Revenue details are unavailable.",
-    "Market capitalization information is not provided."
+    "Total net revenue: 158,104 million dollars in 2023.",
+    "Market capitalization: 489,320 million dollars as of December 31, 2023."
   ],
   "sources": [
     "Table Name",
-    "NA",
+    "JP Morgan Chase Annual Report 2023",
     "Table Name",
     "NA",
     "NA",
     "Table Name",
+    "JP Morgan Chase Annual Report 2023",
     "NA",
-    "NA",
-    "NA",
-    "NA"
+    "JP Morgan Chase Annual Report 2023",
+    "JP Morgan Chase Annual Report 2023"
   ]
 }

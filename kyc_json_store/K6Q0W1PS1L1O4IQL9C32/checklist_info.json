@@ -19,7 +19,7 @@
     "Pending",
     "Pending",
     "Validated",
-    "Missing",
+    "Validated",
     "Validated",
     "Validated"
   ],
@@ -31,7 +31,7 @@
     "Some documents are verified; others are pending or require renewal.",
     "Industry License and Environmental Compliance are under review.",
     "Comprehensive business scope details provided through JPMorgan Chase Annual Report 2023.",
-    "No data found for PEP screening.",
+    "PEP screening data from attachment confirms entries for high-risk individuals.",
     "Total net revenue of 158.1 billion dollars reported for 2023.",
     "Market capitalization reported as 489,320 million dollars for year-end 2023."
   ],
@@ -43,7 +43,7 @@
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
     "JPMorgan Chase Annual Report 2023",
-    "NA",
+    "Attachment Data",
     "JPMorgan Chase Annual Report 2023",
     "JPMorgan Chase Annual Report 2023"
   ]

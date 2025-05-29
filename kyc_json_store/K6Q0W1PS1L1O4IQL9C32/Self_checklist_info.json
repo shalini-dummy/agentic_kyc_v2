@@ -17,23 +17,23 @@
     "Validated",
     "Validated",
     "Validated",
-    "Pending",
+    "Validated",
     "Validated",
     "Pending",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Address proof validated using a utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro survey data available for 2020-2022.",
-    "Bank account and postal details extracted from DIMS data.",
-    "Headquarters address is confirmed as 25 Bank Street, Canary Wharf, London, GB-TWH, E14 5JP.",
-    "Jurisdiction is identified as Great Britain (GB).",
-    "Regulatory compliance is under review for Industry License and Environmental Compliance.",
-    "Business scope verified with record revenue generation and robust operations across various sectors.",
-    "PEP screening has unresolved matches requiring additional documentation for review.",
-    "Revenue details verified: total net revenue of $158.1 billion, managed revenue of $162.4 billion.",
-    "Market capitalization verified as $489,320 million as of December 31, 2023."
+    "Utility bill issued by London City Utilities verified and valid until 2023-12-31.",
+    "Annual accounts data for 2022 verified with Ellipro score of 85.",
+    "Bank account and postal details verified, SWIFT code matches organizational details.",
+    "Address confirmed as 25 Bank Street, Canary Wharf, London, GB.",
+    "Jurisdiction confirmed as Great Britain (GB).",
+    "Regulatory compliance, including AML, verified through adherence to U.S. and global standards.",
+    "Business scope verified as extensive and global, with significant contributions to taxes and innovation.",
+    "PEP screening shows confirmed matches under investigation; detailed findings are unavailable.",
+    "Revenue for 2023 verified at $158.1 billion (net revenue) and $162.4 billion (managed revenue).",
+    "Market capitalization as of December 31, 2023 verified at $489,320 million."
   ],
   "sources": [
     "SQL Database",
@@ -41,11 +41,11 @@
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "Annual Report 2023",
-    "Annual Report 2023",
+    "RAG Agent",
+    "RAG Agent",
     "SQL Database",
-    "Annual Report 2023",
-    "Annual Report 2023"
+    "RAG Agent",
+    "RAG Agent"
   ],
   "ids": [
     "K6Q0W1PS1L1O4IQL9C32",

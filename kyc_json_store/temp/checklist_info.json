@@ -18,33 +18,33 @@
     "Missing",
     "Missing",
     "Validated",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Legal and Headquarters addresses match registration data.",
-    "Annual account data not provided in organization details.",
+    "Annual account details provided, but Ellipro Survey information is missing.",
     "Postal code and BIC available in organization data.",
     "Directorship details are not included in the fetched data.",
     "Tax documentation details are not provided.",
     "Registration status is active and issued.",
-    "Business scope information is not available.",
+    "Detailed business scope provided, including operations and contributions globally.",
     "PEP screening data is not provided.",
-    "Revenue details are not included in the organization data.",
-    "Market capitalization data is unavailable."
+    "Revenue details confirmed: total net revenue of 158.1 billion dollars for 2023.",
+    "Market capitalization details confirmed: 489,320 million dollars as of December 31, 2023."
   ],
   "sources": [
     "Table Name",
-    "NA",
+    "Table Name",
     "Table Name",
     "NA",
     "NA",
     "Table Name",
+    "RagAgent",
     "NA",
-    "NA",
-    "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent"
   ]
 }

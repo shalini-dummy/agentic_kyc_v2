@@ -18,34 +18,34 @@
     "Validated",
     "Validated",
     "Missing",
-    "Missing",
+    "Validated",
     "Missing",
     "Validated",
     "Validated"
   ],
   "comments": [
     "Address proof available with document number GOV334455662.",
-    "Annual accounts available in the 2023 annual report, but no information on Ellipro survey.",
-    "Bank account and postal details available (SWIFT Code: HBUKGB4B).",
-    "Headquarters address verified: 25 Bank Street, Canary Wharf, London.",
-    "Jurisdiction verified as GB (United Kingdom).",
+    "Annual account details validated, but Ellipro survey details are missing.",
+    "Bank account and postal details are available with SWIFT code HBUKGB4B.",
+    "Headquarters address matches legal address data from GLEIF API.",
+    "Jurisdiction is GB as per GLEIF data.",
     "No data found for regulatory compliance.",
-    "No data found for business scope.",
+    "Business scope spans Consumer & Community Banking, Corporate & Investment Banking, and more.",
     "No data found for PEP screening.",
-    "Revenue details available in the 2023 annual report: Record net revenue of $158.1 billion.",
-    "Market capitalization details available in the 2023 annual report: $489.3 billion."
+    "Revenue for 2023 is $158.1 billion, reflecting record-breaking financial performance.",
+    "Market capitalization is $489.3 billion as per the annual report."
   ],
   "sources": [
     "SQL Database",
-    "2023 Annual Report",
+    "Annual Report",
     "SQL Database",
     "GLEIF API",
     "GLEIF API",
     "NA",
+    "Annual Report",
     "NA",
-    "NA",
-    "2023 Annual Report",
-    "2023 Annual Report"
+    "Annual Report",
+    "Annual Report"
   ],
   "ids": [
     "549300Z1UDXFNOBBUI23",

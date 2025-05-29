@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Validated",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Address proof provided and verified.",
+    "Annual accounts for 2020-2022 verified with Ellipro scores.",
+    "Bank account and postal details are complete and verified.",
+    "Verification confirmed using attachment data for directors.",
+    "Some documents require additional information or renewal.",
+    "Industry license and environmental compliance under review.",
+    "Verification status pending for business scope details.",
+    "PEP screening data validated using attachments provided.",
+    "Revenue details provided in the annual report.",
+    "Market capitalization details provided in the annual report."
+  ],
+  "sources": [
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "JP Morgan Dataset",
+    "Email Communication",
+    "Email Communication",
+    "Email Communication",
+    "JP Morgan Dataset",
+    "Annual Report",
+    "Annual Report"
+  ]
+}

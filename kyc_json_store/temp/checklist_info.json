@@ -1,0 +1,50 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Utility Bill provided by London City Utilities is valid until 2023-12-31.",
+    "Annual accounts and Ellipro data available for years 2020, 2021, and 2022.",
+    "Bank Account Number and Postal Details matched.",
+    "Verification for directors is still pending or under review.",
+    "Some documents are verified; others are pending or require renewal.",
+    "Industry License and Environmental Compliance are under review.",
+    "Comprehensive business scope details provided through JPMorgan Chase Annual Report 2023.",
+    "No data found for PEP screening.",
+    "Total net revenue of 158.1 billion dollars reported for 2023.",
+    "Market capitalization reported as 489,320 million dollars for year-end 2023."
+  ],
+  "sources": [
+    "DIM_CompanyAddressProof",
+    "DIM_CompanyAnnualAccountsAndElliproSurvey",
+    "DIM_CompanyBankAndPostalDetails",
+    "DIM_CompanyDirectorship",
+    "DIM_CompanyTaxDocuments",
+    "DIM_CompanyRegulatory",
+    "JPMorgan Chase Annual Report 2023",
+    "NA",
+    "JPMorgan Chase Annual Report 2023",
+    "JPMorgan Chase Annual Report 2023"
+  ]
+}

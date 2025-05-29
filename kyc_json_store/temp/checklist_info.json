@@ -1,0 +1,49 @@
+{
+  "items": [
+    "Verify legal entity status",
+    "Check ultimate beneficial owner",
+    "Validate identification documents",
+    "Assess compliance with sanctions list",
+    "Evaluate financial risk"
+  ],
+  "status": [
+    "Completed",
+    "Completed",
+    "Pending",
+    "Completed",
+    "In Progress"
+  ],
+  "comments": [
+    "Legal entity status verified using registry data.",
+    "Parent and child companies verified for ownership structure.",
+    "Awaiting updated identification documents.",
+    "Sanctions list checked and no matches found.",
+    "Financial risk evaluation in progress."
+  ],
+  "sources": [
+    "Registry data",
+    "Ownership data",
+    "Identification document submission",
+    "Sanctions list database",
+    "Financial risk assessment tool"
+  ],
+  "ids": [
+    "K6Q0W1PS1L1O4IQL9C32",
+    "549300Z1UDXFNOBBUI23",
+    "549300IOX66UI5OAPB55",
+    "549300UN4UX3YV6ENJ94"
+  ],
+  "organization_names": [
+    "Self",
+    "Parent Company",
+    "Child Company A",
+    "Child Company B"
+  ],
+  "categories": [
+    "Legal Verification",
+    "Ownership Verification",
+    "Identification",
+    "Sanctions Check",
+    "Financial Risk Assessment"
+  ]
+}

@@ -1,23 +1,86 @@
 {
   "items": [
-    "Company PEP Screening"
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
   ],
   "status": [
-    "Missing"
+    "Missing",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
   ],
   "comments": [
-    "No detailed information available on PEP screening or related documentation."
+    "No data found for company address proof.",
+    "Annual accounts for 2023 are provided; no Ellipro survey data available.",
+    "No specific postal details found; global operations overview provided.",
+    "Headquarters address is verified: 25 Bank Street, Canary Wharf, London, GB-LND, E14 5JP",
+    "Jurisdiction is verified as GB (United Kingdom).",
+    "Regulatory compliance commitments are highlighted in financial statements.",
+    "Business scope is verified: Corporation, Medium scale, 500+ employees, Regional coverage",
+    "No data found for PEP screening.",
+    "Revenue details for 2023 are available and verified.",
+    "Market capitalization details for 2023 are available and verified."
   ],
   "sources": [
-    "NA"
+    "NA",
+    "PDF Document",
+    "PDF Document",
+    "GLEIF API",
+    "GLEIF API",
+    "PDF Document",
+    "SQL Database",
+    "NA",
+    "PDF Document",
+    "PDF Document"
   ],
   "ids": [
-    "K6Q0W1PS1L1O4IQL9C32"
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94"
   ],
   "organization_names": [
-    "J.P. MORGAN SECURITIES PLC"
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD."
   ],
   "categories": [
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
     "Parent"
   ]
 }

@@ -12,40 +12,40 @@
     "Company Market Capitalization Details"
   ],
   "status": [
-    "Missing",
-    "Missing",
-    "Missing",
     "Validated",
     "Validated",
     "Missing",
     "Validated",
+    "Validated",
     "Missing",
+    "Validated",
     "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
-    "The company address proof for the organization is not provided.",
-    "Annual account details and Ellipro Survey are not available.",
-    "Specific bank and postal details are not provided.",
-    "Headquarters address is available and verified.",
-    "Jurisdiction is Great Britain (GB) and matches the provided data.",
-    "No specific details about regulatory compliance are provided.",
-    "Business scope details are available and verified.",
-    "No details about Politically Exposed Person (PEP) screening.",
-    "Revenue details are not provided.",
-    "Market capitalization details are not provided."
+    "Legal Address and Headquarters Address are consistent and verified through GLEIF data.",
+    "Annual account details provided; Ellipro survey data missing.",
+    "No data found for bank or postal details.",
+    "Headquarters Address is verified through GLEIF API.",
+    "Jurisdiction (GB) verified via GLEIF API.",
+    "No regulatory compliance data available in DIMS or GLEIF API.",
+    "Business scope data verified through DIMS (Corporation, Medium operation scale, etc.).",
+    "No PEP screening data available in DIMS or GLEIF API.",
+    "Record revenue details provided for 2023.",
+    "Market capitalization details provided for 2023."
   ],
   "sources": [
-    "NA",
-    "NA",
+    "GLEIF API",
+    "PDF Document",
     "NA",
     "GLEIF API",
     "GLEIF API",
     "NA",
     "SQL Database",
     "NA",
-    "NA",
-    "NA"
+    "PDF Document",
+    "PDF Document"
   ],
   "ids": [
     "549300UN4UX3YV6ENJ94",

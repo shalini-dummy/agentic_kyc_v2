@@ -13,8 +13,8 @@
   ],
   "status": [
     "Missing",
-    "Validated",
-    "Missing",
+    "Pending",
+    "Pending",
     "Validated",
     "Validated",
     "Validated",
@@ -24,16 +24,16 @@
     "Validated"
   ],
   "comments": [
-    "No data found for company address proof.",
-    "Annual accounts for 2023 are provided; no Ellipro survey data available.",
-    "No specific postal details found; global operations overview provided.",
-    "Headquarters address is verified: 25 Bank Street, Canary Wharf, London, GB-LND, E14 5JP",
-    "Jurisdiction is verified as GB (United Kingdom).",
-    "Regulatory compliance commitments are highlighted in financial statements.",
-    "Business scope is verified: Corporation, Medium scale, 500+ employees, Regional coverage",
-    "No data found for PEP screening.",
-    "Revenue details for 2023 are available and verified.",
-    "Market capitalization details for 2023 are available and verified."
+    "No data found related to the company's address proof",
+    "Annual account details provided, but Ellipro survey details are missing",
+    "Bank details provided, but postal details are missing",
+    "Headquarters address is available and matches the data provided",
+    "Jurisdiction is verified as 'GB' (United Kingdom)",
+    "Regulatory compliance efforts verified through tax, fees, and FDIC contributions",
+    "Business scope is verified with details like operation scale and industry code",
+    "No data found related to Politically Exposed Person (PEP) Screening",
+    "Revenue details provided for 2023",
+    "Market capitalization details provided for 2023"
   ],
   "sources": [
     "NA",

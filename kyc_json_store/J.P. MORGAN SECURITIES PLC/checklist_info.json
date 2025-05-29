@@ -13,38 +13,38 @@
   ],
   "status": [
     "Validated",
+    "Pending",
     "Validated",
+    "Missing",
+    "Missing",
     "Validated",
-    "Missing",
-    "Missing",
-    "Missing",
     "Validated",
     "Missing",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Address proof is available with utility bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores for 2020\u20132022 are available.",
-    "Bank and postal details are verified with available bank account and SWIFT code.",
-    "Organization does not release directorship information in its annual report.",
-    "Organization does not include details about tax documentation in its annual report.",
-    "Organization does not release information about regulatory compliance in its annual report.",
-    "Detailed business scope information is available, highlighting leadership roles and services.",
-    "No PEP screening data found for the given LEI ID.",
-    "Total net revenue of 158.1 billion dollars for the year ended December 31, 2023 is reported.",
-    "Market capitalization as of December 31, 2023 is reported as 489,320 million dollars."
+    "Legal and Headquarters addresses match registration data.",
+    "Annual account details provided, but Ellipro Survey information is missing.",
+    "Postal code and BIC available in organization data.",
+    "Directorship details are not included in the fetched data.",
+    "Tax documentation details are not provided.",
+    "Registration status is active and issued.",
+    "Detailed business scope provided, including operations and contributions globally.",
+    "PEP screening data is not provided.",
+    "Revenue details confirmed: total net revenue of 158.1 billion dollars for 2023.",
+    "Market capitalization details confirmed: 489,320 million dollars as of December 31, 2023."
   ],
   "sources": [
-    "DIM_CompanyAddressProof",
-    "DIM_CompanyAnnualAccountsAndElliproSurvey",
-    "DIM_CompanyBankAndPostalDetails",
+    "Table Name",
+    "Table Name",
+    "Table Name",
     "NA",
     "NA",
+    "Table Name",
+    "RagAgent",
     "NA",
-    "Annual Report",
-    "NA",
-    "Annual Report",
-    "Annual Report"
+    "RagAgent",
+    "RagAgent"
   ]
 }

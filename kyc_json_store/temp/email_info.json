@@ -1,0 +1,5 @@
+{
+  "mailTo": "data-team@example.com",
+  "mailSubject": "Organization Data for LEI ID K6Q0W1PS1L4IQL9C32",
+  "mailBody": "The organization data for LEI ID K6Q0W1PS1L4IQL9C32 has been collected. Please note that many fields are missing or unavailable: \n- Legal Name: N/A\n- Status: N/A\n- Jurisdiction: N/A\n- Legal Form ID: N/A\n- Legal Address: Not provided\n- Headquarters Address: Not provided\n- Registration Status: N/A\n- Initial Registration: N/A\n- Last Update: N/A\n- Fund Manager Legal Entity: N/A\n- BIC: null\n- Parent LEI: N/A\n- Parent Name: N/A\n- Child LEIs: None\n- Child Names: None"
+}

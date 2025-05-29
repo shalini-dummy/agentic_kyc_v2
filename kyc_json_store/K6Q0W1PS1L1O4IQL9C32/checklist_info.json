@@ -1,49 +1,50 @@
 {
   "items": [
-    "Verify legal entity status",
-    "Check ultimate beneficial owner",
-    "Validate identification documents",
-    "Assess compliance with sanctions list",
-    "Evaluate financial risk"
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Directorship",
+    "Company Tax Documentation",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
   ],
   "status": [
-    "Completed",
-    "Completed",
+    "Validated",
     "Pending",
-    "Completed",
-    "In Progress"
+    "Validated",
+    "Missing",
+    "Missing",
+    "Validated",
+    "Missing",
+    "Missing",
+    "Missing",
+    "Missing"
   ],
   "comments": [
-    "Legal entity status verified using registry data.",
-    "Parent and child companies verified for ownership structure.",
-    "Awaiting updated identification documents.",
-    "Sanctions list checked and no matches found.",
-    "Financial risk evaluation in progress."
+    "Legal and Headquarters addresses match registration data.",
+    "Annual account data not provided in organization details.",
+    "Postal code and BIC available in organization data.",
+    "Directorship details are not included in the fetched data.",
+    "Tax documentation details are not provided.",
+    "Registration status is active and issued.",
+    "Business scope information is not available.",
+    "PEP screening data is not provided.",
+    "Revenue details are not included in the organization data.",
+    "Market capitalization data is unavailable."
   ],
   "sources": [
-    "Registry data",
-    "Ownership data",
-    "Identification document submission",
-    "Sanctions list database",
-    "Financial risk assessment tool"
-  ],
-  "ids": [
-    "K6Q0W1PS1L1O4IQL9C32",
-    "549300Z1UDXFNOBBUI23",
-    "549300IOX66UI5OAPB55",
-    "549300UN4UX3YV6ENJ94"
-  ],
-  "organization_names": [
-    "Self",
-    "Parent Company",
-    "Child Company A",
-    "Child Company B"
-  ],
-  "categories": [
-    "Legal Verification",
-    "Ownership Verification",
-    "Identification",
-    "Sanctions Check",
-    "Financial Risk Assessment"
+    "Table Name",
+    "NA",
+    "Table Name",
+    "NA",
+    "NA",
+    "Table Name",
+    "NA",
+    "NA",
+    "NA",
+    "NA"
   ]
 }

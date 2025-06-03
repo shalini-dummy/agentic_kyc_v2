@@ -1,0 +1,86 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Pending",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Legal Address and Headquarters Address are available from GLEIF data.",
+    "Annual Account details provided, but Ellipro Survey data is missing.",
+    "Bank account and postal details are available in DIMS data.",
+    "Headquarters Address is provided in GLEIF data.",
+    "Jurisdiction is GB as provided in GLEIF data.",
+    "Regulatory compliance details are provided, emphasizing adherence to legal requirements.",
+    "Business scope details provided, highlighting extensive global operations.",
+    "No PEP screening data available.",
+    "Revenue details for 2021, 2022, and 2023 are provided.",
+    "Market capitalization for 2021, 2022, and 2023 is provided."
+  ],
+  "sources": [
+    "GLEIF API",
+    "PDF Document",
+    "SQL Database",
+    "GLEIF API",
+    "GLEIF API",
+    "PDF Document",
+    "PDF Document",
+    "NA",
+    "PDF Document",
+    "PDF Document"
+  ],
+  "ids": [
+    "549300IOX66UI5OAPB55",
+    "549300IOX66UI5OAPB55",
+    "549300IOX66UI5OAPB55",
+    "549300IOX66UI5OAPB55",
+    "549300IOX66UI5OAPB55",
+    "549300IOX66UI5OAPB55",
+    "549300IOX66UI5OAPB55",
+    "549300IOX66UI5OAPB55",
+    "549300IOX66UI5OAPB55",
+    "549300IOX66UI5OAPB55"
+  ],
+  "organization_names": [
+    "J.P. MORGAN SERVICES LLP",
+    "J.P. MORGAN SERVICES LLP",
+    "J.P. MORGAN SERVICES LLP",
+    "J.P. MORGAN SERVICES LLP",
+    "J.P. MORGAN SERVICES LLP",
+    "J.P. MORGAN SERVICES LLP",
+    "J.P. MORGAN SERVICES LLP",
+    "J.P. MORGAN SERVICES LLP",
+    "J.P. MORGAN SERVICES LLP",
+    "J.P. MORGAN SERVICES LLP"
+  ],
+  "categories": [
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child"
+  ]
+}

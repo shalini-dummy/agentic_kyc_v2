@@ -17,23 +17,23 @@
     "Validated",
     "Validated",
     "Validated",
-    "Pending",
     "Validated",
-    "Pending",
+    "Validated",
+    "Missing",
     "Validated",
     "Validated"
   ],
   "comments": [
     "Address proof available in the form of a Utility Bill issued by London City Utilities.",
-    "Annual accounts and Ellipro scores for 2020-2022 are available and complete.",
-    "Bank account and postal details extracted successfully.",
-    "Headquarters address matches the legal address provided.",
-    "Jurisdiction is Great Britain (GB) as per the organization data.",
-    "Some compliance items are under review, including industry licenses and environmental compliance.",
-    "Business scope covers multiple lines of business and achievements as detailed in the annual report.",
-    "Some PEP screenings show confirmed matches; additional documentation is required.",
-    "Revenue details for 2021-2023 are available, with record figures mentioned in the annual report.",
-    "Market capitalization details for December 31, 2023 are available in the annual report."
+    "Annual accounts and Ellipro scores for 2020, 2021, and 2022 are available.",
+    "Bank details including SWIFT codes and postal codes are available in the database.",
+    "Headquarters address matches the legal address in the SQL Database.",
+    "Jurisdiction identified as Great Britain (GB).",
+    "Organization complies with U.S. government regulations and emphasizes legal adherence.",
+    "Operates globally in over 100 countries with diverse client relationships and strong focus.",
+    "No information available regarding PEP screening results or additional documentation.",
+    "Record revenue of $158.1B in 2023, reflecting strong performance across business lines.",
+    "Market capitalization of $489.32B as of December 31, 2023."
   ],
   "sources": [
     "SQL Database",
@@ -41,11 +41,11 @@
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "SQL Database",
-    "PDF Document",
-    "SQL Database",
-    "PDF Document",
-    "PDF Document"
+    "RAG Agent",
+    "RAG Agent",
+    "NA",
+    "RAG Agent",
+    "RAG Agent"
   ],
   "ids": [
     "K6Q0W1PS1L1O4IQL9C32",

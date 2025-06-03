@@ -19,21 +19,21 @@
     "Validated",
     "Pending",
     "Validated",
-    "Validated",
+    "Pending",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Address proof exists with valid document (Utility Bill).",
-    "Annual accounts for 2022, 2021, and 2020 are available with Ellipro scores.",
-    "Bank details and postal code are available and verified.",
-    "Headquarters address is available and matches the registered address.",
-    "Jurisdiction information is available and verified (Great Britain).",
-    "Compliance for AML and Data Protection is validated, others are under review.",
-    "Business scope verification is complete, reflecting robust and diverse operations.",
-    "No PEP screening matches or related documentation issues were found.",
-    "Record revenue of 158.1 billion dollars and managed revenue of 162.4 billion dollars reported.",
-    "Market capitalization is reported at 489,320 million dollars."
+    "Address proof available in the form of a Utility Bill issued by London City Utilities.",
+    "Annual accounts and Ellipro scores for 2020-2022 are available and complete.",
+    "Bank account and postal details extracted successfully.",
+    "Headquarters address matches the legal address provided.",
+    "Jurisdiction is Great Britain (GB) as per the organization data.",
+    "Some compliance items are under review, including industry licenses and environmental compliance.",
+    "Business scope covers multiple lines of business and achievements as detailed in the annual report.",
+    "Some PEP screenings show confirmed matches; additional documentation is required.",
+    "Revenue details for 2021-2023 are available, with record figures mentioned in the annual report.",
+    "Market capitalization details for December 31, 2023 are available in the annual report."
   ],
   "sources": [
     "SQL Database",
@@ -42,10 +42,10 @@
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "RAG Agent",
-    "RAG Agent",
-    "RAG Agent",
-    "RAG Agent"
+    "PDF Document",
+    "SQL Database",
+    "PDF Document",
+    "PDF Document"
   ],
   "ids": [
     "K6Q0W1PS1L1O4IQL9C32",

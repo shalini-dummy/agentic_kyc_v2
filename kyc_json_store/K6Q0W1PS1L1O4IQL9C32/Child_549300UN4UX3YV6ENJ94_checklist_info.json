@@ -13,7 +13,7 @@
   ],
   "status": [
     "Validated",
-    "Pending",
+    "Validated",
     "Missing",
     "Validated",
     "Validated",
@@ -24,28 +24,28 @@
     "Validated"
   ],
   "comments": [
-    "Headquarters Address matches Legal Address extracted from GLEIF API.",
-    "Annual account details validated from JP Morgan Chase Annual Report 2023, but Ellipro Survey data missing.",
-    "No bank or postal details found in DIMS, GLEIF API, or JP Morgan Chase Annual Report.",
-    "Headquarters Address is verified and matches Legal Address extracted from GLEIF API.",
-    "Jurisdiction is listed as Great Britain (GB) in the GLEIF API data.",
-    "Regulatory compliance data was not found in DIMS, GLEIF API, or JP Morgan Chase Annual Report.",
-    "Business scope verified as Corporation with medium operations and regional coverage from DIMS.",
-    "No PEP screening data available in DIMS, GLEIF API, or JP Morgan Chase Annual Report.",
-    "Revenue details validated as per JP Morgan Chase Annual Report 2023.",
-    "Market capitalization details validated as per JP Morgan Chase Annual Report 2023."
+    "Legal Address and Headquarters Address are consistent and verified through GLEIF data.",
+    "Annual accounts for 2023 are detailed and verified; Ellipro survey data not provided.",
+    "No data found for bank or postal details.",
+    "Headquarters Address is verified through GLEIF API.",
+    "Jurisdiction (GB) verified via GLEIF API.",
+    "No regulatory compliance data available in DIMS or GLEIF API.",
+    "Business scope data verified through DIMS (Corporation, Medium scale, Regional coverage).",
+    "No PEP screening data available in DIMS or GLEIF API.",
+    "Record revenue for the sixth consecutive year, verified through provided financial data.",
+    "Market capitalization details verified through provided financial data."
   ],
   "sources": [
     "GLEIF API",
-    "JP Morgan Chase Annual Report 2023",
+    "PDF Document",
     "NA",
     "GLEIF API",
     "GLEIF API",
     "NA",
     "SQL Database",
     "NA",
-    "JP Morgan Chase Annual Report 2023",
-    "JP Morgan Chase Annual Report 2023"
+    "PDF Document",
+    "PDF Document"
   ],
   "ids": [
     "549300UN4UX3YV6ENJ94",

@@ -1,0 +1,86 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Utility Bill issued by London City Utilities is available and valid.",
+    "Financial data for 2020-2022 is available with Ellipro scores.",
+    "Bank account and postal details are provided, verified and accurate.",
+    "Headquarters address matches the legal address in official records.",
+    "Jurisdiction is correctly identified as Great Britain (GB).",
+    "Organization adheres to all legal and regulatory requirements.",
+    "Business scope verification is complete.",
+    "No detailed status provided; awaiting further confirmation.",
+    "Revenue data available for 2020-2022 through annual accounts.",
+    "Market capitalization as of December 31, 2023, is $489.32 billion."
+  ],
+  "sources": [
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "RAG Agent"
+  ],
+  "ids": [
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32"
+  ],
+  "organization_names": [
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC"
+  ],
+  "categories": [
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self"
+  ]
+}

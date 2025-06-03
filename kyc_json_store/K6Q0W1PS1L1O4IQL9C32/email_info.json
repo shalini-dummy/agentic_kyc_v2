@@ -1,5 +1,0 @@
-{
-  "mailTo": "client@capgemini.com",
-  "mailSubject": "Response to Missing Data Notification for J.P. MORGAN SECURITIES PLC",
-  "mailBody": "Dear Surbhi,\n\nThank you for your email regarding the missing and pending information for J.P. MORGAN SECURITIES PLC (LEI ID: K6Q0W1PS1L1O4IQL9C32).\n\nI have reviewed the checklist and updated the status of the pending items based on the additional information provided. Here are the key updates:\n\n1. **Company Directorship**: The verification for directors is now validated. The data from the attachment confirms active roles for Alice Thompson and John M. Lee.\n2. **Company PEP Screening**: The PEP screening data confirms entries for high-risk individuals, which has also been validated.\n\nThe complete checklist has been documented, and you can find the updated information stored in the JSON file at the following location: `kyc_json_store/K6Q0W1PS1L1O4IQL9C32/checklist_info.json`.\n\nPlease let me know if you need any further assistance or details.\n\nThank you for your attention to this matter.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]"
-}

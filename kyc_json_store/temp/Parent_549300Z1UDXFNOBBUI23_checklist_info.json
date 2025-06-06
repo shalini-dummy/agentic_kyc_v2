@@ -1,0 +1,86 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Address proof found with government-issued document.",
+    "Annual account details provided in the 2023 Annual Report. Ellipro Survey details missing.",
+    "Bank and postal details retrieved.",
+    "Headquarters address matches the legal address as per GLEIF API.",
+    "Jurisdiction verified as GB (United Kingdom) from GLEIF API.",
+    "No regulatory compliance data available.",
+    "Business scope outlined in the 2023 Annual Report, including global operations and leadership.",
+    "No PEP screening data available.",
+    "Revenue details provided in the 2023 Annual Report, highlighting record net revenue.",
+    "Market capitalization details provided in the 2023 Annual Report."
+  ],
+  "sources": [
+    "SQL Database",
+    "2023 Annual Report",
+    "SQL Database",
+    "GLEIF API",
+    "GLEIF API",
+    "NA",
+    "2023 Annual Report",
+    "NA",
+    "2023 Annual Report",
+    "2023 Annual Report"
+  ],
+  "ids": [
+    "549300Z1UDXFNOBBUI23",
+    "549300Z1UDXFNOBBUI23",
+    "549300Z1UDXFNOBBUI23",
+    "549300Z1UDXFNOBBUI23",
+    "549300Z1UDXFNOBBUI23",
+    "549300Z1UDXFNOBBUI23",
+    "549300Z1UDXFNOBBUI23",
+    "549300Z1UDXFNOBBUI23",
+    "549300Z1UDXFNOBBUI23",
+    "549300Z1UDXFNOBBUI23"
+  ],
+  "organization_names": [
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED",
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED",
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED",
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED",
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED",
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED",
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED",
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED",
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED",
+    "J.P. MORGAN CAPITAL HOLDINGS LIMITED"
+  ],
+  "categories": [
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent",
+    "Parent"
+  ]
+}

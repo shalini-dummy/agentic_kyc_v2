@@ -13,7 +13,7 @@
   ],
   "status": [
     "Validated",
-    "Partial",
+    "Validated",
     "Validated",
     "Validated",
     "Validated",
@@ -24,28 +24,28 @@
     "Validated"
   ],
   "comments": [
-    "Address proof is available and verified.",
-    "Annual account details are available, but Ellipro survey data is missing.",
-    "Bank account and postal details are available and verified.",
-    "Headquarters address matches with GLEIF data.",
-    "Jurisdiction is GB (United Kingdom). Verified with GLEIF data.",
-    "Regulatory compliance data not found in the annual report or DIMS.",
-    "Business scope details provided in the annual report.",
-    "No PEP screening data available in the annual report.",
-    "Revenue details are available from the annual report.",
-    "Market capitalization details are available from the annual report."
+    "Address proof found with government-issued document.",
+    "Annual account details provided in the 2023 Annual Report. Ellipro Survey details missing.",
+    "Bank and postal details retrieved.",
+    "Headquarters address matches the legal address as per GLEIF API.",
+    "Jurisdiction verified as GB (United Kingdom) from GLEIF API.",
+    "No regulatory compliance data available.",
+    "Business scope outlined in the 2023 Annual Report, including global operations and leadership.",
+    "No PEP screening data available.",
+    "Revenue details provided in the 2023 Annual Report, highlighting record net revenue.",
+    "Market capitalization details provided in the 2023 Annual Report."
   ],
   "sources": [
     "SQL Database",
-    "PDF Document",
+    "2023 Annual Report",
     "SQL Database",
     "GLEIF API",
     "GLEIF API",
     "NA",
-    "PDF Document",
+    "2023 Annual Report",
     "NA",
-    "PDF Document",
-    "PDF Document"
+    "2023 Annual Report",
+    "2023 Annual Report"
   ],
   "ids": [
     "549300Z1UDXFNOBBUI23",

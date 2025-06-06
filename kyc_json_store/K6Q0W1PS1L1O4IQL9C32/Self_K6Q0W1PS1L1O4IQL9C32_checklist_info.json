@@ -17,23 +17,23 @@
     "Validated",
     "Validated",
     "Validated",
+    "Missing",
     "Validated",
-    "Pending",
-    "Pending",
+    "Missing",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Address proof available through Utility Bill.",
-    "Annual accounts and Ellipro Survey data are available for 2020, 2021, and 2022.",
-    "Bank account and postal details are available.",
-    "Headquarters address matches SQL data and GLEIF API data.",
-    "Jurisdiction is Great Britain (GB) as per GLEIF API data.",
-    "Multiple regulatory compliance checks are available; some are under review.",
-    "Business scope data verification is pending; detailed final information not provided.",
-    "Multiple PEP screenings show confirmed matches; resolution is pending investigation.",
-    "Revenue details are included in the annual accounts data.",
-    "Market capitalization details are available: 489,320M (2023), 393,484M (2022), 466,206M (2021)."
+    "Address proof is available in the form of a utility bill.",
+    "Annual accounts and Ellipro survey data are available for 2020\u20132022.",
+    "Bank account number, SWIFT code, and postal details are available.",
+    "Headquarters address is available from the dataset.",
+    "Jurisdiction is identified as Great Britain (GB).",
+    "Specific details regarding regulatory compliance, industry licenses, and environmental compliance are not provided.",
+    "JPMorgan Chase operates globally, offering diverse financial services, including credit extension, capital raising, and asset safeguarding.",
+    "Specific details about PEP screening are not provided in the 2023 annual report.",
+    "Total net revenue for 2023 is USD 158.1 billion, managed revenue is USD 162.4 billion.",
+    "Market capitalization is USD 489.32 billion as stated in the 2023 annual report."
   ],
   "sources": [
     "SQL Database",
@@ -41,11 +41,11 @@
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "SQL Database",
-    "JPMorgan Chase Annual Report 2023",
-    "JPMorgan Chase Annual Report 2023",
-    "SQL Database",
-    "JPMorgan Chase Annual Report 2023"
+    "NA",
+    "PDF Document",
+    "NA",
+    "PDF Document",
+    "PDF Document"
   ],
   "ids": [
     "K6Q0W1PS1L1O4IQL9C32",

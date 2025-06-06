@@ -17,23 +17,23 @@
     "Validated",
     "Validated",
     "Validated",
-    "Missing",
-    "Validated",
-    "Missing",
+    "Pending",
+    "Pending",
+    "Pending",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Address proof is available in the form of a utility bill.",
-    "Annual accounts and Ellipro survey data are available for 2020\u20132022.",
-    "Bank account number, SWIFT code, and postal details are available.",
-    "Headquarters address is available from the dataset.",
-    "Jurisdiction is identified as Great Britain (GB).",
-    "Specific details regarding regulatory compliance, industry licenses, and environmental compliance are not provided.",
-    "JPMorgan Chase operates globally, offering diverse financial services, including credit extension, capital raising, and asset safeguarding.",
-    "Specific details about PEP screening are not provided in the 2023 annual report.",
-    "Total net revenue for 2023 is USD 158.1 billion, managed revenue is USD 162.4 billion.",
-    "Market capitalization is USD 489.32 billion as stated in the 2023 annual report."
+    "Address proof available in the form of a utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro survey data for 2020-2022 are available and verified.",
+    "Verified bank account and postal details are available in the database.",
+    "Headquarters address matches the legal address as per the database records.",
+    "Jurisdiction is GB (United Kingdom) and is confirmed active.",
+    "Industry license and environmental compliance are under review; AML and data protection are compliant.",
+    "Business scope details are pending verification for operation scale and industry code.",
+    "PEP screening has unresolved cases requiring additional documentation for certain matches.",
+    "Revenue details are included in the annual accounts for 2020-2022.",
+    "Market capitalization reported as 489,320 million dollars for the year ended December 31, 2023."
   ],
   "sources": [
     "SQL Database",
@@ -41,11 +41,11 @@
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "NA",
-    "PDF Document",
-    "NA",
-    "PDF Document",
-    "PDF Document"
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "RAG Agent"
   ],
   "ids": [
     "K6Q0W1PS1L1O4IQL9C32",

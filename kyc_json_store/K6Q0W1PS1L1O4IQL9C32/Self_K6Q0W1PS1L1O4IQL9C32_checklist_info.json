@@ -18,22 +18,22 @@
     "Validated",
     "Validated",
     "Pending",
-    "Pending",
+    "Validated",
     "Pending",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Address proof verified using the utility bill from London City Utilities.",
-    "Annual accounts and Ellipro survey data for 2020-2022 are available and verified.",
-    "Verified bank account and postal details from DIMS data.",
-    "Headquarters address matches the legal address provided in SQL data.",
-    "Jurisdiction confirmed as Great Britain (GB) from SQL data.",
-    "Some regulatory compliance statuses are under review or pending.",
-    "Business scope verification is pending based on the operation scale and employee range data.",
-    "Several PEP screenings indicate potential or confirmed matches requiring additional review.",
-    "Revenue details verified through annual accounts data from 2020-2022.",
-    "Market capitalization details verified as 489,320 million dollars as of December 31, 2023."
+    "Address proof available in DIMS data with Utility Bill as proof type.",
+    "Annual accounts for 2020-2022 extracted successfully; Ellipro scores available.",
+    "Bank account and postal details available in DIMS data.",
+    "Headquarters address extracted from legal entity data (GLEIF API).",
+    "Jurisdiction confirmed as GB from legal entity data.",
+    "Regulatory compliance items are under review, including adherence to U.S. federal regulations and tax obligations.",
+    "Business scope is comprehensive, spanning over 100 countries with strong market share and financial results.",
+    "Resolution of PEP screening matches is not addressed in the provided information.",
+    "Revenue details for 2021-2023 provided: 2023 ($158,104M), 2022 ($128,695M), 2021 ($121,649M).",
+    "Market capitalization confirmed as $489,320 million."
   ],
   "sources": [
     "SQL Database",
@@ -41,11 +41,11 @@
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "SQL Database",
-    "SQL Database",
-    "SQL Database",
-    "SQL Database",
-    "JPMorgan Chase Annual Report 2023"
+    "PDF Document",
+    "PDF Document",
+    "PDF Document",
+    "PDF Document",
+    "PDF Document"
   ],
   "ids": [
     "K6Q0W1PS1L1O4IQL9C32",

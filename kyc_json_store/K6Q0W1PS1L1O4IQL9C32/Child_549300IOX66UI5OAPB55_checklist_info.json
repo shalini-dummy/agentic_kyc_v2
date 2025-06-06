@@ -24,28 +24,28 @@
     "Validated"
   ],
   "comments": [
-    "Legal Address found: C/O MAZARS LLP TOWER BRIDGE HOUSE, London, GB.",
-    "Financial details for 2023 reported, no Ellipro Survey provided.",
-    "Bank details found: Account No: AS22HBUK22334455667788, SWIFT Code: HBUKGB4B, City: Sydney, Postal Code: E14 5HQ, Country: AS.",
-    "Headquarters Address found: 25 BANK STREET, London, GB.",
-    "Jurisdiction is GB (United Kingdom).",
-    "No regulatory compliance data found.",
-    "Operates across borders; engages in banking, investment, and financial services.",
-    "No PEP screening data found.",
-    "Generated record revenue of 158.1 billion dollars in 2023.",
-    "Market capitalization reported as 489,320 million dollars."
+    "Legal address is extracted from GLEIF API.",
+    "Financial performance data for 2023 provided; Ellipro Survey details missing.",
+    "Bank account details extracted from DIMS.",
+    "Headquarters address extracted from GLEIF API.",
+    "Jurisdiction is verified as United Kingdom (GB) from GLEIF API.",
+    "No regulatory compliance data found in DIMS sources or GLEIF API.",
+    "Business scope extracted from RAG agent data; firm operates globally in financial services.",
+    "PEP screening data is not available in DIMS sources or GLEIF API.",
+    "Revenue of 2023 is reported as $158.1 billion.",
+    "Market capitalization of 2023 is reported as $489.3 billion."
   ],
   "sources": [
     "GLEIF API",
-    "PDF Document",
+    "RAG Agent",
     "SQL Database",
     "GLEIF API",
     "GLEIF API",
     "NA",
-    "PDF Document",
+    "RAG Agent",
     "NA",
-    "PDF Document",
-    "PDF Document"
+    "RAG Agent",
+    "RAG Agent"
   ],
   "ids": [
     "549300IOX66UI5OAPB55",

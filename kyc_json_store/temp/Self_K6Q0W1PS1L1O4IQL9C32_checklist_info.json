@@ -1,0 +1,86 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Address proof available in the form of a utility bill issued by London City Utilities.",
+    "Annual accounts and Ellipro survey data for 2020-2022 are available and verified.",
+    "Verified bank account and postal details are available in the database.",
+    "Headquarters address matches the legal address as per the database records.",
+    "Jurisdiction is GB (United Kingdom) and is confirmed active.",
+    "Industry license and environmental compliance are under review; AML and data protection are compliant.",
+    "Business scope details are pending verification for operation scale and industry code.",
+    "PEP screening has unresolved cases requiring additional documentation for certain matches.",
+    "Revenue details are included in the annual accounts for 2020-2022.",
+    "Market capitalization reported as 489,320 million dollars for the year ended December 31, 2023."
+  ],
+  "sources": [
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "RAG Agent"
+  ],
+  "ids": [
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32"
+  ],
+  "organization_names": [
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC"
+  ],
+  "categories": [
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self"
+  ]
+}

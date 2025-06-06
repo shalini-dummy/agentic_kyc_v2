@@ -24,16 +24,16 @@
     "Validated"
   ],
   "comments": [
-    "Legal Address and Headquarters Address are consistent and verified through GLEIF data.",
-    "Annual accounts for 2023 are detailed and verified; Ellipro survey data not provided.",
-    "No data found for bank or postal details.",
-    "Headquarters Address is verified through GLEIF API.",
-    "Jurisdiction (GB) verified via GLEIF API.",
-    "No regulatory compliance data available in DIMS or GLEIF API.",
-    "Business scope data verified through DIMS (Corporation, Medium scale, Regional coverage).",
-    "No PEP screening data available in DIMS or GLEIF API.",
-    "Record revenue for the sixth consecutive year, verified through provided financial data.",
-    "Market capitalization details verified through provided financial data."
+    "Headquarters Address retrieved successfully.",
+    "Annual account details retrieved successfully, but Ellipro survey data is missing.",
+    "No relevant data found for bank and postal details.",
+    "Headquarters Address matches provided GLEIF data.",
+    "Jurisdiction is confirmed as GB (United Kingdom).",
+    "No regulatory compliance information found.",
+    "Verified business scope data retrieved from DIMS.",
+    "No data available for PEP screening.",
+    "Revenue details successfully retrieved.",
+    "Market capitalization details successfully retrieved."
   ],
   "sources": [
     "GLEIF API",

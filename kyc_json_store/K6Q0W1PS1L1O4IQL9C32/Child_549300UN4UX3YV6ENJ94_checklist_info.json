@@ -12,8 +12,8 @@
     "Company Market Capitalization Details"
   ],
   "status": [
-    "Missing",
     "Validated",
+    "Partial",
     "Missing",
     "Validated",
     "Validated",
@@ -24,19 +24,19 @@
     "Validated"
   ],
   "comments": [
-    "No data available to validate the company address proof.",
-    "Annual accounts verified with total revenue of $158.1 billion and ROTCE of 21% for 2023.",
-    "No specific bank and postal details provided in the available information.",
-    "Headquarters address matches provided GLEIF data.",
-    "Jurisdiction is confirmed as United Kingdom (GB).",
-    "Regulatory compliance verified with significant tax contributions and adherence to regulations.",
-    "Business scope information is verified from DIMS data (Corporation, Medium scale, Regional).",
-    "No data available for PEP screening validation.",
-    "Revenue details validated with a record revenue of $158.1 billion for 2023.",
-    "Market capitalization details validated with $489.32 billion for 2023."
+    "Legal Address data is available from GLEIF API.",
+    "Annual Account data validated from the report; Ellipro Survey missing.",
+    "No specific bank or postal details are provided.",
+    "Headquarters Address data is available from GLEIF API.",
+    "Jurisdiction data is available from GLEIF API.",
+    "Regulatory compliance confirmed via capital ratios provided in the report.",
+    "Business Scope is verified from DIMS data.",
+    "No specific details regarding PEP screening are available.",
+    "Record revenue details for 2023 confirmed from the report.",
+    "Market capitalization details for 2023 confirmed from the report."
   ],
   "sources": [
-    "NA",
+    "GLEIF API",
     "PDF Document",
     "NA",
     "GLEIF API",

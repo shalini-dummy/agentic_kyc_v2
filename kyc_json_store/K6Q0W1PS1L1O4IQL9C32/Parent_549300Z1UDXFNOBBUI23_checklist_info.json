@@ -13,7 +13,7 @@
   ],
   "status": [
     "Validated",
-    "Validated",
+    "Partial",
     "Validated",
     "Validated",
     "Validated",
@@ -24,16 +24,16 @@
     "Validated"
   ],
   "comments": [
-    "Government-issued ID proof found in DIMS data.",
-    "Annual account details extracted from the 2023 annual report. Ellipro survey missing.",
-    "Bank account and postal details found in DIMS database.",
-    "Headquarters address matches legal address from GLEIF API data.",
-    "Jurisdiction confirmed as GB (United Kingdom) from GLEIF API data.",
-    "No regulatory compliance data found in DIMS database.",
-    "Business scope details extracted from the 2023 annual report.",
-    "No data found for PEP screening.",
-    "Revenue details extracted from the 2023 annual report.",
-    "Market capitalization details extracted from the 2023 annual report."
+    "Address proof is available and verified.",
+    "Annual account details are available, but Ellipro survey data is missing.",
+    "Bank account and postal details are available and verified.",
+    "Headquarters address matches with GLEIF data.",
+    "Jurisdiction is GB (United Kingdom). Verified with GLEIF data.",
+    "Regulatory compliance data not found in the annual report or DIMS.",
+    "Business scope details provided in the annual report.",
+    "No PEP screening data available in the annual report.",
+    "Revenue details are available from the annual report.",
+    "Market capitalization details are available from the annual report."
   ],
   "sources": [
     "SQL Database",

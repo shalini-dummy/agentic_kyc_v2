@@ -1,0 +1,86 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Partial",
+    "Missing",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Legal Address data is available from GLEIF API.",
+    "Annual Account data validated from the report; Ellipro Survey missing.",
+    "No specific bank or postal details are provided.",
+    "Headquarters Address data is available from GLEIF API.",
+    "Jurisdiction data is available from GLEIF API.",
+    "Regulatory compliance confirmed via capital ratios provided in the report.",
+    "Business Scope is verified from DIMS data.",
+    "No specific details regarding PEP screening are available.",
+    "Record revenue details for 2023 confirmed from the report.",
+    "Market capitalization details for 2023 confirmed from the report."
+  ],
+  "sources": [
+    "GLEIF API",
+    "PDF Document",
+    "NA",
+    "GLEIF API",
+    "GLEIF API",
+    "PDF Document",
+    "SQL Database",
+    "NA",
+    "PDF Document",
+    "PDF Document"
+  ],
+  "ids": [
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94",
+    "549300UN4UX3YV6ENJ94"
+  ],
+  "organization_names": [
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD.",
+    "J.P. MORGAN PRIME NOMINEES LTD."
+  ],
+  "categories": [
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child",
+    "Child"
+  ]
+}

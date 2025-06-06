@@ -1,0 +1,86 @@
+{
+  "items": [
+    "Company Address Proof",
+    "Company Annual Account and Ellipro Survey",
+    "Company Bank and Postal Details",
+    "Company Headquarters Address",
+    "Company Jurisdiction",
+    "Company Regulatory Compliance",
+    "Company Business Scope",
+    "Company PEP Screening",
+    "Company Revenue Details",
+    "Company Market Capitalization Details"
+  ],
+  "status": [
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Validated",
+    "Pending",
+    "Validated",
+    "Pending",
+    "Validated",
+    "Validated"
+  ],
+  "comments": [
+    "Address proof available in DIMS data with Utility Bill as proof type.",
+    "Annual accounts for 2020-2022 extracted successfully; Ellipro scores available.",
+    "Bank account and postal details available in DIMS data.",
+    "Headquarters address extracted from legal entity data (GLEIF API).",
+    "Jurisdiction confirmed as GB from legal entity data.",
+    "Regulatory compliance items are under review, including adherence to U.S. federal regulations and tax obligations.",
+    "Business scope is comprehensive, spanning over 100 countries with strong market share and financial results.",
+    "Resolution of PEP screening matches is not addressed in the provided information.",
+    "Revenue details for 2021-2023 provided: 2023 ($158,104M), 2022 ($128,695M), 2021 ($121,649M).",
+    "Market capitalization confirmed as $489,320 million."
+  ],
+  "sources": [
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "PDF Document",
+    "PDF Document",
+    "PDF Document",
+    "PDF Document",
+    "PDF Document"
+  ],
+  "ids": [
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32",
+    "K6Q0W1PS1L1O4IQL9C32"
+  ],
+  "organization_names": [
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC",
+    "J.P. MORGAN SECURITIES PLC"
+  ],
+  "categories": [
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self",
+    "Self"
+  ]
+}

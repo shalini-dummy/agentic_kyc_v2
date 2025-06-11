@@ -1,0 +1,5 @@
+{
+  "mailTo": "client@jpmorganchase.com",
+  "mailSubject": "Request for Missing Information",
+  "mailBody": "Dear [Client's Name],\n\nI hope this message finds you well.\n\nWe are currently in the process of completing our due diligence for J.P. Morgan Securities PLC (LEI ID: K6Q0W1PS1L1O4IQL9C32) and have encountered some missing information in our checklist.\n\nThe following items require your attention:\n\n1. **Company Regulatory Compliance**: Some regulatory compliance statuses are under review, including Industry License and Environmental Compliance.\n2. **Company Business Scope**: Verification status is still pending.\n3. **Company PEP Screening**: Confirmed matches with PEPs require further investigation and additional documentation.\n\nAdditionally, we would appreciate any details regarding:\n- Revenue specifics beyond what has been reported.\n- Any further insights into market capitalization.\n\nYour prompt assistance in providing this information would be greatly appreciated and will help us expedite our review process.\n\nThank you for your cooperation.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Company]\n[Your Contact Information]"
+}

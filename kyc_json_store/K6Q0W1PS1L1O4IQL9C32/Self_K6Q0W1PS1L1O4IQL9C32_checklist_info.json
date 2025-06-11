@@ -17,23 +17,23 @@
     "Validated",
     "Validated",
     "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
     "Missing",
-    "Validated",
-    "Missing",
-    "Validated",
-    "Validated"
+    "Missing"
   ],
   "comments": [
-    "Address verified from utility bill issued by London City Utilities.",
-    "Annual accounts for 2020-2022 available with Ellipro scores.",
-    "Bank account and postal code details available.",
-    "Headquarters address matches legal address.",
-    "Jurisdiction confirmed as Great Britain (GB).",
-    "Regulatory compliance details not provided in the 2023 annual report.",
-    "Business scope verified from the 2023 annual report.",
-    "PEP screening outcomes not provided in the 2023 annual report.",
-    "Revenue details confirmed as $158,104 million for 2023.",
-    "Market capitalization confirmed as $489,320,000 for 2023."
+    "Utility Bill from London City Utilities is available and valid until 2023-12-31.",
+    "Data for the years 2020, 2021, and 2022 is available with Ellipro scores and financial metrics.",
+    "Bank account and SWIFT code information are available and verified.",
+    "Headquarters address matches the legal entity data (25 Bank Street, Canary Wharf, London, E14 5JP, GB).",
+    "Jurisdiction is confirmed as Great Britain (GB).",
+    "Some regulatory compliance statuses are under review (e.g., Industry License, Environmental Compliance).",
+    "Business scope verification status is pending.",
+    "Confirmed matches with PEPs require investigation and additional documentation.",
+    "No specific revenue details found in the current data.",
+    "No market capitalization details found in the current data."
   ],
   "sources": [
     "SQL Database",
@@ -41,11 +41,11 @@
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "PDF Document",
-    "PDF Document",
-    "PDF Document",
-    "PDF Document",
-    "PDF Document"
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
+    "NA",
+    "NA"
   ],
   "ids": [
     "K6Q0W1PS1L1O4IQL9C32",

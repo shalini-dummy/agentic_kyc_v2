@@ -20,8 +20,8 @@
     "Pending",
     "Pending",
     "Pending",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Utility Bill from London City Utilities is available and valid until 2023-12-31.",
@@ -32,8 +32,8 @@
     "Some regulatory compliance statuses are under review (e.g., Industry License, Environmental Compliance).",
     "Business scope verification status is pending.",
     "Confirmed matches with PEPs require investigation and additional documentation.",
-    "No specific revenue details found in the current data.",
-    "No market capitalization details found in the current data."
+    "The reported net revenue for 2023 is $158.1 billion, reflecting strong performance across its business lines.",
+    "Market capitalization for 2023 is $489,320 million as per the Annual Report."
   ],
   "sources": [
     "SQL Database",
@@ -44,8 +44,8 @@
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "NA",
-    "NA"
+    "PDF Document",
+    "PDF Document"
   ],
   "ids": [
     "K6Q0W1PS1L1O4IQL9C32",

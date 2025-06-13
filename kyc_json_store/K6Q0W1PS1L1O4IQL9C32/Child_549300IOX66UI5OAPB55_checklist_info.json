@@ -12,40 +12,40 @@
     "Company Market Capitalization Details"
   ],
   "status": [
-    "Validated",
     "Missing",
     "Validated",
     "Validated",
     "Validated",
-    "Missing",
-    "Missing",
+    "Validated",
+    "Validated",
+    "Validated",
     "Missing",
     "Validated",
-    "Validated"
+    "Missing"
   ],
   "comments": [
-    "Legal address found: C/O MAZARS LLP TOWER BRIDGE HOUSE, London, GB, Postal Code: E1W 1DD",
-    "The organization does not release this information.",
-    "Bank details found: Bank Account Number: AS22HBUK22334455667788, SWIFT Code: HBUKGB4B, City: Sydney, Postal Code: E14 5HQ, Country: AS",
-    "Headquarters address found: 25 BANK STREET, London, GB, Postal Code: E14 5JP",
-    "Jurisdiction is GB.",
-    "The organization does not release this information.",
-    "The organization does not release this information.",
-    "The organization does not release this information.",
-    "Total net revenue for the year ended December 31, 2023, is reported as 158,104 million dollars.",
-    "Market capitalization as of December 31, 2023, is reported as 489,320 million dollars."
+    "Address data not found in SQL Database.",
+    "Annual account highlights achievements and activities of child organizations.",
+    "Bank account and postal details are available.",
+    "Headquarters address is available from GLEIF API data.",
+    "Jurisdiction is available as GB (United Kingdom).",
+    "Strong regulatory compliance practices demonstrated in annual reports.",
+    "Business scope includes investment banking, markets, commercial banking, and asset & wealth management.",
+    "PEP screening data not found in SQL Database.",
+    "Corporate & Investment Bank generated $14 billion net income on $49 billion revenue in 2023.",
+    "Specific market capitalization details are not available for child organization."
   ],
   "sources": [
-    "GLEIF API",
     "NA",
+    "PDF Document",
     "SQL Database",
     "GLEIF API",
     "GLEIF API",
-    "NA",
-    "NA",
+    "PDF Document",
+    "PDF Document",
     "NA",
     "PDF Document",
-    "PDF Document"
+    "NA"
   ],
   "ids": [
     "549300IOX66UI5OAPB55",

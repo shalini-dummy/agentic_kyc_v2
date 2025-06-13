@@ -18,10 +18,10 @@
     "Pending",
     "Pending",
     "Pending",
-    "Pending",
+    "Validated",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Utility Bill validated with issued details.",
@@ -30,10 +30,10 @@
     "Verification of directorships is incomplete.",
     "Some tax documents are verified; others are under review or pending.",
     "Multiple compliance statuses are under review.",
-    "Business scope verification is still pending.",
+    "Business scope details provided in the annual report.",
     "No PEP screening data found for the provided LEI ID.",
-    "Revenue details not provided in available data.",
-    "Market capitalization details not provided."
+    "Revenue details provided in the annual report.",
+    "Market capitalization details provided in the annual report."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
@@ -42,9 +42,9 @@
     "DIM_CompanyDirectorship",
     "DIM_CompanyTaxDocuments",
     "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
+    "RagAgent",
     "NA",
-    "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent"
   ]
 }

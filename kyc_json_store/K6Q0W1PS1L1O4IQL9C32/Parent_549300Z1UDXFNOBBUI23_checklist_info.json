@@ -18,22 +18,22 @@
     "Validated",
     "Validated",
     "Missing",
-    "Missing",
+    "Validated",
     "Missing",
     "Validated",
     "Validated"
   ],
   "comments": [
-    "Address proof is validated using government ID proof.",
-    "Annual account details for 2023 provided; Ellipro survey details are missing.",
-    "Bank account details and postal information are available and verified.",
-    "Headquarters address matches with the legal address provided in GLEIF API.",
-    "Jurisdiction is identified as GB (United Kingdom).",
-    "No data found for regulatory compliance.",
-    "No data found for business scope.",
-    "No data found for PEP screening.",
-    "Revenue details for 2023 provided, showing record net revenue of 158.1 billion dollars.",
-    "Market capitalization as of December 31, 2023, was 489.3 billion dollars."
+    "Address proof is available and verified using Government ID Proof issued by US Companies House.",
+    "Annual accounts with financial highlights for 2023, 2022, and 2021 are provided. Ellipro survey data missing.",
+    "Bank account details and postal code provided and verified.",
+    "Headquarters address verified via GLEIF API data.",
+    "Jurisdiction verified as GB from GLEIF API data.",
+    "Regulatory compliance data not found.",
+    "Business scope includes leadership in investment banking, financial services, commercial banking, and asset management.",
+    "PEP Screening data not found.",
+    "Revenue details for 2023, 2022, and 2021, including record revenue achievements, are provided.",
+    "Market capitalization details for 2023, 2022, and 2021 are provided."
   ],
   "sources": [
     "SQL Database",
@@ -42,7 +42,7 @@
     "GLEIF API",
     "GLEIF API",
     "NA",
-    "NA",
+    "PDF Document",
     "NA",
     "PDF Document",
     "PDF Document"

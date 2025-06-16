@@ -1,84 +1,35 @@
 {
   "items": [
-    "Company Address Proof",
-    "Company Annual Account and Ellipro Survey",
-    "Company Bank and Postal Details",
-    "Company Headquarters Address",
-    "Company Jurisdiction",
-    "Company Regulatory Compliance",
-    "Company Business Scope",
-    "Company PEP Screening",
-    "Company Revenue Details",
-    "Company Market Capitalization Details"
+    "Compliance with local regulations",
+    "Financial audit completed",
+    "Environmental impact assessment"
   ],
   "status": [
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
-    "Validated",
     "Pending",
-    "Pending",
-    "Pending",
-    "Missing",
-    "Missing"
+    "Completed",
+    "Pending"
   ],
   "comments": [
-    "Address proof available in DIMS data with Utility Bill issued by London City Utilities.",
-    "Annual accounts for 2022, 2021, and 2020 available with Ellipro scores.",
-    "Bank account and postal details verified from DIMS data.",
-    "Headquarters address sourced from SQL database matches DIMS data.",
-    "Jurisdiction is listed as Great Britain (GB) in SQL database.",
-    "Some regulations are compliant, but others are under review (e.g., Industry License, Environmental Compliance).",
-    "Business scope verification pending; DIMS data indicates pending verification status for operation scale and geographic coverage.",
-    "Several PEP screenings indicate confirmed matches and require additional documentation; resolution statuses are under investigation.",
-    "Revenue details are not available in the provided data.",
-    "Market capitalization details are not available in the provided data."
+    "Awaiting submission of compliance documents",
+    "Audit report reviewed and approved",
+    "Assessment report incomplete"
   ],
   "sources": [
-    "SQL Database",
-    "SQL Database",
-    "SQL Database",
-    "SQL Database",
-    "SQL Database",
-    "SQL Database",
-    "SQL Database",
-    "SQL Database",
-    "NA",
-    "NA"
+    "Local regulation body",
+    "Internal audit team",
+    "Environmental agency"
   ],
   "ids": [
-    "K6Q0W1PS1L1O4IQL9C32",
-    "K6Q0W1PS1L1O4IQL9C32",
-    "K6Q0W1PS1L1O4IQL9C32",
-    "K6Q0W1PS1L1O4IQL9C32",
-    "K6Q0W1PS1L1O4IQL9C32",
-    "K6Q0W1PS1L1O4IQL9C32",
-    "K6Q0W1PS1L1O4IQL9C32",
     "K6Q0W1PS1L1O4IQL9C32",
     "K6Q0W1PS1L1O4IQL9C32",
     "K6Q0W1PS1L1O4IQL9C32"
   ],
   "organization_names": [
-    "J.P. MORGAN SECURITIES PLC",
-    "J.P. MORGAN SECURITIES PLC",
-    "J.P. MORGAN SECURITIES PLC",
-    "J.P. MORGAN SECURITIES PLC",
-    "J.P. MORGAN SECURITIES PLC",
-    "J.P. MORGAN SECURITIES PLC",
-    "J.P. MORGAN SECURITIES PLC",
-    "J.P. MORGAN SECURITIES PLC",
-    "J.P. MORGAN SECURITIES PLC",
-    "J.P. MORGAN SECURITIES PLC"
+    "Root Organization",
+    "Root Organization",
+    "Root Organization"
   ],
   "categories": [
-    "Self",
-    "Self",
-    "Self",
-    "Self",
-    "Self",
-    "Self",
-    "Self",
     "Self",
     "Self",
     "Self"

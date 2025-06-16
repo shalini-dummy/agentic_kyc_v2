@@ -1,0 +1,26 @@
+{
+  "title": [
+    "Melissa Hortman and husband killed in Minnesota lawmaker attacks",
+    "Vance Boelter leaving the US, fleeing to Canada? Officials provide ...",
+    "Police: 2 dead after fight leads to shooting in Miami Gardens",
+    "Air India Crash Shocker: Why Did AI171 Issue A MAYDAY Call ..."
+  ],
+  "adversity": [
+    "High",
+    "High",
+    "Medium",
+    "Very High"
+  ],
+  "reasoning": [
+    "This incident involves the fatal shooting of a state representative, indicating a significant adverse situation. The severity of the attack and the political implications contribute to its high adversity rating.",
+    "The ongoing manhunt for a suspect involved in the shooting of lawmakers signifies a serious threat to public safety and political stability, warranting a high adversity rating.",
+    "While the shooting led to fatalities, the event appears to stem from a localized incident rather than a broader systemic issue, resulting in a medium adversity rating.",
+    "The crash of a passenger flight with significant loss of life poses an extreme public and organizational safety concern, hence receiving a very high adversity rating."
+  ],
+  "news": [
+    "A suspect allegedly posing as a police officer killed State Rep. Melissa Hortman and her husband in a targeted attack.",
+    "Vance Boelter, the man suspected of shooting two Minnesota lawmakers, remains on the loose more than 36 hours after the shootings.",
+    "According to Miami Gardens police, the shooting was reported at 2:37 a.m. outside the Cru lounge/hookah bar.",
+    "Air India Flight AI171 crashed in Ahmedabad's Meghani Nagar after issuing a MAYDAY call."
+  ]
+}

@@ -17,23 +17,23 @@
     "Validated",
     "Validated",
     "Validated",
-    "Validated",
+    "Pending",
+    "Pending",
+    "Pending",
     "Missing",
-    "Missing",
-    "Validated",
-    "Validated"
+    "Missing"
   ],
   "comments": [
-    "Address proof available in form of Utility Bill issued by London City Utilities.",
-    "Annual accounts and Ellipro survey data for 2020-2022 available and verified.",
-    "Bank account and postal details are consistent and verified.",
-    "Headquarters address matches legal address and is verified.",
-    "Jurisdiction is GB (Great Britain) and matches the legal form ID B6ES.",
-    "Organization confirms full compliance with all legal and regulatory requirements.",
-    "No specific details regarding business scope verification status.",
-    "No information available about PEP screening status or unresolved matches.",
-    "Record revenue reported for 2023: Total net revenue 158.1 billion USD.",
-    "Market capitalization as of Dec 31, 2023: 489,320 million USD."
+    "Address proof available in DIMS data with Utility Bill issued by London City Utilities.",
+    "Annual accounts for 2022, 2021, and 2020 available with Ellipro scores.",
+    "Bank account and postal details verified from DIMS data.",
+    "Headquarters address sourced from SQL database matches DIMS data.",
+    "Jurisdiction is listed as Great Britain (GB) in SQL database.",
+    "Some regulations are compliant, but others are under review (e.g., Industry License, Environmental Compliance).",
+    "Business scope verification pending; DIMS data indicates pending verification status for operation scale and geographic coverage.",
+    "Several PEP screenings indicate confirmed matches and require additional documentation; resolution statuses are under investigation.",
+    "Revenue details are not available in the provided data.",
+    "Market capitalization details are not available in the provided data."
   ],
   "sources": [
     "SQL Database",
@@ -41,11 +41,11 @@
     "SQL Database",
     "SQL Database",
     "SQL Database",
-    "PDF Document",
+    "SQL Database",
+    "SQL Database",
+    "SQL Database",
     "NA",
-    "NA",
-    "PDF Document",
-    "PDF Document"
+    "NA"
   ],
   "ids": [
     "K6Q0W1PS1L1O4IQL9C32",

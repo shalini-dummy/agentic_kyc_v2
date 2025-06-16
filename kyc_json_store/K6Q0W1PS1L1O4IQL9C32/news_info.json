@@ -1,30 +1,26 @@
 {
   "title": [
-    "JP Morgan Affiliates to Pay $151 Million to Resolve SEC Enforcement Actions",
-    "J.P. Morgan Fined $3M for Misreporting 77 Billion Shares - Yahoo Finance",
-    "J.P. Morgan to Pay $150M to Settle Slew of SEC Charges - Wealth Management",
-    "JP Morgan affiliates to pay $151M to resolve SEC enforcement actions - Nasdaq",
-    "FINRA fines J.P. Morgan Securities for alleged rule violations"
+    "Melissa Hortman and husband killed in Minnesota lawmaker attacks",
+    "Vance Boelter leaving the US, fleeing to Canada? Officials provide ...",
+    "Police: 2 dead after fight leads to shooting in Miami Gardens",
+    "Air India Crash Shocker: Why Did AI171 Issue A MAYDAY Call ..."
   ],
   "adversity": [
     "High",
+    "High",
     "Medium",
-    "High",
-    "High",
-    "Medium"
+    "Very High"
   ],
   "reasoning": [
-    "The Securities and Exchange Commission has charged J.P. Morgan Securities LLC and J.P. Morgan Investment Management Inc. for various failures, including misleading disclosures and breaches of fiduciary duty. They will pay a total of $151 million to resolve these charges.",
-    "The Financial Industry Regulatory Authority (FINRA) has imposed a fine of $3 million on J.P. Morgan for inaccuracies in systemwide reporting that date back over 16 years.",
-    "J.P. Morgan is set to pay more than $150 million to settle various SEC charges against its investment management and securities arms.",
-    "The SEC has charged J.P. Morgan Securities and J.P. Morgan Investment Management with multiple violations, leading to significant financial penalties.",
-    "J.P. Morgan Securities has been fined by FINRA for alleged regulatory violations, contributing to the ongoing scrutiny of the firm."
+    "This incident involves the fatal shooting of a state representative, indicating a significant adverse situation. The severity of the attack and the political implications contribute to its high adversity rating.",
+    "The ongoing manhunt for a suspect involved in the shooting of lawmakers signifies a serious threat to public safety and political stability, warranting a high adversity rating.",
+    "While the shooting led to fatalities, the event appears to stem from a localized incident rather than a broader systemic issue, resulting in a medium adversity rating.",
+    "The crash of a passenger flight with significant loss of life poses an extreme public and organizational safety concern, hence receiving a very high adversity rating."
   ],
   "news": [
-    "https://www.sec.gov/newsroom/press-releases/2024-178",
-    "https://finance.yahoo.com/news/j-p-morgan-fined-3m-110917606.html",
-    "https://www.wealthmanagement.com/regulation-compliance/j-p-morgan-to-pay-150m-to-settle-slew-of-sec-charges",
-    "https://www.nasdaq.com/articles/jp-morgan-affiliates-pay-151m-resolve-sec-enforcement-actions",
-    "https://fxnewsgroup.com/forex-news/regulatory/finra-fines-j-p-morgan-securities-for-alleged-rule-violations/"
+    "A suspect allegedly posing as a police officer killed State Rep. Melissa Hortman and her husband in a targeted attack.",
+    "Vance Boelter, the man suspected of shooting two Minnesota lawmakers, remains on the loose more than 36 hours after the shootings.",
+    "According to Miami Gardens police, the shooting was reported at 2:37 a.m. outside the Cru lounge/hookah bar.",
+    "Air India Flight AI171 crashed in Ahmedabad's Meghani Nagar after issuing a MAYDAY call."
   ]
 }

@@ -24,16 +24,16 @@
     "Missing"
   ],
   "comments": [
-    "Utility Bill validated with issued details.",
-    "Ellipro survey data available for 2020, 2021, and 2022.",
-    "Bank and postal details validated with SWIFT code and postal address.",
-    "Verification of directorships is incomplete.",
-    "Some tax documents are verified; others are under review or pending.",
-    "Multiple compliance statuses are under review.",
-    "Business scope verification is still pending.",
-    "No PEP screening data found for the provided LEI ID.",
-    "Revenue details not provided in available data.",
-    "Market capitalization details not provided."
+    "Address proof available and verified until 2023-12-31.",
+    "Annual accounts available for 2022, 2021, and 2020 with Ellipro scores.",
+    "Bank details verified with valid SWIFT and account number.",
+    "Director verification pending or under review for two directors.",
+    "Tax documents include verified and pending review statuses.",
+    "Some regulatory compliances are under review.",
+    "Business scope verification is marked as pending.",
+    "PEP screening data not found for the company.",
+    "Revenue details not available in the provided data.",
+    "Market capitalization details not available in the provided data."
   ],
   "sources": [
     "DIM_CompanyAddressProof",

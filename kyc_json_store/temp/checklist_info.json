@@ -20,31 +20,31 @@
     "Pending",
     "Pending",
     "Missing",
-    "Missing",
-    "Missing"
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Address proof available and verified until 2023-12-31.",
     "Annual accounts available for 2022, 2021, and 2020 with Ellipro scores.",
     "Bank details verified with valid SWIFT and account number.",
-    "Director verification pending or under review for two directors.",
-    "Tax documents include verified and pending review statuses.",
-    "Some regulatory compliances are under review.",
+    "The annual report does not provide directorship-specific details.",
+    "Tax information indicates substantial payments and compliance, pending additional specifics.",
+    "Regulatory compliance is emphasized in the report, with commitment to legal requirements.",
     "Business scope verification is marked as pending.",
-    "PEP screening data not found for the company.",
-    "Revenue details not available in the provided data.",
-    "Market capitalization details not available in the provided data."
+    "PEP screening data not found in the report.",
+    "Revenue details verified from the report, showing consistent growth.",
+    "Market capitalization details validated from the report."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
+    "RagAgent",
+    "RagAgent",
+    "RagAgent",
     "DIM_CompanyBusinessScope",
-    "NA",
-    "NA",
-    "NA"
+    "RagAgent",
+    "RagAgent",
+    "RagAgent"
   ]
 }

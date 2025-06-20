@@ -15,36 +15,36 @@
     "Validated",
     "Validated",
     "Validated",
-    "Pending",
-    "Pending",
-    "Pending",
-    "Pending",
     "Missing",
     "Missing",
-    "Missing"
+    "Missing",
+    "Validated",
+    "Missing",
+    "Validated",
+    "Validated"
   ],
   "comments": [
     "Utility Bill issued by London City Utilities is valid until 2023-12-31.",
-    "Data for the years 2020, 2021, and 2022 is available and Ellipro scores are provided.",
+    "Data for the years 2020, 2021, and 2022 is available; Ellipro scores are provided.",
     "Bank account and postal details are available, including SWIFT code and postal code.",
-    "Director details are either pending or under review as per DIM data.",
-    "Several tax documents are pending verification or renewal as per DIM data.",
-    "Industry License and Environmental Compliance are under review.",
-    "Business scope verification is pending as per DIM data.",
-    "No PEP screening data was found for the given LEI ID.",
-    "Revenue details are not available in the provided data.",
-    "Market capitalization data is not available in the provided data."
+    "No information about company directorship was released in the annual report.",
+    "No information about company tax documentation was provided in the annual report.",
+    "No details about regulatory compliance were disclosed in the annual report.",
+    "Detailed information about business activities, global operations, and community role.",
+    "No PEP screening data was disclosed in the annual report.",
+    "Revenue details were disclosed: Total net revenue of 158.1 billion dollars (2023).",
+    "Market capitalization disclosed: 489,320 million dollars as of December 31, 2023."
   ],
   "sources": [
     "DIM_CompanyAddressProof",
     "DIM_CompanyAnnualAccountsAndElliproSurvey",
     "DIM_CompanyBankAndPostalDetails",
-    "DIM_CompanyDirectorship",
-    "DIM_CompanyTaxDocuments",
-    "DIM_CompanyRegulatory",
-    "DIM_CompanyBusinessScope",
     "NA",
     "NA",
-    "NA"
+    "NA",
+    "RagAgent",
+    "NA",
+    "RagAgent",
+    "RagAgent"
   ]
 }

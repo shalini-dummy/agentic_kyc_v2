@@ -1,26 +1,30 @@
 {
   "title": [
-    "Melissa Hortman and husband killed in Minnesota lawmaker attacks",
-    "Vance Boelter leaving the US, fleeing to Canada? Officials provide ...",
-    "Police: 2 dead after fight leads to shooting in Miami Gardens",
-    "Air India Crash Shocker: Why Did AI171 Issue A MAYDAY Call ..."
+    "WHO Monitors New Covid Variant Spreading in America and Europe",
+    "New COVID Variant NB.1.8.1 'Nimbus' Spikes in US: The Top Symptoms - TODAY",
+    "New COVID variant swiftly gains ground in US; concern looms for summer wave",
+    "What to know about the new 'Nimbus' COVID variant - The Hill",
+    "Latest Covid Variant Now Driving Over a Third of U.S. Cases - Gizmodo"
   ],
   "adversity": [
     "High",
     "High",
-    "Medium",
-    "Very High"
+    "High",
+    "Very High",
+    "High"
   ],
   "reasoning": [
-    "This incident involves the fatal shooting of a state representative, indicating a significant adverse situation. The severity of the attack and the political implications contribute to its high adversity rating.",
-    "The ongoing manhunt for a suspect involved in the shooting of lawmakers signifies a serious threat to public safety and political stability, warranting a high adversity rating.",
-    "While the shooting led to fatalities, the event appears to stem from a localized incident rather than a broader systemic issue, resulting in a medium adversity rating.",
-    "The crash of a passenger flight with significant loss of life poses an extreme public and organizational safety concern, hence receiving a very high adversity rating."
+    "Multiple sources report on the same worrying mutations of the new Covid variant, indicating a significant concern for public health.",
+    "The increasing prevalence of the variant in the U.S. is corroborated by several major outlets, enhancing the perception of urgency and risk.",
+    "This information is reported consistently across multiple major publications, indicating a critical situation as the variant spreads.",
+    "With WHO monitoring the variant closely, the seriousness of its spread globally increases its adversity level.",
+    "This statistic is supported by multiple sources highlighting the severity of the outbreak, indicating a critical public health issue."
   ],
   "news": [
-    "A suspect allegedly posing as a police officer killed State Rep. Melissa Hortman and her husband in a targeted attack.",
-    "Vance Boelter, the man suspected of shooting two Minnesota lawmakers, remains on the loose more than 36 hours after the shootings.",
-    "According to Miami Gardens police, the shooting was reported at 2:37 a.m. outside the Cru lounge/hookah bar.",
-    "Air India Flight AI171 crashed in Ahmedabad's Meghani Nagar after issuing a MAYDAY call."
+    "NB.1.8.1 has mutations that could increase the virus's transmissibility and decrease the efficacy of certain neutralizing antibodies against it.",
+    "During the two-week period ending June 7, NB.1.8.1 accounted for an estimated 37% of cases in the U.S., up from 15% during the two-week period prior, per the latest data from the CDC.",
+    "In the latest tracking data from the Centers for Disease Control and Prevention, NB.1.8.1 is estimated to account for 37 percent of cases in the US. That's up from 15 percent two weeks ago.",
+    "The World Health Organization (WHO) is keeping an eye on a new COVID-19 variant called NB.1.8.1, or 'Nimbus,' that has spread across Europe, the Americas and the Western Pacific.",
+    "According to the CDC's latest Nowcast, covering the last two weeks through June 7, NB.1.8.1 is likely causing 37% of all covid-19 cases in the U.S."
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "title": [
+    "WHO Monitors New Covid Variant Spreading in America and Europe",
+    "New COVID Variant NB.1.8.1 'Nimbus' Spikes in US: The Top Symptoms - TODAY",
+    "New COVID variant swiftly gains ground in US; concern looms for summer wave",
+    "What to know about the new 'Nimbus' COVID variant - The Hill",
+    "Latest Covid Variant Now Driving Over a Third of U.S. Cases - Gizmodo"
+  ],
+  "adversity": [
+    "High",
+    "High",
+    "High",
+    "Very High",
+    "High"
+  ],
+  "reasoning": [
+    "Multiple sources report on the same worrying mutations of the new Covid variant, indicating a significant concern for public health.",
+    "The increasing prevalence of the variant in the U.S. is corroborated by several major outlets, enhancing the perception of urgency and risk.",
+    "This information is reported consistently across multiple major publications, indicating a critical situation as the variant spreads.",
+    "With WHO monitoring the variant closely, the seriousness of its spread globally increases its adversity level.",
+    "This statistic is supported by multiple sources highlighting the severity of the outbreak, indicating a critical public health issue."
+  ],
+  "news": [
+    "NB.1.8.1 has mutations that could increase the virus's transmissibility and decrease the efficacy of certain neutralizing antibodies against it.",
+    "During the two-week period ending June 7, NB.1.8.1 accounted for an estimated 37% of cases in the U.S., up from 15% during the two-week period prior, per the latest data from the CDC.",
+    "In the latest tracking data from the Centers for Disease Control and Prevention, NB.1.8.1 is estimated to account for 37 percent of cases in the US. That's up from 15 percent two weeks ago.",
+    "The World Health Organization (WHO) is keeping an eye on a new COVID-19 variant called NB.1.8.1, or 'Nimbus,' that has spread across Europe, the Americas and the Western Pacific.",
+    "According to the CDC's latest Nowcast, covering the last two weeks through June 7, NB.1.8.1 is likely causing 37% of all covid-19 cases in the U.S."
+  ]
+}
